@@ -13,7 +13,7 @@ from shutil import copyfile
 current_directory = os.getcwd() + "/Resources/"
 folder_name = input("Please enter the folder name:")
 
-if not os.path.exists(current_directory + "/Resources/" + folder_name):
+if not os.path.exists(current_directory + folder_name):
     raise Exception("The directory does not exist, please rerun the program and enter a proper directory.")
 
 source_directory = current_directory + folder_name + "/"
