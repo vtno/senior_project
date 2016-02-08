@@ -1,16 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f4d31011-a354-42c1-bf75-1bdbea3a41fa" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/CR92/01S20152.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/CR92_CSV/01S20152.csv" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Resources/CR74_CSV/CR74S20152.csv" afterPath="$PROJECT_DIR$/Resources/CR74_CSV/CR74S20152.csv" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/senior_project.iml" afterPath="$PROJECT_DIR$/.idea/senior_project.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/toCSV/CR92toCSV.py" afterPath="$PROJECT_DIR$/toCSV/CR92toCSV.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/toCSV/toCSV.py" afterPath="$PROJECT_DIR$/toCSV/toCSV.py" />
-    </list>
+    <list default="true" id="f4d31011-a354-42c1-bf75-1bdbea3a41fa" name="Default" comment="" />
     <ignored path="senior_project.iws" />
     <ignored path=".idea/workspace.xml" />
     <ignored path=".idea/dataSources.local.xml" />
@@ -35,20 +26,20 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="CR92toCSV.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="CR92toCSV.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/toCSV/CR92toCSV.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.3525641">
-              <caret line="11" column="29" selection-start-line="11" selection-start-column="29" selection-end-line="11" selection-end-column="29" />
+            <state vertical-scroll-proportion="0.0">
+              <caret line="22" column="0" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="toCSV.py" pinned="false" current-in-tab="false">
+      <file leaf-file-name="toCSV.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/toCSV/toCSV.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
+            <state vertical-scroll-proportion="0.48076922">
               <caret line="20" column="0" selection-start-line="20" selection-start-column="0" selection-end-line="21" selection-end-column="58" />
               <folding />
             </state>
@@ -353,9 +344,9 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="634" y="389" width="1397" height="790" extended-state="0" />
-    <editor active="false" />
+    <editor active="true" />
     <layout>
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24481031" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24481031" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32863188" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2693935" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -653,18 +644,18 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/toCSV/toCSV.py">
+    <entry file="file://$PROJECT_DIR$/toCSV/CR92toCSV.py">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="20" column="0" selection-start-line="20" selection-start-column="0" selection-end-line="21" selection-end-column="58" />
+          <caret line="22" column="0" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/toCSV/CR92toCSV.py">
+    <entry file="file://$PROJECT_DIR$/toCSV/toCSV.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.3525641">
-          <caret line="11" column="29" selection-start-line="11" selection-start-column="29" selection-end-line="11" selection-end-column="29" />
+        <state vertical-scroll-proportion="0.48076922">
+          <caret line="20" column="0" selection-start-line="20" selection-start-column="0" selection-end-line="21" selection-end-column="58" />
           <folding />
         </state>
       </provider>
