@@ -1,75 +1,22 @@
 __author__ = 'assaneesukatham'
 
-#Unused code
+#The code separates CR92 txt files with the \t delimeter
+#With the absence of "," , toCSV.py fails to convert the CR92 text files to csv (by renaming the extension) with separated values
 
-directory = "/Users/assaneesukatham/PycharmProjects/senior_project/Resources/CR92/"
-import glob
-def countCourses():
-    count = 0
-    sName = set()
-    sID = set()
-    '''
-    for filename in glob.glob(directory+"*.txt"):
-        input = open(filename,"r")
-        for line in input:
-            nline = line.split()
-            print(nline)
-            subjID = nline[0]
-            subjName = nline[1]
-            sName.add(subjName)
-            sID.add(subjID)
-    '''
-    input = open(directory + "21S20152.txt","r")
+import glob, os
+
+current_directory = os.getcwd() + "/Resources/CR92/"
+destination_directory = os.getcwd() + "/Resources/CR92_CSV"
+
+for filedir in glob.glob(current_directory + "*.txt"):
+    input = open(filedir,'r')
+    filename = filedir[filedir.rindex("/")+1 : filedir.rindex(".")]
+    #Check if the destination directory exists
+    if not os.path.exists(destination_directory):
+        os.makedirs(destination_directory)
+    output = open(os.getcwd() + "/Resources/CR92_CSV/" + filename + ".csv", "w")
     for line in input:
-        nline = line.split()
-        print(nline)
-        subjID = nline[0]
-        subjName = nline[1]
-        sName.add(subjName)
-        sID.add(subjID)
-    print(len(sName))
-    print(sName)
-    print(len(sID))
-    print(sID)
-    numberOfSubject = str(len(sID))
-
-    out = open("subject stats.txt",'w')
-    out.write("Total Number of Subject is: "+numberOfSubject)
-
-def getSubjectID(line):
-    index = line.index(" ")
-    subjID = line[:index]
-    line = line[index:]
-    getSubjectName(line)
-
-def getSubjectName(nline):
-        index = indexOfCredit(nline)
-        subjName = ""
-        for i in range(1,index-1):
-            subjName += nline[i]
-        return subjName
-
-def indexOfCredit(nline):
-        strRange = []
-        for i in range(0,100):
-            strRange[i] = str(i)
-        for i in range(0,100):
-            index = nline.index(strRange[i])
-            if(index != -1):
-                return index
-
-def toCsv():
-    for filedir in glob.glob(directory+"*.txt"):
-        input = open(filedir,'r')
-        filename = filedir.split("/")[-1].split(".")[0]
-        print(filename)
-        subjID = subjName = credit = prerequisite = dateMidterm = timeMidterm = dateFinal = timeFinal = ""
-        out = open(filename+".csv","w")
-        for line in input:
-            col = line.split()
-            print("contain "+str(len(col))+" columns")
-            for word in col:
-                out.write(word+",")
-            out.write("\n")
-
-countCourses()
+        split_line = line.split("\t")
+        for column in split_line:
+            output.write(column + ",")
+        output.write("\n")

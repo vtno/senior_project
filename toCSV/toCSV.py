@@ -7,8 +7,8 @@ __author__ = 'assaneesukatham'
 import glob, os
 from shutil import copyfile
 
-#Directory refers to where text files are stored
-#Directory default is /senior_project/Resources/
+#Source directory refers to where text files are stored
+#Current working directory (cwd) default is at /senior_project/Resources/
 #Put the folder containing text files under /senior_project/Resources/
 current_directory = os.getcwd() + "/Resources/"
 folder_name = input("Please enter the folder name:")
