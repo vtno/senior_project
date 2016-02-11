@@ -17,6 +17,7 @@ for filedir in glob.glob(current_directory + "*.txt"):
     output = open(os.getcwd() + "/Resources/CR92_CSV/" + filename + ".csv", "w")
     for line in input:
         split_line = line.split("\t")
-        for column in split_line:
-            output.write(column + ",")
-        output.write("\n")
+        print(split_line)
+        for i in range(0, len(split_line)-1):
+            output.write(split_line[i] + ",")
+        output.write(split_line[-1])

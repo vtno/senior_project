@@ -1,668 +1,334 @@
 3500230,ART/TECHNOLOGY    ,3  ,                                                                                ,          ,         ,          ,TDF      ,1  ,L/S  ,MO,  ,  ,  ,  ,  ,  ,1300-1600,FAA1 ,A112 ,STAFF                        ,                    ,                    ,                    ,60 ,16/01/2559 20:00
-,
 3500230,ART/TECHNOLOGY    ,3  ,                                                                                ,          ,         ,          ,TDF      ,1  ,STU  ,AR,  ,  ,  ,  ,  ,  ,AR-AR    ,     ,AR   ,STAFF                        ,                    ,                    ,                    ,60 ,16/01/2559 20:00
-,
 3500230,ART/TECHNOLOGY    ,3  ,                                                                                ,          ,         ,          ,TDF      ,4  ,LECT ,MO,  ,  ,  ,  ,  ,  ,1300-1400,     ,AR   ,STAFF                        ,                    ,                    ,                    ,40 ,16/01/2559 20:00
-,
 3500230,ART/TECHNOLOGY    ,3  ,                                                                                ,          ,         ,          ,TDF      ,4  ,STU  ,MO,  ,  ,  ,  ,  ,  ,1400-1600,     ,AR   ,STAFF                        ,                    ,                    ,                    ,40 ,16/01/2559 20:00
-,
 3500300,RSRCH RPT WRITING ,3  ,                                                                                ,          ,         ,          ,TDF      ,1  ,LECT ,TH,  ,  ,  ,  ,  ,  ,0900-1200,BRK  ,607  ,JSP                          ,                    ,                    ,                    ,60 ,16/01/2559 20:00
-,
 3500300,RSRCH RPT WRITING ,3  ,                                                                                ,          ,         ,          ,TDF      ,2  ,LECT ,MO,  ,  ,  ,  ,  ,  ,0900-1200,FAA2 ,B402 ,WAS                          ,                    ,                    ,                    ,40 ,16/01/2559 20:00
-,
 3500300,RSRCH RPT WRITING ,3  ,                                                                                ,          ,         ,          ,TDF      ,3  ,LECT ,TU,  ,  ,  ,  ,  ,  ,0900-1200,FA4  ,AR   ,DVP                          ,                    ,                    ,                    ,40 ,16/01/2559 20:00
-,
 3500300,RSRCH RPT WRITING ,3  ,                                                                                ,          ,         ,          ,TDF      ,4  ,LECT ,AR,  ,  ,  ,  ,  ,  ,AR-AR    ,FAA1 ,A2063,PPR                          ,                    ,                    ,                    ,30 ,16/01/2559 20:00
-,
 3500300,RSRCH RPT WRITING ,3  ,                                                                                ,          ,         ,          ,TDF      ,5  ,LECT ,FR,  ,  ,  ,  ,  ,  ,0900-1200,BRK  ,302  ,NPR                          ,                    ,                    ,                    ,30 ,16/01/2559 20:00
-,
 3500300,RSRCH RPT WRITING ,3  ,                                                                                ,          ,         ,          ,TDF      ,6  ,LECT ,TU,  ,  ,  ,  ,  ,  ,0900-1200,BRK  ,604  ,VVD                          ,                    ,                    ,                    ,40 ,16/01/2559 20:00
-,
 3500602,SEM PHIL AES FA   ,3  ,                                                                                ,          ,         ,          ,TDF      ,1  ,SMNA ,AR,  ,  ,  ,  ,  ,  ,AR-AR    ,BRK  ,301  ,KPV                          ,                    ,                    ,                    ,25 ,16/01/2559 20:00
-,
 3500602,SEM PHIL AES FA   ,3  ,                                                                                ,          ,         ,          ,TDF      ,2  ,SMNA ,AR,  ,  ,  ,  ,  ,  ,AR-AR    ,BRK  ,301  ,KPV                          ,                    ,                    ,                    ,25 ,16/01/2559 20:00
-,
 3500604,ADV CRE THNK      ,3  ,                                                                                ,          ,         ,          ,TDF      ,1  ,DISC ,AR,  ,  ,  ,  ,  ,  ,AR-AR    ,BRK  ,301  ,ASB                          ,                    ,                    ,                    ,25 ,16/01/2559 20:00
-,
 3500604,ADV CRE THNK      ,3  ,                                                                                ,          ,         ,          ,TDF      ,2  ,DISC ,WE,  ,  ,  ,  ,  ,  ,IA-IA    ,FAA1 ,A301 ,STAFF                        ,                    ,                    ,                    ,25 ,16/01/2559 20:00
-,
 3500604,ADV CRE THNK      ,3  ,                                                                                ,          ,         ,          ,TDF      ,3  ,DISC ,AR,  ,  ,  ,  ,  ,  ,AR-AR    ,     ,AR   ,STAFF                        ,                    ,                    ,                    ,10 ,16/01/2559 20:00
-,
 3500612,SEM FAA           ,3  ,                                                                                ,          ,         ,          ,TDF      ,1  ,SMNA ,AR,  ,  ,  ,  ,  ,  ,AR-AR    ,BRK  ,609  ,BBS                          ,                    ,                    ,                    ,30 ,16/01/2559 20:00
-,
 3500612,SEM FAA           ,3  ,                                                                                ,          ,         ,          ,TDF      ,2  ,SMNA ,AR,  ,  ,  ,  ,  ,  ,AR-AR    ,BRK  ,308  ,STAFF                        ,                    ,                    ,                    ,25 ,16/01/2559 20:00
-,
 3500826,DISSERTATION      ,36 ,                                                                                ,          ,         ,          ,TDF      ,1  ,IDPS ,IA,  ,  ,  ,  ,  ,  ,IA-IA    ,FAA1 ,IA   ,STAFF                        ,                    ,                    ,                    ,70 ,16/01/2559 20:00
-,
 3500894,DOC DISSERT SEM   ,0  ,                                                                                ,          ,         ,          ,TDF      ,1  ,LECT ,IA,  ,  ,  ,  ,  ,  ,IA-IA    ,FAA1 ,IA   ,STAFF                        ,                    ,                    ,                    ,70 ,16/01/2559 20:00
-,
 3501121,HIST WEST ART II  ,3  ,3501120                                                                         ,          ,         ,          ,TDF      ,1  ,LECT ,WE,  ,  ,  ,  ,  ,  ,0900-1200,BRK  ,604  ,CSC                          ,                    ,                    ,                    ,60 ,16/01/2559 20:00
-,
 3501141,DRAWING II        ,3  ,3501140                                                                         ,          ,         ,          ,TDF      ,1  ,LECT ,TU,  ,  ,  ,  ,  ,  ,0900-1000,FAA2 ,AR   ,STAFF                        ,                    ,                    ,                    ,50 ,16/01/2559 20:00
-,
 3501141,DRAWING II        ,3  ,3501140                                                                         ,          ,         ,          ,TDF      ,1  ,STU  ,TU,  ,  ,  ,  ,  ,  ,1000-1600,FAA2 ,AR   ,STAFF                        ,                    ,                    ,                    ,50 ,16/01/2559 20:00
-,
 3501141,DRAWING II        ,3  ,3501140                                                                         ,          ,         ,          ,TDF      ,2  ,LECT ,AR,  ,  ,  ,  ,  ,  ,AR-AR    ,FAA1 ,A112 ,TCS                          ,                    ,                    ,                    ,30 ,16/01/2559 20:00
-,
 3501141,DRAWING II        ,3  ,3501140                                                                         ,          ,         ,          ,TDF      ,2  ,STU  ,WE,  ,  ,  ,  ,  ,  ,1000-1500,FAA1 ,A112 ,TCS                          ,                    ,                    ,                    ,30 ,16/01/2559 20:00
-,
 3501141,DRAWING II        ,3  ,3501140                                                                         ,          ,         ,          ,TDF      ,3  ,LECT ,AR,  ,  ,  ,  ,  ,  ,AR-AR    ,FAA1 ,A112 ,TCS                          ,                    ,                    ,                    ,30 ,16/01/2559 20:00
-,
 3501141,DRAWING II        ,3  ,3501140                                                                         ,          ,         ,          ,TDF      ,3  ,STU  ,WE,  ,  ,  ,  ,  ,  ,1000-1500,FAA1 ,A112 ,TCS                          ,                    ,                    ,                    ,30 ,16/01/2559 20:00
-,
 3501141,DRAWING II        ,3  ,3501140                                                                         ,          ,         ,          ,TDF      ,4  ,LECT ,AR,  ,  ,  ,  ,  ,  ,AR-AR    ,FAA1 ,A112 ,TCS                          ,                    ,                    ,                    ,30 ,16/01/2559 20:00
-,
 3501141,DRAWING II        ,3  ,3501140                                                                         ,          ,         ,          ,TDF      ,4  ,STU  ,WE,  ,  ,  ,  ,  ,  ,1000-1500,FAA1 ,A112 ,TCS                          ,                    ,                    ,                    ,30 ,16/01/2559 20:00
-,
 3501141,DRAWING II        ,3  ,3501140                                                                         ,          ,         ,          ,TDF      ,5  ,LECT ,AR,  ,  ,  ,  ,  ,  ,AR-AR    ,FAA1 ,A112 ,TCS                          ,                    ,                    ,                    ,30 ,16/01/2559 20:00
-,
 3501141,DRAWING II        ,3  ,3501140                                                                         ,          ,         ,          ,TDF      ,5  ,STU  ,WE,  ,  ,  ,  ,  ,  ,1000-1500,FAA1 ,A112 ,TCS                          ,                    ,                    ,                    ,30 ,16/01/2559 20:00
-,
 3501215,THAI ARTS II      ,3  ,3501214                                                                         ,          ,         ,          ,TDF      ,1  ,L/S  ,WE,  ,  ,  ,  ,  ,  ,1300-1600,BRK  ,607  ,JSP                          ,                    ,                    ,                    ,60 ,16/01/2559 20:00
-,
 3501215,THAI ARTS II      ,3  ,3501214                                                                         ,          ,         ,          ,TDF      ,1  ,STU  ,AR,  ,  ,  ,  ,  ,  ,AR-AR    ,     ,AR   ,JSP                          ,                    ,                    ,                    ,60 ,16/01/2559 20:00
-,
 3501217,EAR MOD ART       ,3  ,                                                                                ,          ,         ,          ,TDF      ,1  ,LECT ,MO,  ,  ,  ,  ,  ,  ,0900-1200,BRK  ,302  ,STAFF                        ,VISUAL ARTS         ,                    ,                    ,80 ,16/01/2559 20:00
-,
 3501224,HISTORY THAI ART  ,3  ,3501120                                                                         ,          ,         ,          ,TDF      ,1  ,LECT ,FR,  ,  ,  ,  ,  ,  ,0900-1200,BRK  ,402  ,JSP                          ,                    ,                    ,                    ,50 ,16/01/2559 20:00
-,
 3501224,HISTORY THAI ART  ,3  ,3501120                                                                         ,          ,         ,          ,TDF      ,2  ,LECT ,FR,  ,  ,  ,  ,  ,  ,0900-1200,BRK  ,402  ,JSP                          ,                    ,                    ,                    ,50 ,16/01/2559 20:00
-,
 3501224,HISTORY THAI ART  ,3  ,3501120                                                                         ,          ,         ,          ,TDF      ,3  ,LECT ,FR,  ,  ,  ,  ,  ,  ,AR-AR    ,BRK  ,402  ,JSP                          ,                    ,                    ,                    ,40 ,16/01/2559 20:00
-,
 3501250,PAINTING II       ,3  ,3501150                                                                         ,          ,         ,          ,TDF      ,1  ,LECT ,FR,  ,  ,  ,  ,  ,  ,0900-1000,FAA2 ,B502 ,JPC                          ,                    ,                    ,                    ,35 ,16/01/2559 20:00
-,
 3501250,PAINTING II       ,3  ,3501150                                                                         ,          ,         ,          ,TDF      ,1  ,STU  ,FR,  ,  ,  ,  ,  ,  ,1000-1600,FAA2 ,B502 ,JPC                          ,                    ,                    ,                    ,35 ,16/01/2559 20:00
-,
 3501260,SCULPTURE II      ,3  ,3501160                                                                         ,          ,         ,          ,TDF      ,1  ,LECT ,FR,  ,  ,  ,  ,  ,  ,0900-1000,FA3  ,101  ,TPY                          ,                    ,                    ,                    ,50 ,16/01/2559 20:00
-,
 3501260,SCULPTURE II      ,3  ,3501160                                                                         ,          ,         ,          ,TDF      ,1  ,STU  ,FR,  ,  ,  ,  ,  ,  ,1000-1600,FA3  ,101  ,TPY                          ,                    ,                    ,                    ,50 ,16/01/2559 20:00
-,
 3501270,PRINTMAKING II    ,3  ,3501170                                                                         ,          ,         ,          ,TDF      ,1  ,LECT ,TH,  ,  ,  ,  ,  ,  ,0900-1000,FA3  ,104  ,SEK                          ,                    ,                    ,                    ,40 ,16/01/2559 20:00
-,
 3501270,PRINTMAKING II    ,3  ,3501170                                                                         ,          ,         ,          ,TDF      ,1  ,STU  ,TH,  ,  ,  ,  ,  ,  ,1000-1600,FA3  ,104  ,SEK                          ,                    ,                    ,                    ,40 ,16/01/2559 20:00
-,
 3501340,DRAWING IV        ,3  ,3501240                                                                         ,          ,         ,          ,TDF      ,1  ,LECT ,WE,  ,  ,  ,  ,  ,  ,0900-1000,FA3  ,105  ,KIS                          ,                    ,                    ,                    ,30 ,16/01/2559 20:00
-,
 3501340,DRAWING IV        ,3  ,3501240                                                                         ,          ,         ,          ,TDF      ,1  ,STU  ,WE,  ,  ,  ,  ,  ,  ,1000-1600,FA3  ,105  ,KIS                          ,                    ,                    ,                    ,30 ,16/01/2559 20:00
-,
 3501350,PAINTING IV       ,3  ,3501251                                                                         ,          ,         ,          ,TDF      ,1  ,LECT ,TU,  ,  ,  ,  ,  ,  ,0900-1000,FAA1 ,AR   ,JPC                          ,                    ,                    ,                    ,15 ,16/01/2559 20:00
-,
 3501350,PAINTING IV       ,3  ,3501251                                                                         ,          ,         ,          ,TDF      ,1  ,STU  ,TU,  ,  ,  ,  ,  ,  ,1000-1600,FAA1 ,AR   ,JPC                          ,                    ,                    ,                    ,15 ,16/01/2559 20:00
-,
 3501360,SCULPTURE IV      ,3  ,3501160                                                                         ,          ,         ,          ,TDF      ,1  ,LECT ,TU,  ,  ,  ,  ,  ,  ,0900-1000,FA3  ,101  ,TPY                          ,                    ,                    ,                    ,15 ,16/01/2559 20:00
-,
 3501360,SCULPTURE IV      ,3  ,3501160                                                                         ,          ,         ,          ,TDF      ,1  ,STU  ,TU,  ,  ,  ,  ,  ,  ,1000-1600,FA3  ,101  ,TPY                          ,                    ,                    ,                    ,15 ,16/01/2559 20:00
-,
 3501370,PRINTMAKING IV    ,3  ,3501271                                                                         ,          ,         ,          ,TDF      ,1  ,LECT ,AR,  ,  ,  ,  ,  ,  ,AR-AR    ,FA3  ,104  ,JPC                          ,                    ,                    ,                    ,15 ,16/01/2559 20:00
-,
 3501370,PRINTMAKING IV    ,3  ,3501271                                                                         ,          ,         ,          ,TDF      ,1  ,STU  ,AR,  ,  ,  ,  ,  ,  ,AR-AR    ,FA3  ,104  ,JPC                          ,                    ,                    ,                    ,15 ,16/01/2559 20:00
-,
 3501380,PHOTOGRPHC ART IV ,3  ,3501281                                                                         ,          ,         ,          ,TDF      ,1  ,LECT ,TU,  ,  ,  ,  ,  ,  ,0900-1000,FAA1 ,A211 ,KPV                          ,                    ,                    ,                    ,20 ,16/01/2559 20:00
-,
 3501380,PHOTOGRPHC ART IV ,3  ,3501281                                                                         ,          ,         ,          ,TDF      ,1  ,STU  ,TU,  ,  ,  ,  ,  ,  ,1000-1600,FAA1 ,A211 ,KPV                          ,                    ,                    ,                    ,20 ,16/01/2559 20:00
-,
 3501391,EXPRM VISUAL ARTS ,3  ,3501260                                                                         ,          ,         ,          ,TDF      ,1  ,LECT ,TU,  ,  ,  ,  ,  ,  ,0900-1000,FAA1 ,A211 ,KPV                          ,VISUAL ARTS         ,                    ,                    ,30 ,16/01/2559 20:00
-,
 3501391,EXPRM VISUAL ARTS ,3  ,3501260                                                                         ,          ,         ,          ,TDF      ,1  ,STU  ,TU,  ,  ,  ,  ,  ,  ,1000-1600,FAA1 ,A211 ,KPV                          ,                    ,                    ,                    ,30 ,16/01/2559 20:00
-,
 3501395,VIDEO ART         ,3  ,                                                                                ,          ,         ,          ,TDF      ,1  ,DISC ,WE,  ,  ,  ,  ,  ,  ,0900-1100,FAA1 ,A211 ,KPS                          ,                    ,                    ,                    ,20 ,16/01/2559 20:00
-,
 3501395,VIDEO ART         ,3  ,                                                                                ,          ,         ,          ,TDF      ,1  ,STU  ,WE,  ,  ,  ,  ,  ,  ,1100-1600,FAA1 ,A211 ,KPS                          ,                    ,                    ,                    ,20 ,16/01/2559 20:00
-,
 3501397,ADV CRE VIS ARTS  ,3  ,3501396                                                                         ,          ,         ,          ,TDF      ,1  ,LECT ,MO,  ,  ,  ,  ,  ,  ,0900-1000,FA3  ,104  ,KPV                          ,                    ,                    ,                    ,40 ,16/01/2559 20:00
-,
 3501397,ADV CRE VIS ARTS  ,3  ,3501396                                                                         ,          ,         ,          ,TDF      ,1  ,STU  ,MO,  ,  ,  ,  ,  ,  ,1000-1600,FA3  ,104  ,KPV                          ,                    ,                    ,                    ,40 ,16/01/2559 20:00
-,
 3501490,SNR PROJ VIS ARTS ,6  ,3501418,SENIOR STANDING                                                         ,          ,         ,          ,TDF      ,1  ,L/P  ,TH,  ,  ,  ,  ,  ,  ,0900-1600,FAA1 ,AR   ,STAFF                        ,                    ,                    ,                    ,40 ,16/01/2559 20:00
-,
 3501490,SNR PROJ VIS ARTS ,6  ,3501418,SENIOR STANDING                                                         ,          ,         ,          ,TDF      ,1  ,PRAC ,IA,  ,  ,  ,  ,  ,  ,IA-IA    ,FAA1 ,IA   ,STAFF                        ,                    ,                    ,                    ,40 ,16/01/2559 20:00
-,
 3502101,INTRO CREATIVE ART,3  ,                                                                                ,          ,         ,          ,TDF      ,1  ,L/S  ,FR,  ,  ,  ,  ,  ,  ,1300-1600,BRK  ,601  ,SSM                          ,                    ,                    ,                    ,60 ,16/01/2559 20:00
-,
 3502101,INTRO CREATIVE ART,3  ,                                                                                ,          ,         ,          ,TDF      ,1  ,STU  ,AR,  ,  ,  ,  ,  ,  ,AR-AR    ,     ,AR   ,SSM                          ,                    ,                    ,                    ,60 ,16/01/2559 20:00
-,
 3502141,CREATIVE DESN II  ,3  ,3502140                                                                         ,          ,         ,          ,TDF      ,1  ,LECT ,TH,  ,  ,  ,  ,  ,  ,0900-1000,FAA2 ,AR   ,STAFF                        ,VISUAL ARTS         ,                    ,                    ,40 ,16/01/2559 20:00
-,
 3502141,CREATIVE DESN II  ,3  ,3502140                                                                         ,          ,         ,          ,TDF      ,1  ,STU  ,TH,  ,  ,  ,  ,  ,  ,1000-1600,FAA2 ,AR   ,STAFF                        ,                    ,                    ,                    ,40 ,16/01/2559 20:00
-,
 3502141,CREATIVE DESN II  ,3  ,3502140                                                                         ,          ,         ,          ,TDF      ,2  ,LECT ,AR,  ,  ,  ,  ,  ,  ,AR-AR    ,BRK  ,601  ,UDY                          ,                    ,                    ,                    ,60 ,16/01/2559 20:00
-,
 3502141,CREATIVE DESN II  ,3  ,3502140                                                                         ,          ,         ,          ,TDF      ,2  ,STU  ,TH,  ,  ,  ,  ,  ,  ,1000-1500,BRK  ,601  ,UDY                          ,                    ,                    ,                    ,60 ,16/01/2559 20:00
-,
 3502190,MATERL/PROCESS I  ,3  ,                                                                                ,          ,         ,          ,TDF      ,1  ,LECT ,AR,  ,  ,  ,  ,  ,  ,AR-AR    ,     ,AR   ,STAFF                        ,                    ,                    ,                    ,5  ,16/01/2559 20:00
-,
 3502190,MATERL/PROCESS I  ,3  ,                                                                                ,          ,         ,          ,TDF      ,1  ,STU  ,AR,  ,  ,  ,  ,  ,  ,AR-AR    ,     ,AR   ,STAFF                        ,                    ,                    ,                    ,5  ,16/01/2559 20:00
-,
 3502223,HIST CREAT ARTS II,3  ,3502222                                                                         ,          ,         ,          ,TDF      ,1  ,LECT ,TH,  ,  ,  ,  ,  ,  ,0900-1200,FAA1 ,A112 ,PVT                          ,                    ,                    ,                    ,60 ,16/01/2559 20:00
-,
 3502242,CREATIVE PRES I   ,3  ,C.F.                                                                            ,          ,         ,          ,TDF      ,1  ,L/S  ,TU,  ,  ,  ,  ,  ,  ,0900-1200,FAA2 ,B404 ,SSN                          ,                    ,                    ,                    ,50 ,16/01/2559 20:00
-,
 3502242,CREATIVE PRES I   ,3  ,C.F.                                                                            ,          ,         ,          ,TDF      ,1  ,STU  ,AR,  ,  ,  ,  ,  ,  ,AR-AR    ,     ,AR   ,SSN                          ,                    ,                    ,                    ,50 ,16/01/2559 20:00
-,
 3502264,CERAMIC TECHNIQUES,3  ,C.F.                                                                            ,          ,         ,          ,TDF      ,1  ,L/S  ,TH,  ,  ,  ,  ,  ,  ,1300-1600,FA4  ,AR   ,WSJ                          ,                    ,                    ,                    ,20 ,16/01/2559 20:00
-,
 3502264,CERAMIC TECHNIQUES,3  ,C.F.                                                                            ,          ,         ,          ,TDF      ,1  ,STU  ,AR,  ,  ,  ,  ,  ,  ,AR-AR    ,     ,AR   ,WSJ                          ,                    ,                    ,                    ,20 ,16/01/2559 20:00
-,
 3502271,HIST FASHION      ,3  ,                                                                                ,          ,         ,          ,TDF      ,1  ,LECT ,TU,  ,  ,  ,  ,  ,  ,0900-1200,FAA2 ,B402 ,PVT                          ,                    ,                    ,                    ,40 ,16/01/2559 20:00
-,
 3502271,HIST FASHION      ,3  ,                                                                                ,          ,         ,          ,TDF      ,2  ,LECT ,AR,  ,  ,  ,  ,  ,  ,AR-AR    ,FAA2 ,B402 ,PVT                          ,                    ,                    ,                    ,5  ,16/01/2559 20:00
-,
 3502290,MATERL/PROCESS II ,3  ,3502190                                                                         ,          ,         ,          ,TDF      ,1  ,LECT ,TU,  ,  ,  ,  ,  ,  ,0900-1000,FAA1 ,A112 ,SLW                          ,                    ,                    ,                    ,60 ,16/01/2559 20:00
-,
 3502290,MATERL/PROCESS II ,3  ,3502190                                                                         ,          ,         ,          ,TDF      ,1  ,STU  ,TU,  ,  ,  ,  ,  ,  ,1000-1600,FAA1 ,A112 ,SLW                          ,                    ,                    ,                    ,60 ,16/01/2559 20:00
-,
 3502290,MATERL/PROCESS II ,3  ,3502190                                                                         ,          ,         ,          ,TDF      ,2  ,LECT ,AR,  ,  ,  ,  ,  ,  ,AR-AR    ,BRK  ,103  ,PUK                          ,                    ,                    ,                    ,60 ,16/01/2559 20:00
-,
 3502290,MATERL/PROCESS II ,3  ,3502190                                                                         ,          ,         ,          ,TDF      ,2  ,STU  ,TU,  ,  ,  ,  ,  ,  ,1000-1500,BRK  ,103  ,PUK                          ,                    ,                    ,                    ,60 ,16/01/2559 20:00
-,
 3502291,CREAT PHOTOGRAPHY ,3  ,C.F.                                                                            ,          ,         ,          ,TDF      ,1  ,L/S  ,TH,  ,  ,  ,  ,  ,  ,0900-1200,FAA2 ,B402 ,DVP                          ,                    ,                    ,                    ,60 ,16/01/2559 20:00
-,
 3502291,CREAT PHOTOGRAPHY ,3  ,C.F.                                                                            ,          ,         ,          ,TDF      ,1  ,STU  ,AR,  ,  ,  ,  ,  ,  ,AR-AR    ,     ,AR   ,WSJ                          ,                    ,                    ,                    ,60 ,16/01/2559 20:00
-,
 3502310,COMP GRPHC DESN I ,3  ,C.F.                                                                            ,          ,         ,          ,TDF      ,1  ,L/S  ,FR,  ,  ,  ,  ,  ,  ,0900-1200,FAA2 ,B402 ,STAFF                        ,                    ,                    ,                    ,60 ,16/01/2559 20:00
-,
 3502310,COMP GRPHC DESN I ,3  ,C.F.                                                                            ,          ,         ,          ,TDF      ,1  ,STU  ,AR,  ,  ,  ,  ,  ,  ,AR-AR    ,     ,AR   ,STAFF                        ,                    ,                    ,                    ,60 ,16/01/2559 20:00
-,
 3502350,CREATVE GRPHCS II ,3  ,3502250                                                                         ,          ,         ,          ,TDF      ,1  ,L/S  ,FR,  ,  ,  ,  ,  ,  ,1300-1600,FAA2 ,B402 ,SDB                          ,                    ,                    ,                    ,30 ,16/01/2559 20:00
-,
 3502350,CREATVE GRPHCS II ,3  ,3502250                                                                         ,          ,         ,          ,TDF      ,1  ,STU  ,AR,  ,  ,  ,  ,  ,  ,AR-AR    ,     ,AR   ,SDB                          ,                    ,                    ,                    ,30 ,16/01/2559 20:00
-,
 3502356,ADVERTISING DES I ,3  ,C.F.                                                                            ,          ,         ,          ,TDF      ,1  ,L/S  ,MO,  ,  ,  ,  ,  ,  ,1300-1600,FAA2 ,B403 ,ASB                          ,                    ,                    ,                    ,35 ,16/01/2559 20:00
-,
 3502356,ADVERTISING DES I ,3  ,C.F.                                                                            ,          ,         ,          ,TDF      ,1  ,STU  ,AR,  ,  ,  ,  ,  ,  ,AR-AR    ,     ,AR   ,ASB                          ,                    ,                    ,                    ,35 ,16/01/2559 20:00
-,
 3502356,ADVERTISING DES I ,3  ,C.F.                                                                            ,          ,         ,          ,TDF      ,2  ,LECT ,AR,  ,  ,  ,  ,  ,  ,AR-AR    ,FAA2 ,B404 ,STAFF                        ,                    ,                    ,                    ,12 ,16/01/2559 20:00
-,
 3502356,ADVERTISING DES I ,3  ,C.F.                                                                            ,          ,         ,          ,TDF      ,2  ,STU  ,AR,  ,  ,  ,  ,  ,  ,AR-AR    ,FAA2 ,B403 ,STAFF                        ,                    ,                    ,                    ,12 ,16/01/2559 20:00
-,
 3502360,CREATVE CRAFTS II ,3  ,3502260                                                                         ,          ,         ,          ,TDF      ,1  ,L/S  ,WE,  ,  ,  ,  ,  ,  ,1300-1600,FA4  ,AR   ,WSJ                          ,                    ,                    ,                    ,10 ,16/01/2559 20:00
-,
 3502360,CREATVE CRAFTS II ,3  ,3502260                                                                         ,          ,         ,          ,TDF      ,1  ,STU  ,AR,  ,  ,  ,  ,  ,  ,AR-AR    ,     ,AR   ,WSJ                          ,                    ,                    ,                    ,10 ,16/01/2559 20:00
-,
 3502370,CREATIVE DEC II   ,3  ,3502270                                                                         ,          ,         ,          ,TDF      ,1  ,L/S  ,FR,  ,  ,  ,  ,  ,  ,1300-1600,FAA1 ,A112 ,STAFF                        ,                    ,                    ,                    ,20 ,16/01/2559 20:00
-,
 3502370,CREATIVE DEC II   ,3  ,3502270                                                                         ,          ,         ,          ,TDF      ,1  ,STU  ,AR,  ,  ,  ,  ,  ,  ,AR-AR    ,     ,AR   ,STAFF                        ,                    ,                    ,                    ,20 ,16/01/2559 20:00
-,
 3502374,CREAT TEXTILES I  ,3  ,C.F.                                                                            ,          ,         ,          ,TDF      ,1  ,L/S  ,TU,  ,  ,  ,  ,  ,  ,1300-1600,BRK  ,601  ,SSM                          ,                    ,                    ,                    ,20 ,16/01/2559 20:00
-,
 3502374,CREAT TEXTILES I  ,3  ,C.F.                                                                            ,          ,         ,          ,TDF      ,1  ,STU  ,AR,  ,  ,  ,  ,  ,  ,AR-AR    ,     ,AR   ,SSM                          ,                    ,                    ,                    ,20 ,16/01/2559 20:00
-,
 3502376,FASHION ACC DES I ,3  ,C.F.                                                                            ,          ,         ,          ,TDF      ,1  ,L/S  ,WE,  ,  ,  ,  ,  ,  ,1300-1600,BRK  ,103  ,STAFF                        ,                    ,                    ,                    ,20 ,16/01/2559 20:00
-,
 3502376,FASHION ACC DES I ,3  ,C.F.                                                                            ,          ,         ,          ,TDF      ,1  ,STU  ,AR,  ,  ,  ,  ,  ,  ,AR-AR    ,     ,AR   ,STAFF                        ,                    ,                    ,                    ,20 ,16/01/2559 20:00
-,
 3502380,CREATIVE EXH II   ,3  ,3502280                                                                         ,          ,         ,          ,TDF      ,1  ,L/S  ,TH,  ,  ,  ,  ,  ,  ,1300-1600,FAA2 ,B404 ,RPK                          ,                    ,                    ,                    ,10 ,16/01/2559 20:00
-,
 3502380,CREATIVE EXH II   ,3  ,3502280                                                                         ,          ,         ,          ,TDF      ,1  ,STU  ,AR,  ,  ,  ,  ,  ,  ,AR-AR    ,     ,AR   ,RPK                          ,                    ,                    ,                    ,10 ,16/01/2559 20:00
-,
 3502400,INDEPENDENT STUDY ,3  ,                                                                                ,          ,         ,          ,TDF      ,1  ,L/S  ,FR,  ,  ,  ,  ,  ,  ,1300-1600,FAA2 ,B404 ,STAFF                        ,                    ,                    ,                    ,35 ,16/01/2559 20:00
-,
 3502400,INDEPENDENT STUDY ,3  ,                                                                                ,          ,         ,          ,TDF      ,1  ,STU  ,AR,  ,  ,  ,  ,  ,  ,AR-AR    ,     ,AR   ,STAFF                        ,                    ,                    ,                    ,35 ,16/01/2559 20:00
-,
 3502450,CREATVE GRPHCS IV ,3  ,3502351                                                                         ,          ,         ,          ,TDF      ,1  ,L/S  ,TU,  ,  ,  ,  ,  ,  ,1300-1600,FAA2 ,B402 ,WAS                          ,                    ,                    ,                    ,20 ,16/01/2559 20:00
-,
 3502450,CREATVE GRPHCS IV ,3  ,3502351                                                                         ,          ,         ,          ,TDF      ,1  ,STU  ,TH,  ,  ,  ,  ,  ,  ,1300-1600,FAA2 ,B403 ,WAS                          ,                    ,                    ,                    ,20 ,16/01/2559 20:00
-,
 3502460,CREATIVE CRAFT IV ,3  ,3502361                                                                         ,          ,         ,          ,TDF      ,1  ,L/S  ,MO,  ,  ,  ,  ,  ,  ,1300-1600,FA4  ,AR   ,SLW                          ,                    ,                    ,                    ,10 ,16/01/2559 20:00
-,
 3502460,CREATIVE CRAFT IV ,3  ,3502361                                                                         ,          ,         ,          ,TDF      ,1  ,STU  ,WE,  ,  ,  ,  ,  ,  ,1300-1600,FA4  ,AR   ,SLW                          ,                    ,                    ,                    ,10 ,16/01/2559 20:00
-,
 3502470,CREATIVE DEC IV   ,3  ,3502371                                                                         ,          ,         ,          ,TDF      ,1  ,L/S  ,MO,  ,  ,  ,  ,  ,  ,0900-1200,FAA1 ,A112 ,PUK                          ,                    ,                    ,                    ,20 ,16/01/2559 20:00
-,
 3502470,CREATIVE DEC IV   ,3  ,3502371                                                                         ,          ,         ,          ,TDF      ,1  ,STU  ,TH,  ,  ,  ,  ,  ,  ,1300-1600,BRK  ,103  ,PUK                          ,                    ,                    ,                    ,20 ,16/01/2559 20:00
-,
 3502480,CREATIVE EXH IV   ,3  ,3502381                                                                         ,          ,         ,          ,TDF      ,1  ,LECT ,AR,  ,  ,  ,  ,  ,  ,AR-AR    ,BRK  ,601  ,SSN                          ,                    ,                    ,                    ,10 ,16/01/2559 20:00
-,
 3502480,CREATIVE EXH IV   ,3  ,3502381                                                                         ,          ,         ,          ,TDF      ,1  ,STU  ,AR,  ,  ,  ,  ,  ,  ,AR-AR    ,BRK  ,601  ,SSN                          ,                    ,                    ,                    ,10 ,16/01/2559 20:00
-,
 3502490,SNR PROJ CRE ARTS ,6  ,3502418                                                                         ,          ,         ,          ,TDF      ,1  ,LECT ,IA,  ,  ,  ,  ,  ,  ,IA-IA    ,FAA2 ,B402 ,STAFF                        ,CREATIVE ARTS       ,                    ,                    ,60 ,16/01/2559 20:00
-,
 3502490,SNR PROJ CRE ARTS ,6  ,3502418                                                                         ,          ,         ,          ,TDF      ,1  ,PRAC ,IA,  ,  ,  ,  ,  ,  ,IA-IA    ,FAA2 ,B402 ,STAFF                        ,                    ,                    ,                    ,60 ,16/01/2559 20:00
-,
 3502512,CRE THEORY        ,3  ,                                                                                ,          ,         ,          ,TDF      ,1  ,LECT ,FR,  ,  ,  ,  ,  ,  ,1800-2100,FAA2 ,B402 ,ASB                          ,CREATIVE ARTS       ,                    ,                    ,20 ,16/01/2559 20:00
-,
 3502514,SEM CRE ARTS      ,3  ,                                                                                ,          ,         ,          ,TDF      ,1  ,DISC ,AR,  ,  ,  ,  ,  ,  ,AR-AR    ,FAA2 ,B402 ,TCS                          ,                    ,                    ,                    ,40 ,16/01/2559 20:00
-,
 3502514,SEM CRE ARTS      ,3  ,                                                                                ,          ,         ,          ,TDF      ,2  ,DISC ,AR,  ,  ,  ,  ,  ,  ,AR-AR    ,FA4  ,201  ,TCS                          ,                    ,                    ,                    ,20 ,16/01/2559 20:00
-,
 3502515,SEM CRE GRA       ,3  ,                                                                                ,          ,         ,          ,TDF      ,1  ,DISC ,AR,  ,  ,  ,  ,  ,  ,AR-AR    ,FAA2 ,B403 ,SWK                          ,                    ,                    ,                    ,30 ,16/01/2559 20:00
-,
 3502515,SEM CRE GRA       ,3  ,                                                                                ,          ,         ,          ,TDF      ,2  ,DISC ,TU,  ,  ,  ,  ,  ,  ,1800-2100,FAA2 ,B403 ,STAFF                        ,CREATIVE ARTS       ,                    ,                    ,30 ,16/01/2559 20:00
-,
 3502516,HIST CRE GRA      ,3  ,                                                                                ,          ,         ,          ,TDF      ,1  ,LECT ,AR,  ,  ,  ,  ,  ,  ,AR-AR    ,FAA2 ,B404 ,PVT,SDB                      ,                    ,                    ,                    ,30 ,16/01/2559 20:00
-,
 3502516,HIST CRE GRA      ,3  ,                                                                                ,          ,         ,          ,TDF      ,2  ,LECT ,WE,  ,  ,  ,  ,  ,  ,1800-2100,FAA2 ,B402 ,STAFF                        ,                    ,                    ,                    ,30 ,16/01/2559 20:00
-,
 3502525,SEM FASH/TEXT     ,3  ,                                                                                ,          ,         ,          ,TDF      ,1  ,SMNA ,AR,  ,  ,  ,  ,  ,  ,AR-AR    ,FAA2 ,B403 ,SSM                          ,                    ,                    ,                    ,30 ,16/01/2559 20:00
-,
 3502526,HIST FASH/TEXT    ,3  ,                                                                                ,          ,         ,          ,TDF      ,1  ,LECT ,AR,  ,  ,  ,  ,  ,  ,AR-AR    ,FAA2 ,B402 ,PVT                          ,                    ,                    ,                    ,40 ,16/01/2559 20:00
-,
 3502551,ADV CRE GRA :3D   ,3  ,C.F.                                                                            ,          ,         ,          ,TDF      ,1  ,LECT ,AR,  ,  ,  ,  ,  ,  ,AR-AR    ,FAA2 ,B404 ,UDY                          ,                    ,                    ,                    ,30 ,16/01/2559 20:00
-,
 3502551,ADV CRE GRA :3D   ,3  ,C.F.                                                                            ,          ,         ,          ,TDF      ,1  ,STU  ,TU,  ,  ,  ,  ,  ,  ,2000-2200,FAA2 ,B402 ,UDY                          ,                    ,                    ,                    ,30 ,16/01/2559 20:00
-,
 3502551,ADV CRE GRA :3D   ,3  ,C.F.                                                                            ,          ,         ,          ,TDF      ,2  ,LECT ,AR,  ,  ,  ,  ,  ,  ,AR-AR    ,FAA2 ,B404 ,STAFF                        ,                    ,                    ,                    ,20 ,16/01/2559 20:00
-,
 3502551,ADV CRE GRA :3D   ,3  ,C.F.                                                                            ,          ,         ,          ,TDF      ,2  ,STU  ,TU,  ,  ,  ,  ,  ,  ,2000-2200,FAA2 ,B403 ,STAFF                        ,                    ,                    ,                    ,20 ,16/01/2559 20:00
-,
 3502557,ADV SIGNAGE SYSTEM,3  ,                                                                                ,          ,         ,          ,TDF      ,1  ,LECT ,AR,  ,  ,  ,  ,  ,  ,AR-AR    ,FAA2 ,B404 ,STAFF                        ,                    ,                    ,                    ,1  ,16/01/2559 20:00
-,
 3502557,ADV SIGNAGE SYSTEM,3  ,                                                                                ,          ,         ,          ,TDF      ,1  ,STU  ,AR,  ,  ,  ,  ,  ,  ,AR-AR    ,FAA2 ,B404 ,STAFF                        ,                    ,                    ,                    ,1  ,16/01/2559 20:00
-,
 3502559,ARTS / ADVERTISING,3  ,                                                                                ,          ,         ,          ,TDF      ,1  ,LECT ,AR,  ,  ,  ,  ,  ,  ,AR-AR    ,FAA2 ,B404 ,ASB                          ,                    ,                    ,                    ,30 ,16/01/2559 20:00
-,
 3502559,ARTS / ADVERTISING,3  ,                                                                                ,          ,         ,          ,TDF      ,1  ,STU  ,MO,  ,  ,  ,  ,  ,  ,2000-2200,FAA2 ,B404 ,ASB                          ,                    ,                    ,                    ,30 ,16/01/2559 20:00
-,
 3502559,ARTS / ADVERTISING,3  ,                                                                                ,          ,         ,          ,TDF      ,2  ,LECT ,MO,  ,  ,  ,  ,  ,  ,1800-2000,FAA2 ,B403 ,STAFF                        ,CREATIVE ART        ,                    ,                    ,30 ,16/01/2559 20:00
-,
 3502559,ARTS / ADVERTISING,3  ,                                                                                ,          ,         ,          ,TDF      ,2  ,STU  ,MO,  ,  ,  ,  ,  ,  ,2000-2200,FAA2 ,B403 ,STAFF                        ,                    ,                    ,                    ,30 ,16/01/2559 20:00
-,
 3502571,FASH/TEXT D/M II  ,3  ,3502570                                                                         ,          ,         ,          ,TDF      ,1  ,LECT ,AR,  ,  ,  ,  ,  ,  ,AR-AR    ,FAA2 ,B402 ,PUK                          ,                    ,                    ,                    ,40 ,16/01/2559 20:00
-,
 3502571,FASH/TEXT D/M II  ,3  ,3502570                                                                         ,          ,         ,          ,TDF      ,1  ,PRAC ,WE,  ,  ,  ,  ,  ,  ,IA-IA    ,FAA2 ,B402 ,PUK                          ,                    ,                    ,                    ,40 ,16/01/2559 20:00
-,
 3502574,ADV FASH ACCESS   ,3  ,                                                                                ,          ,         ,          ,TDF      ,1  ,LECT ,AR,  ,  ,  ,  ,  ,  ,AR-AR    ,FAA2 ,B402 ,STAFF                        ,                    ,                    ,                    ,30 ,16/01/2559 20:00
-,
 3502574,ADV FASH ACCESS   ,3  ,                                                                                ,          ,         ,          ,TDF      ,1  ,PRAC ,FR,  ,  ,  ,  ,  ,  ,IA-IA    ,FAA2 ,B402 ,STAFF                        ,                    ,                    ,                    ,30 ,16/01/2559 20:00
-,
 3502590,MFA PROJECT       ,6  ,                                                                                ,          ,         ,          ,TDF      ,1  ,PRAC ,AR,  ,  ,  ,  ,  ,  ,AR-AR    ,FAA2 ,B402 ,STAFF                        ,                    ,                    ,                    ,40 ,16/01/2559 20:00
-,
 3502590,MFA PROJECT       ,6  ,                                                                                ,          ,         ,          ,TDF      ,2  ,PRAC ,AR,  ,  ,  ,  ,  ,  ,AR-AR    ,FA4  ,201  ,STAFF                        ,                    ,                    ,                    ,30 ,16/01/2559 20:00
-,
 3502811,THESIS            ,12 ,                                                                                ,          ,         ,          ,TDF      ,1  ,IDVS ,IA,  ,  ,  ,  ,  ,  ,IA-IA    ,FAA2 ,B402 ,STAFF                        ,                    ,                    ,                    ,30 ,16/01/2559 20:00
-,
 3502896,COMPREHENSIVE EXAM,0  ,                                                                                ,          ,         ,          ,TDF      ,1  ,LECT ,IA,  ,  ,  ,  ,  ,  ,IA-IA    ,FAA2 ,B402 ,STAFF                        ,                    ,                    ,                    ,40 ,16/01/2559 20:00
-,
 3502896,COMPREHENSIVE EXAM,0  ,                                                                                ,          ,         ,          ,TDF      ,2  ,LECT ,IA,  ,  ,  ,  ,  ,  ,IA-IA    ,FAA2 ,IA   ,STAFF                        ,                    ,                    ,                    ,30 ,16/01/2559 20:00
-,
 3503111,INTRO CLASSIC MUS ,3  ,                                                                                ,          ,         ,          ,TDF      ,1  ,LECT ,TH,  ,  ,  ,  ,  ,  ,1300-1600,BRK  ,501  ,PCP                          ,                    ,                    ,                    ,20 ,16/01/2559 20:00
-,
 3503116,THEO MUS E TRG II ,4  ,3503115                                                                         ,          ,         ,          ,TDF      ,1  ,LECT ,AR,  ,  ,  ,  ,  ,  ,AR-AR    ,FAA1 ,A301 ,PCP                          ,                    ,                    ,                    ,30 ,16/01/2559 20:00
-,
 3503116,THEO MUS E TRG II ,4  ,3503115                                                                         ,          ,         ,          ,TDF      ,1  ,PRAC ,TH,  ,  ,  ,  ,  ,  ,1100-1300,FAA2 ,AR   ,PCP                          ,                    ,                    ,                    ,30 ,16/01/2559 20:00
-,
 3503116,THEO MUS E TRG II ,4  ,3503115                                                                         ,          ,         ,          ,TDF      ,1  ,PRAC ,AR,  ,  ,  ,  ,  ,  ,AR-AR    ,     ,AR   ,PCP                          ,                    ,                    ,                    ,30 ,16/01/2559 20:00
-,
 3503119,THEO WEST MUS II  ,3  ,3503118                                                                         ,          ,         ,          ,TDF      ,1  ,L/S  ,TH,  ,  ,  ,  ,  ,  ,0900-1200,FAA2 ,B302 ,PPV                          ,                    ,                    ,                    ,20 ,16/01/2559 20:00
-,
 3503119,THEO WEST MUS II  ,3  ,3503118                                                                         ,          ,         ,          ,TDF      ,1  ,STU  ,AR,  ,  ,  ,  ,  ,  ,AR-AR    ,     ,AR   ,PPV                          ,                    ,                    ,                    ,20 ,16/01/2559 20:00
-,
 3503124,HIST EASTERN MUS I,3  ,                                                                                ,          ,         ,          ,TDF      ,1  ,LECT ,TU,  ,  ,  ,  ,  ,  ,0900-1200,FAA2 ,B302 ,STAFF                        ,                    ,                    ,                    ,20 ,16/01/2559 20:00
-,
 3503125,HIST WEST MUSIC   ,3  ,                                                                                ,          ,         ,          ,TDF      ,1  ,LECT ,AR,  ,  ,  ,  ,  ,  ,AR-AR    ,FAA2 ,B302 ,PPR                          ,                    ,                    ,                    ,30 ,16/01/2559 20:00
-,
 3503127,GUITAR ENSEMBL II ,1  ,3503126                                                                         ,          ,         ,          ,TDF      ,1  ,PRAC ,FR,  ,  ,  ,  ,  ,  ,1300-1500,FAA1 ,A306 ,STAFF                        ,WEST MUSIC          ,                    ,                    ,10 ,16/01/2559 20:00
-,
 3503143,THAI MUS SKILL II ,3  ,3503142                                                                         ,          ,         ,          ,TDF      ,1  ,LECT ,AR,  ,  ,  ,  ,  ,  ,AR-AR    ,FAA2 ,302  ,STAFF                        ,                    ,                    ,                    ,20 ,16/01/2559 20:00
-,
 3503143,THAI MUS SKILL II ,3  ,3503142                                                                         ,          ,         ,          ,TDF      ,1  ,PRAC ,FR,  ,  ,  ,  ,  ,  ,1000-1500,FAA2 ,B3031,STAFF                        ,                    ,                    ,                    ,20 ,16/01/2559 20:00
-,
 3503143,THAI MUS SKILL II ,3  ,3503142                                                                         ,          ,         ,          ,TDF      ,2  ,LECT ,AR,  ,  ,  ,  ,  ,  ,AR-AR    ,FAA2 ,B3051,STAFF                        ,                    ,                    ,                    ,20 ,16/01/2559 20:00
-,
 3503143,THAI MUS SKILL II ,3  ,3503142                                                                         ,          ,         ,          ,TDF      ,2  ,PRAC ,FR,  ,  ,  ,  ,  ,  ,1000-1500,FAA2 ,B3032,STAFF                        ,                    ,                    ,                    ,20 ,16/01/2559 20:00
-,
 3503143,THAI MUS SKILL II ,3  ,3503142                                                                         ,          ,         ,          ,TDF      ,3  ,LECT ,AR,  ,  ,  ,  ,  ,  ,AR-AR    ,FAA2 ,302/3,STAFF                        ,                    ,                    ,                    ,20 ,16/01/2559 20:00
-,
 3503143,THAI MUS SKILL II ,3  ,3503142                                                                         ,          ,         ,          ,TDF      ,3  ,PRAC ,FR,  ,  ,  ,  ,  ,  ,1000-1500,FAA2 ,AR   ,STAFF                        ,                    ,                    ,                    ,20 ,16/01/2559 20:00
-,
 3503143,THAI MUS SKILL II ,3  ,3503142                                                                         ,          ,         ,          ,TDF      ,4  ,LECT ,AR,  ,  ,  ,  ,  ,  ,AR-AR    ,FAA2 ,B3031,STAFF                        ,                    ,                    ,                    ,20 ,16/01/2559 20:00
-,
 3503143,THAI MUS SKILL II ,3  ,3503142                                                                         ,          ,         ,          ,TDF      ,4  ,PRAC ,FR,  ,  ,  ,  ,  ,  ,1000-1500,FAA2 ,AR   ,STAFF                        ,                    ,                    ,                    ,20 ,16/01/2559 20:00
-,
 3503143,THAI MUS SKILL II ,3  ,3503142                                                                         ,          ,         ,          ,TDF      ,5  ,LECT ,AR,  ,  ,  ,  ,  ,  ,AR-AR    ,FAA1 ,A2061,STAFF                        ,                    ,                    ,                    ,20 ,16/01/2559 20:00
-,
 3503143,THAI MUS SKILL II ,3  ,3503142                                                                         ,          ,         ,          ,TDF      ,5  ,PRAC ,FR,  ,  ,  ,  ,  ,  ,1000-1500,FAA2 ,AR   ,STAFF                        ,                    ,                    ,                    ,20 ,16/01/2559 20:00
-,
 3503162,PIANO II          ,1  ,3503161                                                                         ,          ,         ,          ,TDF      ,1  ,PRAC ,AR,  ,  ,  ,  ,  ,  ,AR-AR    ,FAA1 ,A303 ,STAFF                        ,                    ,                    ,                    ,20 ,16/01/2559 20:00
-,
 3503164,PIANO IV          ,1  ,3503163                                                                         ,          ,         ,          ,TDF      ,1  ,PRAC ,AR,  ,  ,  ,  ,  ,  ,AR-AR    ,FAA1 ,A303 ,STAFF                        ,                    ,                    ,                    ,10 ,16/01/2559 20:00
-,
 3503174,MUSIC SKILL II    ,3  ,3503173                                                                         ,          ,         ,          ,TDF      ,1  ,LECT ,AR,  ,  ,  ,  ,  ,  ,AR-AR    ,FAA1 ,A305 ,STAFF                        ,                    ,                    ,                    ,30 ,16/01/2559 20:00
-,
 3503174,MUSIC SKILL II    ,3  ,3503173                                                                         ,          ,         ,          ,TDF      ,1  ,PRAC ,FR,  ,  ,  ,  ,  ,  ,1000-1500,FAA1 ,A305 ,STAFF                        ,                    ,                    ,                    ,30 ,16/01/2559 20:00
-,
 3503178,ENSEMBLE II       ,1  ,3503177                                                                         ,          ,         ,          ,TDF      ,1  ,PRAC ,AR,  ,  ,  ,  ,  ,  ,AR-AR    ,FAA1 ,A301 ,NCK                          ,                    ,                    ,                    ,15 ,16/01/2559 20:00
-,
 3503182,CHORUS II         ,1  ,                                                                                ,          ,         ,          ,TDF      ,1  ,PRAC ,AR,  ,  ,  ,  ,  ,  ,AR-AR    ,FAA1 ,A301 ,DAK                          ,                    ,                    ,                    ,30 ,16/01/2559 20:00
-,
 3503196,PIANO ACCOMP II   ,1  ,3503195                                                                         ,          ,         ,          ,TDF      ,1  ,PRAC ,AR,  ,  ,  ,  ,  ,  ,AR-AR    ,FAA1 ,A304 ,TIY                          ,                    ,                    ,                    ,20 ,16/01/2559 20:00
-,
 3503211,THR THAI MUS I    ,3  ,                                                                                ,          ,         ,          ,TDF      ,1  ,LECT ,TU,  ,  ,  ,  ,  ,  ,1300-1600,BRK  ,608  ,PPR                          ,                    ,                    ,                    ,20 ,16/01/2559 20:00
-,
 3503212,THAI COUNTERPOINTS,3  ,                                                                                ,          ,         ,          ,TDF      ,1  ,LECT ,AR,  ,  ,  ,  ,  ,  ,AR-AR    ,FAA2 ,B3032,STAFF                        ,                    ,                    ,                    ,20 ,16/01/2559 20:00
-,
 3503232,MUS HIST LIT II   ,3  ,3503231                                                                         ,          ,         ,          ,TDF      ,1  ,LECT ,WE,  ,  ,  ,  ,  ,  ,0900-1200,BRK  ,613  ,SPY                          ,                    ,                    ,                    ,40 ,16/01/2559 20:00
-,
 3503237,MUS COMPOSITN I   ,2  ,3503116                                                                         ,          ,         ,          ,TDF      ,1  ,LECT ,AR,  ,  ,  ,  ,  ,  ,AR-AR    ,FAA1 ,A301 ,NDB                          ,                    ,                    ,                    ,20 ,16/01/2559 20:00
-,
 3503237,MUS COMPOSITN I   ,2  ,3503116                                                                         ,          ,         ,          ,TDF      ,1  ,PRAC ,WE,  ,  ,  ,  ,  ,  ,1000-1200,FAA1 ,A301 ,NDB                          ,                    ,                    ,                    ,20 ,16/01/2559 20:00
-,
 3503243,THAI MUS SKILL IV ,3  ,3503143                                                                         ,          ,         ,          ,TDF      ,1  ,LECT ,MO,  ,  ,  ,  ,  ,  ,1300-1500,FAA2 ,B302 ,STAFF                        ,THAI MUSIC          ,                    ,                    ,20 ,16/01/2559 20:00
-,
 3503243,THAI MUS SKILL IV ,3  ,3503143                                                                         ,          ,         ,          ,TDF      ,1  ,PRAC ,TH,  ,  ,  ,  ,  ,  ,0900-1400,FAA2 ,B3031,STAFF                        ,                    ,                    ,                    ,20 ,16/01/2559 20:00
-,
 3503243,THAI MUS SKILL IV ,3  ,3503143                                                                         ,          ,         ,          ,TDF      ,2  ,LECT ,MO,  ,  ,  ,  ,  ,  ,1300-1500,FAA2 ,B303 ,STAFF                        ,THAI MUSIC          ,                    ,                    ,20 ,16/01/2559 20:00
-,
 3503243,THAI MUS SKILL IV ,3  ,3503143                                                                         ,          ,         ,          ,TDF      ,2  ,PRAC ,TH,  ,  ,  ,  ,  ,  ,0900-1400,FAA2 ,B3032,STAFF                        ,                    ,                    ,                    ,20 ,16/01/2559 20:00
-,
 3503243,THAI MUS SKILL IV ,3  ,3503143                                                                         ,          ,         ,          ,TDF      ,3  ,LECT ,MO,  ,  ,  ,  ,  ,  ,1300-1500,FAA2 ,AR   ,STAFF                        ,THAI MUSIC          ,                    ,                    ,20 ,16/01/2559 20:00
-,
 3503243,THAI MUS SKILL IV ,3  ,3503143                                                                         ,          ,         ,          ,TDF      ,3  ,PRAC ,TH,  ,  ,  ,  ,  ,  ,0900-1400,FAA2 ,AR   ,STAFF                        ,                    ,                    ,                    ,20 ,16/01/2559 20:00
-,
 3503243,THAI MUS SKILL IV ,3  ,3503143                                                                         ,          ,         ,          ,TDF      ,4  ,LECT ,AR,  ,  ,  ,  ,  ,  ,AR-AR    ,     ,AR   ,STAFF                        ,                    ,                    ,                    ,5  ,16/01/2559 20:00
-,
 3503243,THAI MUS SKILL IV ,3  ,3503143                                                                         ,          ,         ,          ,TDF      ,4  ,LECT ,AR,  ,  ,  ,  ,  ,  ,AR-AR    ,     ,AR   ,STAFF                        ,                    ,                    ,                    ,5  ,16/01/2559 20:00
-,
 3503243,THAI MUS SKILL IV ,3  ,3503143                                                                         ,          ,         ,          ,TDF      ,5  ,LECT ,MO,  ,  ,  ,  ,  ,  ,1300-1500,FAA2 ,B302 ,STAFF                        ,THAI MUSIC          ,                    ,                    ,20 ,16/01/2559 20:00
-,
 3503243,THAI MUS SKILL IV ,3  ,3503143                                                                         ,          ,         ,          ,TDF      ,5  ,PRAC ,TH,  ,  ,  ,  ,  ,  ,0900-1400,FAA2 ,AR   ,STAFF                        ,                    ,                    ,                    ,20 ,16/01/2559 20:00
-,
 3503274,MUSIC SKILL IV    ,3  ,3503273                                                                         ,          ,         ,          ,TDF      ,1  ,LECT ,AR,  ,  ,  ,  ,  ,  ,AR-AR    ,FAA1 ,A306 ,STAFF                        ,                    ,                    ,                    ,20 ,16/01/2559 20:00
-,
 3503274,MUSIC SKILL IV    ,3  ,3503273                                                                         ,          ,         ,          ,TDF      ,1  ,PRAC ,TU,  ,  ,  ,  ,  ,  ,1000-1500,FAA1 ,A306 ,STAFF                        ,                    ,                    ,                    ,20 ,16/01/2559 20:00
-,
 3503278,ENSEMBLE IV       ,1  ,3503277                                                                         ,          ,         ,          ,TDF      ,1  ,PRAC ,AR,  ,  ,  ,  ,  ,  ,AR-AR    ,FAA1 ,A301 ,NCK                          ,                    ,                    ,                    ,10 ,16/01/2559 20:00
-,
 3503282,CHORUS IV         ,1  ,                                                                                ,          ,         ,          ,TDF      ,1  ,PRAC ,AR,  ,  ,  ,  ,  ,  ,AR-AR    ,FAA1 ,A301 ,DAK                          ,                    ,                    ,                    ,30 ,16/01/2559 20:00
-,
 3503298,CHAMBER ENS II    ,1  ,3503297                                                                         ,          ,         ,          ,TDF      ,1  ,PRAC ,AR,  ,  ,  ,  ,  ,  ,AR-AR    ,FAA1 ,A301 ,TIY                          ,                    ,                    ,                    ,15 ,16/01/2559 20:00
-,
 3503299,CHAMBER ENS III   ,1  ,3503298                                                                         ,          ,         ,          ,TDF      ,1  ,PRAC ,AR,  ,  ,  ,  ,  ,  ,AR-AR    ,     ,AR   ,STAFF                        ,                    ,                    ,                    ,5  ,16/01/2559 20:00
-,
 3503300,CHAMBER ENS IV    ,1  ,3503299                                                                         ,          ,         ,          ,TDF      ,1  ,PRAC ,AR,  ,  ,  ,  ,  ,  ,AR-AR    ,FAA1 ,A301 ,TIY                          ,                    ,                    ,                    ,30 ,16/01/2559 20:00
-,
 3503301,JUNR RECITAL      ,2  ,3503373                                                                         ,          ,         ,          ,TDF      ,1  ,LECT ,AR,  ,  ,  ,  ,  ,  ,AR-AR    ,FAA1 ,A301 ,STAFF                        ,                    ,                    ,                    ,20 ,16/01/2559 20:00
-,
 3503301,JUNR RECITAL      ,2  ,3503373                                                                         ,          ,         ,          ,TDF      ,1  ,PRAC ,FR,  ,  ,  ,  ,  ,  ,1400-1600,FAA1 ,A301 ,STAFF                        ,                    ,                    ,                    ,20 ,16/01/2559 20:00
-,
 3503304,JUNR PROJ MUS COMP,2  ,3503337                                                                         ,          ,         ,          ,TDF      ,1  ,LECT ,AR,  ,  ,  ,  ,  ,  ,AR-AR    ,FAA1 ,A301 ,WPN                          ,                    ,                    ,                    ,10 ,16/01/2559 20:00
-,
 3503304,JUNR PROJ MUS COMP,2  ,3503337                                                                         ,          ,         ,          ,TDF      ,1  ,PRAC ,TU,  ,  ,  ,  ,  ,  ,1600-1800,FAA1 ,A301 ,WPN                          ,                    ,                    ,                    ,10 ,16/01/2559 20:00
-,
 3503314,WEST COUNTERPNT II,3  ,3503213,C.F.                                                                    ,          ,         ,          ,TDF      ,1  ,LECT ,AR,  ,  ,  ,  ,  ,  ,AR-AR    ,FAA1 ,A301 ,NPR                          ,                    ,                    ,                    ,10 ,16/01/2559 20:00
-,
 3503315,FORM/ANA I        ,3  ,3503310                                                                         ,          ,         ,          ,TDF      ,1  ,LECT ,TH,  ,  ,  ,  ,  ,  ,0900-1200,BRK  ,611  ,SPY                          ,                    ,                    ,                    ,30 ,16/01/2559 20:00
-,
 3503316,PIANO LIT I       ,3  ,                                                                                ,          ,         ,          ,TDF      ,1  ,LECT ,AR,  ,  ,  ,  ,  ,  ,0900-1200,FAA1 ,A301 ,STAFF                        ,WEST MUSIC          ,                    ,                    ,20 ,16/01/2559 20:00
-,
 3503317,PIANO LIT II      ,3  ,3503316                                                                         ,          ,         ,          ,TDF      ,1  ,LECT ,AR,  ,  ,  ,  ,  ,  ,0900-1200,FAA1 ,AR   ,STAFF                        ,WEST MUSIC          ,                    ,                    ,20 ,16/01/2559 20:00
-,
 3503323,VOICE LIT         ,3  ,3503231                                                                         ,          ,         ,          ,TDF      ,1  ,LECT ,AR,  ,  ,  ,  ,  ,  ,1300-1600,FAA1 ,A301 ,STAFF                        ,WEST MUSIC          ,                    ,                    ,20 ,16/01/2559 20:00
-,
 3503326,FORM/ANA II       ,3  ,3503315                                                                         ,          ,         ,          ,TDF      ,1  ,LECT ,MO,  ,  ,  ,  ,  ,  ,0900-1200,BRK  ,607  ,SPY                          ,                    ,                    ,                    ,20 ,16/01/2559 20:00
-,
 3503331,CONDUCTING I      ,2  ,                                                                                ,          ,         ,          ,TDF      ,1  ,LECT ,AR,  ,  ,  ,  ,  ,  ,AR-AR    ,FAA1 ,A212 ,TIY                          ,                    ,                    ,                    ,30 ,16/01/2559 20:00
-,
 3503331,CONDUCTING I      ,2  ,                                                                                ,          ,         ,          ,TDF      ,1  ,PRAC ,FR,  ,  ,  ,  ,  ,  ,1000-1200,FAA1 ,A301 ,TIY                          ,                    ,                    ,                    ,30 ,16/01/2559 20:00
-,
 3503336,THE 20TH CEN II   ,3  ,3503335                                                                         ,          ,         ,          ,TDF      ,1  ,LECT ,TU,  ,  ,  ,  ,  ,  ,0900-1200,BRK  ,608  ,NDB                          ,                    ,                    ,                    ,20 ,16/01/2559 20:00
-,
 3503337,MUS COMPOSITN III ,2  ,3503238                                                                         ,          ,         ,          ,TDF      ,1  ,LECT ,AR,  ,  ,  ,  ,  ,  ,AR-AR    ,FAA1 ,A307 ,WPN                          ,                    ,                    ,                    ,30 ,16/01/2559 20:00
-,
 3503337,MUS COMPOSITN III ,2  ,3503238                                                                         ,          ,         ,          ,TDF      ,1  ,PRAC ,WE,  ,  ,  ,  ,  ,  ,1400-1600,FAA1 ,A307 ,WPN                          ,                    ,                    ,                    ,30 ,16/01/2559 20:00
-,
 3503343,THAI MUS SKILL VI ,3  ,3503342                                                                         ,          ,         ,          ,TDF      ,1  ,LECT ,AR,  ,  ,  ,  ,  ,  ,AR-AR    ,FAA2 ,B303 ,STAFF                        ,                    ,                    ,                    ,20 ,16/01/2559 20:00
-,
 3503343,THAI MUS SKILL VI ,3  ,3503342                                                                         ,          ,         ,          ,TDF      ,1  ,PRAC ,TH,  ,  ,  ,  ,  ,  ,1300-1800,FAA2 ,B3031,STAFF                        ,                    ,                    ,                    ,20 ,16/01/2559 20:00
-,
 3503343,THAI MUS SKILL VI ,3  ,3503342                                                                         ,          ,         ,          ,TDF      ,2  ,LECT ,TU,  ,  ,  ,  ,  ,  ,0900-1100,FAA2 ,B303 ,STAFF                        ,THAI MUSIC          ,                    ,                    ,20 ,16/01/2559 20:00
-,
 3503343,THAI MUS SKILL VI ,3  ,3503342                                                                         ,          ,         ,          ,TDF      ,2  ,PRAC ,TH,  ,  ,  ,  ,  ,  ,1300-1800,FAA2 ,B3032,STAFF                        ,                    ,                    ,                    ,20 ,16/01/2559 20:00
-,
 3503343,THAI MUS SKILL VI ,3  ,3503342                                                                         ,          ,         ,          ,TDF      ,3  ,LECT ,TU,  ,  ,  ,  ,  ,  ,0900-1100,FAA2 ,AR   ,STAFF                        ,THAI MUSIC          ,                    ,                    ,20 ,16/01/2559 20:00
-,
 3503343,THAI MUS SKILL VI ,3  ,3503342                                                                         ,          ,         ,          ,TDF      ,3  ,PRAC ,TH,  ,  ,  ,  ,  ,  ,1300-1800,FAA2 ,AR   ,STAFF                        ,                    ,                    ,                    ,20 ,16/01/2559 20:00
-,
 3503343,THAI MUS SKILL VI ,3  ,3503342                                                                         ,          ,         ,          ,TDF      ,5  ,LECT ,TU,  ,  ,  ,  ,  ,  ,0900-1100,FAA2 ,B302 ,STAFF                        ,THAI MUSIC          ,                    ,                    ,20 ,16/01/2559 20:00
-,
 3503343,THAI MUS SKILL VI ,3  ,3503342                                                                         ,          ,         ,          ,TDF      ,5  ,PRAC ,TH,  ,  ,  ,  ,  ,  ,1300-1800,FAA2 ,AR   ,STAFF                        ,                    ,                    ,                    ,20 ,16/01/2559 20:00
-,
 3503345,PIPAT DUKDUMBUN I ,3  ,C.F.                                                                            ,          ,         ,          ,TDF      ,1  ,L/P  ,WE,  ,  ,  ,  ,  ,  ,1300-1600,BRK  ,601  ,STAFF                        ,                    ,                    ,                    ,20 ,16/01/2559 20:00
-,
 3503345,PIPAT DUKDUMBUN I ,3  ,C.F.                                                                            ,          ,         ,          ,TDF      ,1  ,PRAC ,WE,  ,  ,  ,  ,  ,  ,AR-AR    ,FAA1 ,A2061,STAFF                        ,                    ,                    ,                    ,20 ,16/01/2559 20:00
-,
 3503351,PAK/KHUB - SEPA   ,3  ,C.F.                                                                            ,          ,         ,          ,TDF      ,1  ,LECT ,AR,  ,  ,  ,  ,  ,  ,AR-AR    ,FAA1 ,A2061,BCT                          ,                    ,                    ,                    ,20 ,16/01/2559 20:00
-,
 3503351,PAK/KHUB - SEPA   ,3  ,C.F.                                                                            ,          ,         ,          ,TDF      ,1  ,PRAC ,MO,  ,  ,  ,  ,  ,  ,1400-1900,FAA1 ,A2063,BCT                          ,                    ,                    ,                    ,20 ,16/01/2559 20:00
-,
 3503356,PI JAVA/STRING    ,3  ,C.F.                                                                            ,          ,         ,          ,TDF      ,1  ,LECT ,AR,  ,  ,  ,  ,  ,  ,AR-AR    ,FAA2 ,B303 ,PRP                          ,                    ,                    ,                    ,20 ,16/01/2559 20:00
-,
 3503356,PI JAVA/STRING    ,3  ,C.F.                                                                            ,          ,         ,          ,TDF      ,1  ,PRAC ,FR,  ,  ,  ,  ,  ,  ,1400-1900,FAA2 ,B303 ,PRP                          ,                    ,                    ,                    ,20 ,16/01/2559 20:00
-,
 3503374,MUSIC SKILL VI    ,3  ,3503373                                                                         ,          ,         ,          ,TDF      ,1  ,LECT ,AR,  ,  ,  ,  ,  ,  ,AR-AR    ,FAA1 ,A307 ,STAFF                        ,                    ,                    ,                    ,20 ,16/01/2559 20:00
-,
 3503374,MUSIC SKILL VI    ,3  ,3503373                                                                         ,          ,         ,          ,TDF      ,1  ,PRAC ,TH,  ,  ,  ,  ,  ,  ,1000-1500,FAA1 ,A307 ,STAFF                        ,                    ,                    ,                    ,20 ,16/01/2559 20:00
-,
 3503376,MUS PERF MGT      ,3  ,                                                                                ,          ,         ,          ,TDF      ,1  ,LECT ,AR,  ,  ,  ,  ,  ,  ,AR-AR    ,FAA2 ,B3032,BBS                          ,                    ,                    ,                    ,20 ,16/01/2559 20:00
-,
 3503376,MUS PERF MGT      ,3  ,                                                                                ,          ,         ,          ,TDF      ,1  ,PRAC ,WE,  ,  ,  ,  ,  ,  ,1400-1900,FAA2 ,B302 ,BBS                          ,                    ,                    ,                    ,20 ,16/01/2559 20:00
-,
 3503378,ENSEMBLE VI       ,1  ,3503377                                                                         ,          ,         ,          ,TDF      ,1  ,PRAC ,AR,  ,  ,  ,  ,  ,  ,AR-AR    ,FAA1 ,A301 ,NCK                          ,                    ,                    ,                    ,15 ,16/01/2559 20:00
-,
 3503381,CHORUS V          ,1  ,                                                                                ,          ,         ,          ,TDF      ,1  ,PRAC ,AR,  ,  ,  ,  ,  ,  ,0900-1200,FAA1 ,A301 ,STAFF                        ,WEST MUSIC          ,                    ,                    ,20 ,16/01/2559 20:00
-,
 3503382,CHORUS VI         ,1  ,                                                                                ,          ,         ,          ,TDF      ,1  ,PRAC ,AR,  ,  ,  ,  ,  ,  ,AR-AR    ,FAA1 ,A301 ,DAK                          ,                    ,                    ,                    ,10 ,16/01/2559 20:00
-,
 3503385,PLENG RABUM       ,3  ,                                                                                ,          ,         ,          ,TDF      ,1  ,LECT ,AR,  ,  ,  ,  ,  ,  ,AR-AR    ,FAA2 ,B303 ,PKK                          ,                    ,                    ,                    ,20 ,16/01/2559 20:00
-,
 3503385,PLENG RABUM       ,3  ,                                                                                ,          ,         ,          ,TDF      ,1  ,FWK  ,TU,  ,  ,  ,  ,  ,  ,1100-1400,FAA2 ,B303 ,PKK                          ,                    ,                    ,                    ,20 ,16/01/2559 20:00
-,
 3503387,VOICE V           ,1  ,3503286                                                                         ,          ,         ,          ,TDF      ,1  ,PRAC ,AR,  ,  ,  ,  ,  ,  ,AR-AR    ,BRK  ,503  ,DAK                          ,                    ,                    ,                    ,40 ,16/01/2559 20:00
-,
 3503393,STRING PEDAGOGY   ,2  ,3503274                                                                         ,          ,         ,          ,TDF      ,1  ,LECT ,AR,  ,  ,  ,  ,  ,  ,0900-1100,FAA1 ,AR   ,STAFF                        ,WEST MUSIC          ,                    ,                    ,20 ,16/01/2559 20:00
-,
 3503394,WOODWIND PEDAGOGY ,2  ,3503274                                                                         ,          ,         ,          ,TDF      ,1  ,LECT ,AR,  ,  ,  ,  ,  ,  ,AR-AR    ,     ,AR   ,STAFF                        ,                    ,                    ,                    ,10 ,16/01/2559 20:00
-,
 3503395,BRASS PEDAGOGY    ,2  ,3503274                                                                         ,          ,         ,          ,TDF      ,1  ,LECT ,AR,  ,  ,  ,  ,  ,  ,0900-1100,FAA1 ,AR   ,STAFF                        ,WEST MUSIC          ,                    ,                    ,20 ,16/01/2559 20:00
-,
 3503396,PIANO PED I       ,2  ,3503274                                                                         ,          ,         ,          ,TDF      ,1  ,LECT ,AR,  ,  ,  ,  ,  ,  ,AR-AR    ,     ,AR   ,STAFF                        ,                    ,                    ,                    ,5  ,16/01/2559 20:00
-,
 3503398,VOICE PED         ,2  ,3503274                                                                         ,          ,         ,          ,TDF      ,1  ,LECT ,MO,  ,  ,  ,  ,  ,  ,1300-1500,FAA1 ,A301 ,DAK                          ,WEST MUSIC          ,                    ,                    ,20 ,16/01/2559 20:00
-,
 3503399,PERCUSSION PED    ,2  ,3503274                                                                         ,          ,         ,          ,TDF      ,1  ,LECT ,AR,  ,  ,  ,  ,  ,  ,AR-AR    ,FAA1 ,A301 ,STAFF                        ,                    ,                    ,                    ,10 ,16/01/2559 20:00
-,
 3503401,SENR RECITAL      ,4  ,3503301                                                                         ,          ,         ,          ,TDF      ,1  ,LECT ,AR,  ,  ,  ,  ,  ,  ,AR-AR    ,FAA1 ,A301 ,STAFF                        ,                    ,                    ,                    ,30 ,16/01/2559 20:00
-,
 3503401,SENR RECITAL      ,4  ,3503301                                                                         ,          ,         ,          ,TDF      ,1  ,PRAC ,MO,  ,  ,  ,  ,  ,  ,1000-1600,FAA1 ,A301 ,STAFF                        ,                    ,                    ,                    ,30 ,16/01/2559 20:00
-,
 3503404,SENR PROJ MUS COMP,4  ,3503304                                                                         ,          ,         ,          ,TDF      ,1  ,LECT ,AR,  ,  ,  ,  ,  ,  ,AR-AR    ,FAA1 ,A301 ,WPN                          ,                    ,                    ,                    ,20 ,16/01/2559 20:00
-,
 3503404,SENR PROJ MUS COMP,4  ,3503304                                                                         ,          ,         ,          ,TDF      ,1  ,PRAC ,MO,  ,  ,  ,  ,  ,  ,1100-1700,FAA1 ,A301 ,WPN                          ,                    ,                    ,                    ,20 ,16/01/2559 20:00
-,
 3503474,MUSIC SKILL VIII  ,3  ,3503473                                                                         ,          ,         ,          ,TDF      ,1  ,LECT ,AR,  ,  ,  ,  ,  ,  ,AR-AR    ,FAA1 ,A305 ,STAFF                        ,                    ,                    ,                    ,30 ,16/01/2559 20:00
-,
 3503474,MUSIC SKILL VIII  ,3  ,3503473                                                                         ,          ,         ,          ,TDF      ,1  ,PRAC ,WE,  ,  ,  ,  ,  ,  ,1000-1500,FAA1 ,A305 ,STAFF                        ,                    ,                    ,                    ,30 ,16/01/2559 20:00
-,
 3503478,ENSEMBLE VIII     ,1  ,3503477                                                                         ,          ,         ,          ,TDF      ,1  ,PRAC ,AR,  ,  ,  ,  ,  ,  ,AR-AR    ,FAA1 ,A301 ,NCK                          ,                    ,                    ,                    ,10 ,16/01/2559 20:00
-,
 3503482,CHORUS VIII       ,1  ,                                                                                ,          ,         ,          ,TDF      ,1  ,PRAC ,AR,  ,  ,  ,  ,  ,  ,AR-AR    ,FAA1 ,A301 ,DAK                          ,                    ,                    ,                    ,20 ,16/01/2559 20:00
-,
 3503490,SNR PROJ MUSIC    ,6  ,3503410,SENIOR STANDING                                                         ,          ,         ,          ,TDF      ,1  ,LECT ,AR,  ,  ,  ,  ,  ,  ,AR-AR    ,FAA2 ,B302 ,KPS,BBS,PRP                  ,                    ,                    ,                    ,35 ,16/01/2559 20:00
-,
 3503490,SNR PROJ MUSIC    ,6  ,3503410,SENIOR STANDING                                                         ,          ,         ,          ,TDF      ,1  ,PRAC ,AR,  ,  ,  ,  ,  ,  ,AR-AR    ,FAA1 ,A2063,KPS,BBS,PRP                  ,                    ,                    ,                    ,35 ,16/01/2559 20:00
-,
 3503510,RSRCH MTHD ART    ,3  ,                                                                                ,          ,         ,          ,TDF      ,1  ,LECT ,AR,  ,  ,  ,  ,  ,  ,AR-AR    ,     ,AR   ,STAFF                        ,                    ,                    ,                    ,15 ,16/01/2559 20:00
-,
 3503520,SEM THAI MUS HIST ,3  ,                                                                                ,          ,         ,          ,TDF      ,1  ,LECT ,TU,  ,  ,  ,  ,  ,  ,0900-1200,FAA2 ,B3055,PRP,STAFF                    ,                    ,                    ,                    ,10 ,16/01/2559 20:00
-,
 3503521,SEM THAI MUS THEO ,3  ,                                                                                ,          ,         ,          ,TDF      ,1  ,LECT ,TU,  ,  ,  ,  ,  ,  ,1300-1600,FAA2 ,B3055,BBS                          ,THAI MUSIC          ,                    ,                    ,15 ,16/01/2559 20:00
-,
 3503522,AESTHETIC TH MUS  ,3  ,                                                                                ,          ,         ,          ,TDF      ,1  ,LECT ,AR,  ,  ,  ,  ,  ,  ,AR-AR    ,     ,AR   ,STAFF                        ,                    ,                    ,                    ,15 ,16/01/2559 20:00
-,
 3503522,AESTHETIC TH MUS  ,3  ,                                                                                ,          ,         ,          ,TDF      ,1  ,PRAC ,AR,  ,  ,  ,  ,  ,  ,AR-AR    ,     ,AR   ,STAFF                        ,                    ,                    ,                    ,15 ,16/01/2559 20:00
-,
 3503523,ADV MTHD ORCH ARR ,3  ,                                                                                ,          ,         ,          ,TDF      ,1  ,LECT ,WE,  ,  ,  ,  ,  ,  ,1300-1500,FAA2 ,B3055,BBS                          ,THAI MUSIC          ,                    ,                    ,30 ,16/01/2559 20:00
-,
 3503523,ADV MTHD ORCH ARR ,3  ,                                                                                ,          ,         ,          ,TDF      ,1  ,LAB  ,AR,  ,  ,  ,  ,  ,  ,AR-AR    ,FAA2 ,B3055,BBS                          ,                    ,                    ,                    ,30 ,16/01/2559 20:00
-,
 3503526,ETHNOMUSICOLOGY   ,3  ,                                                                                ,          ,         ,          ,TDF      ,1  ,LECT ,AR,  ,  ,  ,  ,  ,  ,AR-AR    ,     ,AR   ,STAFF                        ,                    ,                    ,                    ,15 ,16/01/2559 20:00
-,
 3503526,ETHNOMUSICOLOGY   ,3  ,                                                                                ,          ,         ,          ,TDF      ,1  ,LAB  ,AR,  ,  ,  ,  ,  ,  ,AR-AR    ,     ,AR   ,STAFF                        ,                    ,                    ,                    ,15 ,16/01/2559 20:00
-,
 3503534,PRO ADMIN TH MUS  ,3  ,                                                                                ,          ,         ,          ,TDF      ,1  ,LECT ,AR,  ,  ,  ,  ,  ,  ,AR-AR    ,     ,AR   ,STAFF                        ,                    ,                    ,                    ,10 ,16/01/2559 20:00
-,
 3503540,PED SPEC FIELD I  ,3  ,                                                                                ,          ,         ,          ,TDF      ,1  ,LECT ,AR,  ,  ,  ,  ,  ,  ,AR-AR    ,     ,AR   ,STAFF                        ,                    ,                    ,                    ,15 ,16/01/2559 20:00
-,
 3503540,PED SPEC FIELD I  ,3  ,                                                                                ,          ,         ,          ,TDF      ,1  ,PRAC ,AR,  ,  ,  ,  ,  ,  ,AR-AR    ,     ,AR   ,STAFF                        ,                    ,                    ,                    ,15 ,16/01/2559 20:00
-,
 3503541,PED SPEC FIELD II ,3  ,3503540                                                                         ,          ,         ,          ,TDF      ,1  ,LECT ,WE,  ,  ,  ,  ,  ,  ,0900-1100,FAA2 ,B3055,KPS                          ,THAI MUSIC          ,                    ,                    ,10 ,16/01/2559 20:00
-,
 3503541,PED SPEC FIELD II ,3  ,3503540                                                                         ,          ,         ,          ,TDF      ,1  ,PRAC ,AR,  ,  ,  ,  ,  ,  ,AR-AR    ,FAA2 ,B3055,KPS                          ,                    ,                    ,                    ,10 ,16/01/2559 20:00
-,
 3503542,ARTICLE REVIEW    ,3  ,                                                                                ,          ,         ,          ,TDF      ,1  ,LECT ,FR,  ,  ,  ,  ,  ,  ,1300-1400,FAA1 ,A2063,PPV                          ,THAI MUSIC          ,                    ,                    ,10 ,16/01/2559 20:00
-,
 3503542,ARTICLE REVIEW    ,3  ,                                                                                ,          ,         ,          ,TDF      ,1  ,DISC ,FR,  ,  ,  ,  ,  ,  ,1400-1600,FAA1 ,A2063,PPV                          ,                    ,                    ,                    ,10 ,16/01/2559 20:00
-,
 3503562,MASTER COMPO II   ,4  ,3503561 OR C.F.                                                                 ,          ,         ,          ,TDF      ,1  ,LECT ,AR,  ,  ,  ,  ,  ,  ,0900-1000,FAA1 ,AR   ,STAFF                        ,WEST MUSIC          ,                    ,                    ,20 ,16/01/2559 20:00
-,
 3503562,MASTER COMPO II   ,4  ,3503561 OR C.F.                                                                 ,          ,         ,          ,TDF      ,1  ,PRAC ,AR,  ,  ,  ,  ,  ,  ,AR-AR    ,     ,AR   ,STAFF                        ,                    ,                    ,                    ,20 ,16/01/2559 20:00
-,
 3503563,ELEC COMP MUS I   ,3  ,                                                                                ,          ,         ,          ,TDF      ,1  ,LECT ,TU,  ,  ,  ,  ,  ,  ,1800-1900,FAA1 ,A301 ,STAFF                        ,                    ,                    ,                    ,15 ,16/01/2559 20:00
-,
 3503563,ELEC COMP MUS I   ,3  ,                                                                                ,          ,         ,          ,TDF      ,1  ,PRAC ,AR,  ,  ,  ,  ,  ,  ,AR-AR    ,FAA1 ,A301 ,STAFF                        ,                    ,                    ,                    ,15 ,16/01/2559 20:00
-,
 3503564,ELEC COMP MUS II  ,3  ,3503563 OR C.F.                                                                 ,          ,         ,          ,TDF      ,1  ,LECT ,AR,  ,  ,  ,  ,  ,  ,0900-1000,FAA1 ,AR   ,WPN                          ,WEST MUSIC          ,                    ,                    ,20 ,16/01/2559 20:00
-,
 3503564,ELEC COMP MUS II  ,3  ,3503563 OR C.F.                                                                 ,          ,         ,          ,TDF      ,1  ,PRAC ,AR,  ,  ,  ,  ,  ,  ,1000-1400,     ,AR   ,WPN                          ,                    ,                    ,                    ,20 ,16/01/2559 20:00
-,
 3503565,SEM TWE CT MUS I  ,3  ,                                                                                ,          ,         ,          ,TDF      ,1  ,LECT ,AR,  ,  ,  ,  ,  ,  ,AR-AR    ,FAA1 ,A301 ,STAFF                        ,                    ,                    ,                    ,10 ,16/01/2559 20:00
-,
 3503566,SEM TWE CT MUS II ,3  ,3503565 OR C.F.                                                                 ,          ,         ,          ,TDF      ,1  ,LECT ,AR,  ,  ,  ,  ,  ,  ,0900-1200,FAA1 ,A301 ,NDB                          ,WEST MUSIC          ,                    ,                    ,20 ,16/01/2559 20:00
-,
 3503568,APPLIED MUSIC II  ,4  ,                                                                                ,          ,         ,          ,TDF      ,1  ,PRAC ,AR,  ,  ,  ,  ,  ,  ,AR-AR    ,FAA1 ,A301 ,STAFF,STAFF                  ,                    ,                    ,                    ,10 ,16/01/2559 20:00
-,
 3503568,APPLIED MUSIC II  ,4  ,                                                                                ,          ,         ,          ,TDF      ,1  ,DISC ,AR,  ,  ,  ,  ,  ,  ,AR-AR    ,FAA1 ,A301 ,STAFF                        ,                    ,                    ,                    ,10 ,16/01/2559 20:00
-,
 3503569,APPLIED MUSIC III ,4  ,                                                                                ,          ,         ,          ,TDF      ,1  ,DISC ,AR,  ,  ,  ,  ,  ,  ,AR-AR    ,FAA1 ,AR   ,STAFF                        ,WEST MUSIC          ,                    ,                    ,20 ,16/01/2559 20:00
-,
 3503569,APPLIED MUSIC III ,4  ,                                                                                ,          ,         ,          ,TDF      ,1  ,PRAC ,AR,  ,  ,  ,  ,  ,  ,AR-AR    ,FAA1 ,AR   ,STAFF                        ,                    ,                    ,                    ,20 ,16/01/2559 20:00
-,
 3503591,SEM MUS ANA       ,3  ,                                                                                ,          ,         ,          ,TDF      ,1  ,LECT ,AR,  ,  ,  ,  ,  ,  ,AR-AR    ,FAA1 ,A301 ,NPR                          ,                    ,                    ,                    ,10 ,16/01/2559 20:00
-,
 3503811,THESIS            ,12 ,                                                                                ,          ,         ,          ,TDF      ,1  ,LECT ,AR,  ,  ,  ,  ,  ,  ,AR-AR    ,FAA1 ,A301 ,BBS,PRP                      ,THAI MUSIC          ,                    ,                    ,30 ,16/01/2559 20:00
-,
 3503811,THESIS            ,12 ,                                                                                ,          ,         ,          ,TDF      ,2  ,LECT ,AR,  ,  ,  ,  ,  ,  ,AR-AR    ,FAA1 ,A301 ,NDB,NPR                      ,                    ,                    ,                    ,30 ,16/01/2559 20:00
-,
 3504114,THAI DANCE THEORY ,3  ,                                                                                ,          ,         ,          ,TDF      ,1  ,LECT ,MO,  ,  ,  ,  ,  ,  ,1300-1600,BRK  ,608  ,ARB                          ,                    ,                    ,                    ,40 ,16/01/2559 20:00
-,
 3504115,WEST DANCE THEORY ,3  ,                                                                                ,          ,         ,          ,TDF      ,1  ,LECT ,FR,  ,  ,  ,  ,  ,  ,0900-1200,FA3  ,204  ,NCS                          ,                    ,                    ,                    ,40 ,16/01/2559 20:00
-,
 3504144,TH DAN SKI ML II  ,3  ,3504142                                                                         ,          ,         ,          ,TDF      ,1  ,L/P  ,TU,  ,  ,  ,  ,  ,  ,0900-1200,FA3  ,201  ,SVR                          ,                    ,                    ,                    ,15 ,16/01/2559 20:00
-,
 3504144,TH DAN SKI ML II  ,3  ,3504142                                                                         ,          ,         ,          ,TDF      ,1  ,PRAC ,AR,  ,  ,  ,  ,  ,  ,AR-AR    ,     ,AR   ,MAK                          ,                    ,                    ,                    ,15 ,16/01/2559 20:00
-,
 3504145,TH DAN SKI FEM II ,3  ,3504143                                                                         ,          ,         ,          ,TDF      ,1  ,L/P  ,TU,  ,  ,  ,  ,  ,  ,0900-1200,FA3  ,203  ,SVR                          ,                    ,                    ,                    ,15 ,16/01/2559 20:00
-,
 3504145,TH DAN SKI FEM II ,3  ,3504143                                                                         ,          ,         ,          ,TDF      ,1  ,PRAC ,AR,  ,  ,  ,  ,  ,  ,AR-AR    ,     ,AR   ,MAK                          ,                    ,                    ,                    ,15 ,16/01/2559 20:00
-,
 3504150,BALLET TECH I     ,3  ,                                                                                ,          ,         ,          ,TDF      ,1  ,LECT ,AR,  ,  ,  ,  ,  ,  ,AR-AR    ,FAA2 ,B202 ,STAFF                        ,DANCE               ,                    ,                    ,20 ,16/01/2559 20:00
-,
 3504150,BALLET TECH I     ,3  ,                                                                                ,          ,         ,          ,TDF      ,1  ,PRAC ,AR,  ,  ,  ,  ,  ,  ,AR-AR    ,FAA2 ,B202 ,STAFF                        ,                    ,                    ,                    ,20 ,16/01/2559 20:00
-,
 3504151,BALLET TECH II    ,3  ,3504150                                                                         ,          ,         ,          ,TDF      ,1  ,LECT ,AR,  ,  ,  ,  ,  ,  ,AR-AR    ,FAA2 ,B202 ,STAFF                        ,                    ,                    ,                    ,20 ,16/01/2559 20:00
-,
 3504151,BALLET TECH II    ,3  ,3504150                                                                         ,          ,         ,          ,TDF      ,1  ,PRAC ,TH,  ,  ,  ,  ,  ,  ,0900-1400,FA3  ,204  ,STAFF                        ,                    ,                    ,                    ,20 ,16/01/2559 20:00
-,
 3504151,BALLET TECH II    ,3  ,3504150                                                                         ,          ,         ,          ,TDF      ,2  ,LECT ,TH,  ,  ,  ,  ,  ,  ,0900-1000,FA3  ,AR   ,STAFF                        ,DANCE               ,                    ,                    ,20 ,16/01/2559 20:00
-,
 3504151,BALLET TECH II    ,3  ,3504150                                                                         ,          ,         ,          ,TDF      ,2  ,PRAC ,TH,  ,  ,  ,  ,  ,  ,1000-1500,FA3  ,AR   ,STAFF                        ,                    ,                    ,                    ,20 ,16/01/2559 20:00
-,
 3504190,CONTEM DANCE I    ,3  ,                                                                                ,          ,         ,          ,TDF      ,1  ,L/P  ,TU,  ,  ,  ,  ,  ,  ,0900-1200,FA3  ,204  ,NCS                          ,                    ,                    ,                    ,40 ,16/01/2559 20:00
-,
 3504190,CONTEM DANCE I    ,3  ,                                                                                ,          ,         ,          ,TDF      ,1  ,PRAC ,AR,  ,  ,  ,  ,  ,  ,AR-AR    ,     ,AR   ,NCS                          ,                    ,                    ,                    ,40 ,16/01/2559 20:00
-,
 3504210,ORNTL DANCE THEORY,3  ,                                                                                ,          ,         ,          ,TDF      ,1  ,LECT ,WE,  ,  ,  ,  ,  ,  ,1300-1600,MCS  ,501/2,VVD                          ,                    ,                    ,                    ,50 ,16/01/2559 20:00
-,
 3504242,TH DAN SKI ML III ,3  ,3504144                                                                         ,          ,         ,          ,TDF      ,1  ,LECT ,AR,  ,  ,  ,  ,  ,  ,AR-AR    ,FA3  ,204  ,STAFF                        ,                    ,                    ,                    ,5  ,16/01/2559 20:00
-,
 3504242,TH DAN SKI ML III ,3  ,3504144                                                                         ,          ,         ,          ,TDF      ,1  ,PRAC ,IA,  ,  ,  ,  ,  ,  ,IA-IA    ,     ,IA   ,STAFF                        ,                    ,                    ,                    ,5  ,16/01/2559 20:00
-,
 3504244,TH DAN SKI ML IV  ,3  ,3504242                                                                         ,          ,         ,          ,TDF      ,1  ,LECT ,AR,  ,  ,  ,  ,  ,  ,AR-AR    ,FA3  ,204  ,PSV                          ,                    ,                    ,                    ,15 ,16/01/2559 20:00
-,
 3504244,TH DAN SKI ML IV  ,3  ,3504242                                                                         ,          ,         ,          ,TDF      ,1  ,PRAC ,AR,  ,  ,  ,  ,  ,  ,AR-AR    ,FA3  ,204  ,ARB                          ,                    ,                    ,                    ,15 ,16/01/2559 20:00
-,
 3504245,TH DAN SKI FEM IV ,3  ,3504243                                                                         ,          ,         ,          ,TDF      ,1  ,LECT ,AR,  ,  ,  ,  ,  ,  ,AR-AR    ,FAA2 ,B203 ,PSV                          ,                    ,                    ,                    ,15 ,16/01/2559 20:00
-,
 3504245,TH DAN SKI FEM IV ,3  ,3504243                                                                         ,          ,         ,          ,TDF      ,1  ,PRAC ,TU,  ,  ,  ,  ,  ,  ,1300-1800,FAA2 ,B203 ,ARB                          ,                    ,                    ,                    ,15 ,16/01/2559 20:00
-,
 3504251,BALLET TECH IV    ,3  ,3504250                                                                         ,          ,         ,          ,TDF      ,1  ,LECT ,AR,  ,  ,  ,  ,  ,  ,AR-AR    ,FA3  ,201  ,SBP                          ,                    ,                    ,                    ,30 ,16/01/2559 20:00
-,
 3504251,BALLET TECH IV    ,3  ,3504250                                                                         ,          ,         ,          ,TDF      ,1  ,PRAC ,WE,  ,  ,  ,  ,  ,  ,1300-1800,FA3  ,204  ,SBP                          ,                    ,                    ,                    ,30 ,16/01/2559 20:00
-,
 3504251,BALLET TECH IV    ,3  ,3504250                                                                         ,          ,         ,          ,TDF      ,2  ,LECT ,AR,  ,  ,  ,  ,  ,  ,AR-AR    ,FAA2 ,B202 ,NCS                          ,                    ,                    ,                    ,30 ,16/01/2559 20:00
-,
 3504251,BALLET TECH IV    ,3  ,3504250                                                                         ,          ,         ,          ,TDF      ,2  ,PRAC ,TH,  ,  ,  ,  ,  ,  ,1300-1800,FAA2 ,B203 ,NCS                          ,                    ,                    ,                    ,30 ,16/01/2559 20:00
-,
 3504270,THAI DANCE LIT    ,3  ,                                                                                ,          ,         ,          ,TDF      ,1  ,L/P  ,WE,  ,  ,  ,  ,  ,  ,0900-1200,BRK  ,601  ,STAFF                        ,DANCE               ,                    ,                    ,30 ,16/01/2559 20:00
-,
 3504270,THAI DANCE LIT    ,3  ,                                                                                ,          ,         ,          ,TDF      ,1  ,PRAC ,AR,  ,  ,  ,  ,  ,  ,AR-AR    ,     ,AR   ,STAFF                        ,                    ,                    ,                    ,30 ,16/01/2559 20:00
-,
 3504290,CONTEM DANCE II   ,3  ,3504190                                                                         ,          ,         ,          ,TDF      ,1  ,LECT ,AR,  ,  ,  ,  ,  ,  ,AR-AR    ,FAA2 ,B203 ,SSK                          ,                    ,                    ,                    ,30 ,16/01/2559 20:00
-,
 3504290,CONTEM DANCE II   ,3  ,3504190                                                                         ,          ,         ,          ,TDF      ,1  ,PRAC ,FR,  ,  ,  ,  ,  ,  ,1300-1800,FA3  ,204  ,SSK                          ,                    ,                    ,                    ,30 ,16/01/2559 20:00
-,
 3504295,THEATRE DANCE II  ,3  ,3504195                                                                         ,          ,         ,          ,TDF      ,1  ,LECT ,AR,  ,  ,  ,  ,  ,  ,AR-AR    ,FA3  ,201  ,SBP                          ,                    ,                    ,                    ,20 ,16/01/2559 20:00
-,
 3504295,THEATRE DANCE II  ,3  ,3504195                                                                         ,          ,         ,          ,TDF      ,1  ,PRAC ,TH,  ,  ,  ,  ,  ,  ,1300-1800,FA3  ,204  ,SBP                          ,                    ,                    ,                    ,20 ,16/01/2559 20:00
-,
 3504311,CHOREOGRAPHY I    ,3  ,                                                                                ,          ,         ,          ,TDF      ,1  ,LECT ,TU,  ,  ,  ,  ,  ,  ,0900-1200,BRK  ,609  ,SBP                          ,                    ,                    ,                    ,30 ,16/01/2559 20:00
-,
 3504311,CHOREOGRAPHY I    ,3  ,                                                                                ,          ,         ,          ,TDF      ,2  ,LECT ,FR,  ,  ,  ,  ,  ,  ,1300-1600,FA3  ,201  ,STAFF                        ,DANCE               ,                    ,                    ,30 ,16/01/2559 20:00
-,
 3504318,RSRCH DANCE I     ,3  ,                                                                                ,          ,         ,          ,TDF      ,1  ,LECT ,MO,  ,  ,  ,  ,  ,  ,0900-1200,BRK  ,610  ,PSV                          ,                    ,                    ,                    ,40 ,16/01/2559 20:00
-,
 3504318,RSRCH DANCE I     ,3  ,                                                                                ,          ,         ,          ,TDF      ,2  ,LECT ,AR,  ,  ,  ,  ,  ,  ,AR-AR    ,     ,AR   ,STAFF                        ,                    ,                    ,                    ,40 ,16/01/2559 20:00
-,
 3504344,TH DAN SKI ML VI  ,3  ,3504342                                                                         ,          ,         ,          ,TDF      ,1  ,LECT ,AR,  ,  ,  ,  ,  ,  ,AR-AR    ,FAA2 ,B203 ,MAK                          ,                    ,                    ,                    ,15 ,16/01/2559 20:00
-,
 3504344,TH DAN SKI ML VI  ,3  ,3504342                                                                         ,          ,         ,          ,TDF      ,1  ,PRAC ,TU,  ,  ,  ,  ,  ,  ,1300-1800,FAA2 ,B203 ,PSV                          ,                    ,                    ,                    ,15 ,16/01/2559 20:00
-,
 3504345,TH DAN SKI FEM VI ,3  ,3504343                                                                         ,          ,         ,          ,TDF      ,1  ,LECT ,AR,  ,  ,  ,  ,  ,  ,AR-AR    ,FAA2 ,B202 ,MAK                          ,                    ,                    ,                    ,15 ,16/01/2559 20:00
-,
 3504345,TH DAN SKI FEM VI ,3  ,3504343                                                                         ,          ,         ,          ,TDF      ,1  ,PRAC ,TU,  ,  ,  ,  ,  ,  ,1300-1800,FAA2 ,B203 ,PSV                          ,                    ,                    ,                    ,15 ,16/01/2559 20:00
-,
 3504351,BALLET TECH VI    ,3  ,3504350                                                                         ,          ,         ,          ,TDF      ,1  ,LECT ,AR,  ,  ,  ,  ,  ,  ,AR-AR    ,FAA2 ,B203 ,SSK                          ,                    ,                    ,                    ,20 ,16/01/2559 20:00
-,
 3504351,BALLET TECH VI    ,3  ,3504350                                                                         ,          ,         ,          ,TDF      ,1  ,PRAC ,TU,  ,  ,  ,  ,  ,  ,1300-1800,FAA2 ,B202 ,SSK                          ,                    ,                    ,                    ,20 ,16/01/2559 20:00
-,
 3504360,INDIAN DANCE      ,3  ,                                                                                ,          ,         ,          ,TDF      ,1  ,LECT ,TH,  ,  ,  ,  ,  ,  ,1300-1400,FAA2 ,B203 ,STAFF                        ,                    ,                    ,                    ,40 ,16/01/2559 20:00
-,
 3504360,INDIAN DANCE      ,3  ,                                                                                ,          ,         ,          ,TDF      ,1  ,PRAC ,TH,  ,  ,  ,  ,  ,  ,1400-1900,     ,AR   ,STAFF                        ,                    ,                    ,                    ,40 ,16/01/2559 20:00
-,
 3504361,INDONESIAN DANCE  ,3  ,                                                                                ,          ,         ,          ,TDF      ,1  ,LECT ,AR,  ,  ,  ,  ,  ,  ,0900-1000,FAA2 ,B202 ,STAFF                        ,DANCE               ,                    ,                    ,40 ,16/01/2559 20:00
-,
 3504361,INDONESIAN DANCE  ,3  ,                                                                                ,          ,         ,          ,TDF      ,1  ,PRAC ,AR,  ,  ,  ,  ,  ,  ,AR-AR    ,     ,AR   ,STAFF                        ,                    ,                    ,                    ,40 ,16/01/2559 20:00
-,
 3504373,SOUTHERN DANCE    ,3  ,                                                                                ,          ,         ,          ,TDF      ,1  ,L/P  ,TU,  ,  ,  ,  ,  ,  ,1300-1600,FA3  ,201  ,STAFF                        ,DANCE               ,                    ,                    ,60 ,16/01/2559 20:00
-,
 3504373,SOUTHERN DANCE    ,3  ,                                                                                ,          ,         ,          ,TDF      ,1  ,PRAC ,AR,  ,  ,  ,  ,  ,  ,AR-AR    ,     ,AR   ,STAFF                        ,                    ,                    ,                    ,60 ,16/01/2559 20:00
-,
 3504417,PROF PRAC DANCE   ,3  ,                                                                                ,          ,         ,          ,TDF      ,1  ,FWK  ,AR,  ,  ,  ,  ,  ,  ,AR-AR    ,FAA2 ,B201 ,STAFF                        ,DANCE               ,                    ,                    ,10 ,16/01/2559 20:00
-,
 3504490,SNR PROJ DANCE    ,6  ,3504450 OR 3504441 OR 3504442 & 3504312 & 3504418                               ,          ,         ,          ,TDF      ,1  ,LECT ,AR,  ,  ,  ,  ,  ,  ,AR-AR    ,BRK  ,614  ,STAFF                        ,                    ,                    ,                    ,25 ,16/01/2559 20:00
-,
 3504490,SNR PROJ DANCE    ,6  ,3504450 OR 3504441 OR 3504442 & 3504312 & 3504418                               ,          ,         ,          ,TDF      ,1  ,PRAC ,TH,  ,  ,  ,  ,  ,  ,1300-1800,FAA2 ,B202 ,STAFF                        ,                    ,                    ,                    ,25 ,16/01/2559 20:00
-,
 3504490,SNR PROJ DANCE    ,6  ,3504450 OR 3504441 OR 3504442 & 3504312 & 3504418                               ,          ,         ,          ,TDF      ,2  ,LECT ,AR,  ,  ,  ,  ,  ,  ,AR-AR    ,FAA2 ,B202 ,STAFF                        ,                    ,                    ,                    ,30 ,16/01/2559 20:00
-,
 3504490,SNR PROJ DANCE    ,6  ,3504450 OR 3504441 OR 3504442 & 3504312 & 3504418                               ,          ,         ,          ,TDF      ,2  ,PRAC ,AR,  ,  ,  ,  ,  ,  ,AR-AR    ,FAA2 ,B202 ,STAFF                        ,                    ,                    ,                    ,30 ,16/01/2559 20:00
-,
 3504512,SEM TH DANC LIT   ,3  ,                                                                                ,          ,         ,          ,TDF      ,1  ,LECT ,AR,  ,  ,  ,  ,  ,  ,AR-AR    ,BRK  ,613  ,STAFF                        ,                    ,                    ,                    ,20 ,16/01/2559 20:00
-,
 3504520,THAI DANCE HIST   ,3  ,                                                                                ,          ,         ,          ,TDF      ,1  ,LECT ,AR,  ,  ,  ,  ,  ,  ,AR-AR    ,BRK  ,613  ,STAFF                        ,                    ,                    ,                    ,30 ,16/01/2559 20:00
-,
 3504528,TH DANC SOC CONTEX,3  ,                                                                                ,          ,         ,          ,TDF      ,1  ,LECT ,AR,  ,  ,  ,  ,  ,  ,AR-AR    ,FAA2 ,B201 ,STAFF                        ,                    ,                    ,                    ,30 ,16/01/2559 20:00
-,
 3504531,THAI DANCES FORUM ,3  ,                                                                                ,          ,         ,          ,TDF      ,1  ,LECT ,AR,  ,  ,  ,  ,  ,  ,AR-AR    ,     ,AR   ,STAFF                        ,                    ,                    ,                    ,15 ,16/01/2559 20:00
-,
 3504531,THAI DANCES FORUM ,3  ,                                                                                ,          ,         ,          ,TDF      ,1  ,LAB  ,AR,  ,  ,  ,  ,  ,  ,AR-AR    ,     ,AR   ,STAFF                        ,                    ,                    ,                    ,15 ,16/01/2559 20:00
-,
 3504811,THESIS            ,12 ,                                                                                ,          ,         ,          ,TDF      ,1  ,IDPS ,IA,  ,  ,  ,  ,  ,  ,IA-IA    ,FAA2 ,B201 ,STAFF                        ,DANCE               ,                    ,                    ,30 ,16/01/2559 20:00
-,
 3504828,DISSERTATION      ,48 ,                                                                                ,          ,         ,          ,TDF      ,1  ,IDPS ,IA,  ,  ,  ,  ,  ,  ,0900-1200,FAA1 ,IA   ,STAFF                        ,DANCE               ,                    ,                    ,20 ,16/01/2559 20:00
-,
 3504828,DISSERTATION      ,48 ,                                                                                ,          ,         ,          ,TDF      ,1  ,IDPS ,IA,  ,  ,  ,  ,  ,  ,IA-IA    ,     ,IA   ,STAFF                        ,                    ,                    ,                    ,20 ,16/01/2559 20:00
-,
 3504894,DOC DISSERT SEM   ,0  ,                                                                                ,          ,         ,          ,TDF      ,1  ,LECT ,FR,  ,  ,  ,  ,  ,  ,0900-1200,BRK  ,AR   ,STAFF                        ,DANCE               ,                    ,                    ,20 ,16/01/2559 20:00
-,

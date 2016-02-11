@@ -1,638 +1,319 @@
 3900106,SP ACT-BADMINTON  ,1  ,                                                                                ,          ,         ,          ,TDF      ,1  ,PRAC ,MO,  ,  ,  ,  ,  ,  ,1000-1200,CUSC ,BATMI,CYK                          ,                    ,                    ,                    ,30 ,16/01/2559 20:00
-,
 3900106,SP ACT-BADMINTON  ,1  ,                                                                                ,          ,         ,          ,TDF      ,10 ,PRAC ,WE,  ,  ,  ,  ,  ,  ,1000-1200,CUSC ,BATMI,NKK                          ,                    ,                    ,                    ,30 ,16/01/2559 20:00
-,
 3900106,SP ACT-BADMINTON  ,1  ,                                                                                ,          ,         ,          ,TDF      ,2  ,PRAC ,MO,  ,  ,  ,  ,  ,  ,1300-1500,CUSC ,BATMI,STAFF                        ,                    ,                    ,                    ,30 ,16/01/2559 20:00
-,
 3900106,SP ACT-BADMINTON  ,1  ,                                                                                ,          ,         ,          ,TDF      ,3  ,PRAC ,TU,  ,  ,  ,  ,  ,  ,1000-1200,CUSC ,BATMI,BCR                          ,                    ,                    ,                    ,30 ,16/01/2559 20:00
-,
 3900106,SP ACT-BADMINTON  ,1  ,                                                                                ,          ,         ,          ,TDF      ,4  ,PRAC ,TU,  ,  ,  ,  ,  ,  ,1300-1500,CUSC ,BATMI,STAFF                        ,                    ,                    ,                    ,30 ,16/01/2559 20:00
-,
 3900106,SP ACT-BADMINTON  ,1  ,                                                                                ,          ,         ,          ,TDF      ,5  ,PRAC ,WE,  ,  ,  ,  ,  ,  ,1300-1500,CUSC ,BATMI,STAFF                        ,                    ,                    ,                    ,30 ,16/01/2559 20:00
-,
 3900106,SP ACT-BADMINTON  ,1  ,                                                                                ,          ,         ,          ,TDF      ,6  ,PRAC ,TH,  ,  ,  ,  ,  ,  ,1000-1200,CUSC ,BATMI,SKK                          ,                    ,                    ,                    ,30 ,16/01/2559 20:00
-,
 3900106,SP ACT-BADMINTON  ,1  ,                                                                                ,          ,         ,          ,TDF      ,7  ,PRAC ,TH,  ,  ,  ,  ,  ,  ,1300-1500,CUSC ,BATMI,STAFF                        ,                    ,                    ,                    ,30 ,16/01/2559 20:00
-,
 3900106,SP ACT-BADMINTON  ,1  ,                                                                                ,          ,         ,          ,TDF      ,8  ,PRAC ,FR,  ,  ,  ,  ,  ,  ,1000-1200,CUSC ,BATMI,STAFF                        ,                    ,                    ,                    ,30 ,16/01/2559 20:00
-,
 3900106,SP ACT-BADMINTON  ,1  ,                                                                                ,          ,         ,          ,TDF      ,9  ,PRAC ,FR,  ,  ,  ,  ,  ,  ,1300-1500,CUSC ,BATMI,STAFF                        ,                    ,                    ,                    ,30 ,16/01/2559 20:00
-,
 3900107,SP ACT-BODY CONDIT,1  ,                                                                                ,          ,         ,          ,TDF      ,1  ,PRAC ,MO,  ,  ,  ,  ,  ,  ,1300-1500,BSB2 ,202/1,STAFF                        ,                    ,                    ,                    ,30 ,16/01/2559 20:00
-,
 3900107,SP ACT-BODY CONDIT,1  ,                                                                                ,          ,         ,          ,TDF      ,2  ,PRAC ,TU,  ,  ,  ,  ,  ,  ,1300-1500,BSB2 ,202/1,WBR                          ,                    ,                    ,                    ,30 ,16/01/2559 20:00
-,
 3900107,SP ACT-BODY CONDIT,1  ,                                                                                ,          ,         ,          ,TDF      ,3  ,PRAC ,WE,  ,  ,  ,  ,  ,  ,1300-1500,BSB2 ,202/1,CIP                          ,                    ,                    ,                    ,30 ,16/01/2559 20:00
-,
 3900107,SP ACT-BODY CONDIT,1  ,                                                                                ,          ,         ,          ,TDF      ,4  ,PRAC ,TH,  ,  ,  ,  ,  ,  ,1300-1500,BSB2 ,202/1,STAFF                        ,                    ,                    ,                    ,30 ,16/01/2559 20:00
-,
 3900108,SP ACT-BOXING     ,1  ,                                                                                ,          ,         ,          ,TDF      ,1  ,PRAC ,TU,  ,  ,  ,  ,  ,  ,1000-1200,CUSC ,BOXIN,STAFF                        ,                    ,                    ,                    ,50 ,16/01/2559 20:00
-,
 3900109,SP ACT-BRIDGE     ,1  ,                                                                                ,          ,         ,          ,TDF      ,1  ,PRAC ,FR,  ,  ,  ,  ,  ,  ,1300-1500,CUP7 ,1114 ,STAFF                        ,                    ,                    ,                    ,60 ,16/01/2559 20:00
-,
 3900109,SP ACT-BRIDGE     ,1  ,                                                                                ,          ,         ,          ,TDF      ,2  ,PRAC ,FR,  ,  ,  ,  ,  ,  ,1500-1700,CUP7 ,1113 ,STAFF                        ,                    ,                    ,                    ,60 ,16/01/2559 20:00
-,
 3900110,SP ACT-GOLF       ,1  ,                                                                                ,          ,         ,          ,TDF      ,1  ,PRAC ,TU,  ,  ,  ,  ,  ,  ,1000-1200,CUSC ,CUSC ,STAFF                        ,                    ,                    ,                    ,30 ,16/01/2559 20:00
-,
 3900110,SP ACT-GOLF       ,1  ,                                                                                ,          ,         ,          ,TDF      ,2  ,PRAC ,TU,  ,  ,  ,  ,  ,  ,1300-1500,CUSC ,CUSC ,STAFF                        ,                    ,                    ,                    ,30 ,16/01/2559 20:00
-,
 3900110,SP ACT-GOLF       ,1  ,                                                                                ,          ,         ,          ,TDF      ,3  ,PRAC ,FR,  ,  ,  ,  ,  ,  ,1300-1500,CUSC ,CUSC ,STAFF                        ,                    ,                    ,                    ,30 ,16/01/2559 20:00
-,
 3900112,INTER FOLK DANCE  ,1  ,                                                                                ,          ,         ,          ,TDF      ,1  ,PRAC ,TU,  ,  ,  ,  ,  ,  ,1500-1700,CUP8 ,2204 ,STAFF                        ,                    ,                    ,                    ,50 ,16/01/2559 20:00
-,
 3900113,SP ACT-JUDO       ,1  ,                                                                                ,          ,         ,          ,TDF      ,1  ,PRAC ,TH,  ,  ,  ,  ,  ,  ,1300-1500,CUSC ,JUDO ,STAFF                        ,                    ,                    ,                    ,40 ,16/01/2559 20:00
-,
 3900114,SP ACT-KARATE     ,1  ,                                                                                ,          ,         ,          ,TDF      ,1  ,PRAC ,MO,  ,  ,  ,  ,  ,  ,1500-1700,CUSC ,TAKRA,CGT,STAFF                    ,                    ,                    ,                    ,35 ,16/01/2559 20:00
-,
 3900115,SP ACT-MUAYTHAI   ,1  ,                                                                                ,          ,         ,          ,TDF      ,1  ,PRAC ,WE,  ,  ,  ,  ,  ,  ,1000-1200,CUSC ,CUSC ,RLD                          ,NON SPSC            ,                    ,                    ,30 ,16/01/2559 20:00
-,
 3900116,SP ACT-RHYTHM     ,1  ,                                                                                ,          ,         ,          ,TDF      ,1  ,PRAC ,TU,  ,  ,  ,  ,  ,  ,1300-1500,CUP8 ,2204 ,STAFF                        ,MALE                ,                    ,                    ,35 ,16/01/2559 20:00
-,
 3900116,SP ACT-RHYTHM     ,1  ,                                                                                ,          ,         ,          ,TDF      ,2  ,PRAC ,TU,  ,  ,  ,  ,  ,  ,1300-1500,CUP8 ,2204 ,STAFF                        ,FEMALE              ,                    ,                    ,35 ,16/01/2559 20:00
-,
 3900116,SP ACT-RHYTHM     ,1  ,                                                                                ,          ,         ,          ,TDF      ,3  ,PRAC ,TH,  ,  ,  ,  ,  ,  ,1300-1500,CUP8 ,2204 ,UKN                          ,MALE                ,                    ,                    ,35 ,16/01/2559 20:00
-,
 3900116,SP ACT-RHYTHM     ,1  ,                                                                                ,          ,         ,          ,TDF      ,4  ,PRAC ,TH,  ,  ,  ,  ,  ,  ,1300-1500,CUP8 ,2204 ,UKN                          ,FEMALE              ,                    ,                    ,35 ,16/01/2559 20:00
-,
 3900116,SP ACT-RHYTHM     ,1  ,                                                                                ,          ,         ,          ,TDF      ,5  ,PRAC ,FR,  ,  ,  ,  ,  ,  ,1000-1200,CUP8 ,2204 ,TGC                          ,MALE                ,                    ,                    ,35 ,16/01/2559 20:00
-,
 3900116,SP ACT-RHYTHM     ,1  ,                                                                                ,          ,         ,          ,TDF      ,6  ,PRAC ,FR,  ,  ,  ,  ,  ,  ,1000-1200,CUP8 ,2204 ,TGC                          ,FEMALE              ,                    ,                    ,35 ,16/01/2559 20:00
-,
 3900116,SP ACT-RHYTHM     ,1  ,                                                                                ,          ,         ,          ,TDF      ,7  ,PRAC ,FR,  ,  ,  ,  ,  ,  ,1300-1500,CUP8 ,2204 ,TGC                          ,MALE                ,                    ,                    ,35 ,16/01/2559 20:00
-,
 3900116,SP ACT-RHYTHM     ,1  ,                                                                                ,          ,         ,          ,TDF      ,8  ,PRAC ,FR,  ,  ,  ,  ,  ,  ,1300-1500,CUP8 ,2204 ,TGC                          ,FEMALE              ,                    ,                    ,35 ,16/01/2559 20:00
-,
 3900120,SP ACT-SWIMMING   ,1  ,                                                                                ,          ,         ,          ,TDF      ,1  ,PRAC ,TU,  ,  ,  ,  ,  ,  ,1000-1200,CUSCS,SWIM ,STAFF                        ,                    ,                    ,                    ,35 ,16/01/2559 20:00
-,
 3900120,SP ACT-SWIMMING   ,1  ,                                                                                ,          ,         ,          ,TDF      ,2  ,PRAC ,TU,  ,  ,  ,  ,  ,  ,1300-1500,CUSCS,SWIM ,STAFF                        ,                    ,                    ,                    ,35 ,16/01/2559 20:00
-,
 3900120,SP ACT-SWIMMING   ,1  ,                                                                                ,          ,         ,          ,TDF      ,3  ,PRAC ,TH,  ,  ,  ,  ,  ,  ,1000-1200,CUSCS,SWIM ,STAFF                        ,                    ,                    ,                    ,35 ,16/01/2559 20:00
-,
 3900120,SP ACT-SWIMMING   ,1  ,                                                                                ,          ,         ,          ,TDF      ,4  ,PRAC ,FR,  ,  ,  ,  ,  ,  ,1300-1500,CUSCS,SWIM ,STAFF                        ,                    ,                    ,                    ,35 ,16/01/2559 20:00
-,
 3900125,SP ACT-TENNIS     ,1  ,                                                                                ,          ,         ,          ,TDF      ,1  ,PRAC ,MO,  ,  ,  ,  ,  ,  ,0800-1000,CUSCT,TENNI,STAFF                        ,                    ,                    ,                    ,35 ,16/01/2559 20:00
-,
 3900125,SP ACT-TENNIS     ,1  ,                                                                                ,          ,         ,          ,TDF      ,2  ,PRAC ,WE,  ,  ,  ,  ,  ,  ,0800-1000,CUSCT,TENNI,STAFF                        ,                    ,                    ,                    ,35 ,16/01/2559 20:00
-,
 3900125,SP ACT-TENNIS     ,1  ,                                                                                ,          ,         ,          ,TDF      ,3  ,PRAC ,FR,  ,  ,  ,  ,  ,  ,0800-1000,CUSCT,TENNI,STAFF                        ,                    ,                    ,                    ,35 ,16/01/2559 20:00
-,
 3900127,SP ACT SOC DANCE  ,1  ,2705114, 3900116                                                                ,          ,         ,          ,TDF      ,1  ,PRAC ,TH,  ,  ,  ,  ,  ,  ,1500-1700,CUP8 ,2204 ,UKN                          ,                    ,                    ,                    ,35 ,16/01/2559 20:00
-,
 3900127,SP ACT SOC DANCE  ,1  ,2705114, 3900116                                                                ,          ,         ,          ,TDF      ,2  ,PRAC ,TH,  ,  ,  ,  ,  ,  ,1500-1700,CUP8 ,2204 ,UKN                          ,                    ,                    ,                    ,35 ,16/01/2559 20:00
-,
 3900128,SP ACT-THAI DANCE ,1  ,                                                                                ,          ,         ,          ,TDF      ,1  ,PRAC ,TU,  ,  ,  ,  ,  ,  ,0800-1000,CUP8 ,2204 ,OKN                          ,                    ,                    ,                    ,30 ,16/01/2559 20:00
-,
 3900129,SP ACT-TAEKWONDO  ,1  ,                                                                                ,          ,         ,          ,TDF      ,1  ,PRAC ,WE,  ,  ,  ,  ,  ,  ,1300-1500,CUSC ,CUSC ,STAFF                        ,                    ,                    ,                    ,35 ,16/01/2559 20:00
-,
 3900200,EX/SP HLTH        ,3  ,                                                                                ,          ,         ,          ,TDF      ,1  ,LECT ,TU,  ,  ,  ,  ,  ,  ,0900-1100,BSB2 ,202/1,CCP,SPB                      ,                    ,                    ,                    ,40 ,16/01/2559 20:00
-,
 3900200,EX/SP HLTH        ,3  ,                                                                                ,          ,         ,          ,TDF      ,1  ,PRAC ,TU,  ,  ,  ,  ,  ,  ,1100-1300,BSB2 ,202/1,CCP,SPB                      ,                    ,                    ,                    ,40 ,16/01/2559 20:00
-,
 3900201,MASSAGE FOR HEALTH,3  ,                                                                                ,          ,         ,          ,TDF      ,1  ,LECT ,WE,  ,  ,  ,  ,  ,  ,0800-0900,CUP7 ,1113 ,SSS,WLW                      ,ID.543XXXXX39       ,                    ,                    ,2  ,16/01/2559 20:00
-,
 3900201,MASSAGE FOR HEALTH,3  ,                                                                                ,          ,         ,          ,TDF      ,1  ,PRAC ,WE,  ,  ,  ,  ,  ,  ,0900-1300,CUP7 ,1113 ,SSS,WLW                      ,                    ,                    ,                    ,2  ,16/01/2559 20:00
-,
 3900227,PRE SP INJ/FST AID,3  ,3900222                                                                         ,          ,         ,          ,TDF      ,1  ,LECT ,WE,  ,  ,  ,  ,  ,  ,1300-1500,CUP7 ,1114 ,WTK                          ,                    ,                    ,                    ,15 ,16/01/2559 20:00
-,
 3900227,PRE SP INJ/FST AID,3  ,3900222                                                                         ,          ,         ,          ,TDF      ,1  ,PRAC ,WE,  ,  ,  ,  ,  ,  ,1500-1700,CUP7 ,1111 ,WTK                          ,                    ,                    ,                    ,15 ,16/01/2559 20:00
-,
 3900251,TABLE TENNIS      ,1  ,                                                                                ,          ,         ,          ,TDF      ,1  ,PRAC ,MO,  ,  ,  ,  ,  ,  ,1500-1700,CUSC ,TABLE,STAFF                        ,                    ,                    ,                    ,30 ,16/01/2559 20:00
-,
 3900261,YOGA              ,1  ,                                                                                ,          ,         ,          ,TDF      ,1  ,PRAC ,MO,  ,  ,  ,  ,  ,  ,1300-1500,CUP8 ,2204 ,STAFF                        ,NON SPSC            ,                    ,                    ,60 ,16/01/2559 20:00
-,
 3900261,YOGA              ,1  ,                                                                                ,          ,         ,          ,TDF      ,2  ,PRAC ,WE,  ,  ,  ,  ,  ,  ,1300-1500,CUP8 ,2204 ,STAFF                        ,NON SPSC            ,                    ,                    ,57 ,16/01/2559 20:00
-,
 3900321,INTRO SPT BIOMECH ,2  ,                                                                                ,          ,         ,          ,TDF      ,1  ,LECT ,MO,  ,  ,  ,  ,  ,  ,0900-1100,CUP7 ,1111 ,NCN                          ,                    ,                    ,                    ,80 ,16/01/2559 20:00
-,
 3900402,WATER SAFE/LIFE   ,1  ,3900120 OR 3900133                                                              ,          ,         ,          ,TDF      ,1  ,PRAC ,MO,  ,  ,  ,  ,  ,  ,1300-1500,CUSCS,SWIM ,STAFF                        ,NON SPSC            ,                    ,                    ,20 ,16/01/2559 20:00
-,
 3900403,PROF EXP          ,5  ,                                                                                ,          ,         ,          ,TDF      ,1  ,FWK  ,IA,  ,  ,  ,  ,  ,  ,IA-IA    ,CUP7 ,1231 ,STAFF                        ,                    ,                    ,                    ,10 ,16/01/2559 20:00
-,
 3900813,THESIS            ,18 ,                                                                                ,          ,         ,          ,TDF      ,1  ,IDPS ,IA,  ,  ,  ,  ,  ,  ,IA-IA    ,CUP7 ,IA   ,TKP                          ,                    ,                    ,                    ,10 ,16/01/2559 20:00
-,
 3900813,THESIS            ,18 ,                                                                                ,          ,         ,          ,TDF      ,10 ,IDPS ,IA,  ,  ,  ,  ,  ,  ,IA-IA    ,CUP7 ,IA   ,CLR                          ,                    ,                    ,                    ,10 ,16/01/2559 20:00
-,
 3900813,THESIS            ,18 ,                                                                                ,          ,         ,          ,TDF      ,11 ,IDPS ,IA,  ,  ,  ,  ,  ,  ,IA-IA    ,CUP7 ,IA   ,NKK                          ,                    ,                    ,                    ,10 ,16/01/2559 20:00
-,
 3900813,THESIS            ,18 ,                                                                                ,          ,         ,          ,TDF      ,12 ,IDPS ,IA,  ,  ,  ,  ,  ,  ,IA-IA    ,CUP7 ,IA   ,WBR                          ,                    ,                    ,                    ,10 ,16/01/2559 20:00
-,
 3900813,THESIS            ,18 ,                                                                                ,          ,         ,          ,TDF      ,13 ,IDPS ,IA,  ,  ,  ,  ,  ,  ,IA-IA    ,CUP7 ,IA   ,SKK                          ,                    ,                    ,                    ,10 ,16/01/2559 20:00
-,
 3900813,THESIS            ,18 ,                                                                                ,          ,         ,          ,TDF      ,14 ,IDPS ,IA,  ,  ,  ,  ,  ,  ,IA-IA    ,CUP7 ,IA   ,PLS                          ,                    ,                    ,                    ,10 ,16/01/2559 20:00
-,
 3900813,THESIS            ,18 ,                                                                                ,          ,         ,          ,TDF      ,15 ,IDPS ,IA,  ,  ,  ,  ,  ,  ,IA-IA    ,CUP7 ,IA   ,TGC                          ,                    ,                    ,                    ,10 ,16/01/2559 20:00
-,
 3900813,THESIS            ,18 ,                                                                                ,          ,         ,          ,TDF      ,16 ,IDPS ,IA,  ,  ,  ,  ,  ,  ,IA-IA    ,CUP7 ,IA   ,STK                          ,                    ,                    ,                    ,10 ,16/01/2559 20:00
-,
 3900813,THESIS            ,18 ,                                                                                ,          ,         ,          ,TDF      ,17 ,IDPS ,IA,  ,  ,  ,  ,  ,  ,IA-IA    ,CUP7 ,IA   ,CKV                          ,                    ,                    ,                    ,10 ,16/01/2559 20:00
-,
 3900813,THESIS            ,18 ,                                                                                ,          ,         ,          ,TDF      ,18 ,IDPS ,IA,  ,  ,  ,  ,  ,  ,IA-IA    ,CUP7 ,IA   ,JTB                          ,                    ,                    ,                    ,10 ,16/01/2559 20:00
-,
 3900813,THESIS            ,18 ,                                                                                ,          ,         ,          ,TDF      ,19 ,IDPS ,IA,  ,  ,  ,  ,  ,  ,IA-IA    ,CUP7 ,IA   ,STAFF                        ,                    ,                    ,                    ,10 ,16/01/2559 20:00
-,
 3900813,THESIS            ,18 ,                                                                                ,          ,         ,          ,TDF      ,2  ,IDPS ,IA,  ,  ,  ,  ,  ,  ,IA-IA    ,CUP7 ,IA   ,VKS                          ,                    ,                    ,                    ,10 ,16/01/2559 20:00
-,
 3900813,THESIS            ,18 ,                                                                                ,          ,         ,          ,TDF      ,20 ,IDPS ,IA,  ,  ,  ,  ,  ,  ,IA-IA    ,CUP7 ,IA   ,STAFF                        ,                    ,                    ,                    ,10 ,16/01/2559 20:00
-,
 3900813,THESIS            ,18 ,                                                                                ,          ,         ,          ,TDF      ,3  ,IDPS ,IA,  ,  ,  ,  ,  ,  ,IA-IA    ,CUP7 ,IA   ,CCP                          ,                    ,                    ,                    ,10 ,16/01/2559 20:00
-,
 3900813,THESIS            ,18 ,                                                                                ,          ,         ,          ,TDF      ,4  ,IDPS ,IA,  ,  ,  ,  ,  ,  ,IA-IA    ,CUP7 ,IA   ,CIP                          ,                    ,                    ,                    ,10 ,16/01/2559 20:00
-,
 3900813,THESIS            ,18 ,                                                                                ,          ,         ,          ,TDF      ,5  ,IDPS ,IA,  ,  ,  ,  ,  ,  ,IA-IA    ,CUP7 ,IA   ,DCP                          ,                    ,                    ,                    ,10 ,16/01/2559 20:00
-,
 3900813,THESIS            ,18 ,                                                                                ,          ,         ,          ,TDF      ,6  ,IDPS ,IA,  ,  ,  ,  ,  ,  ,IA-IA    ,CUP7 ,IA   ,TKS                          ,                    ,                    ,                    ,10 ,16/01/2559 20:00
-,
 3900813,THESIS            ,18 ,                                                                                ,          ,         ,          ,TDF      ,7  ,IDPS ,IA,  ,  ,  ,  ,  ,  ,IA-IA    ,CUP7 ,IA   ,SSS                          ,                    ,                    ,                    ,10 ,16/01/2559 20:00
-,
 3900813,THESIS            ,18 ,                                                                                ,          ,         ,          ,TDF      ,8  ,IDPS ,IA,  ,  ,  ,  ,  ,  ,IA-IA    ,CUP7 ,IA   ,AWN                          ,                    ,                    ,                    ,10 ,16/01/2559 20:00
-,
 3900813,THESIS            ,18 ,                                                                                ,          ,         ,          ,TDF      ,9  ,IDPS ,IA,  ,  ,  ,  ,  ,  ,IA-IA    ,CUP7 ,IA   ,CGT                          ,                    ,                    ,                    ,10 ,16/01/2559 20:00
-,
 3900816,THESIS            ,36 ,                                                                                ,          ,         ,          ,TDF      ,1  ,IDPS ,IA,  ,  ,  ,  ,  ,  ,IA-IA    ,CUP7 ,IA   ,TKP                          ,                    ,                    ,                    ,5  ,16/01/2559 20:00
-,
 3900816,THESIS            ,36 ,                                                                                ,          ,         ,          ,TDF      ,10 ,IDPS ,IA,  ,  ,  ,  ,  ,  ,IA-IA    ,CUP7 ,IA   ,WBR                          ,                    ,                    ,                    ,5  ,16/01/2559 20:00
-,
 3900816,THESIS            ,36 ,                                                                                ,          ,         ,          ,TDF      ,11 ,IDPS ,IA,  ,  ,  ,  ,  ,  ,IA-IA    ,CUP7 ,IA   ,SKK                          ,                    ,                    ,                    ,5  ,16/01/2559 20:00
-,
 3900816,THESIS            ,36 ,                                                                                ,          ,         ,          ,TDF      ,12 ,IDPS ,IA,  ,  ,  ,  ,  ,  ,IA-IA    ,CUP7 ,IA   ,PLS                          ,                    ,                    ,                    ,5  ,16/01/2559 20:00
-,
 3900816,THESIS            ,36 ,                                                                                ,          ,         ,          ,TDF      ,13 ,IDPS ,IA,  ,  ,  ,  ,  ,  ,IA-IA    ,CUP7 ,IA   ,TGC                          ,                    ,                    ,                    ,5  ,16/01/2559 20:00
-,
 3900816,THESIS            ,36 ,                                                                                ,          ,         ,          ,TDF      ,14 ,IDPS ,IA,  ,  ,  ,  ,  ,  ,IA-IA    ,CUP7 ,IA   ,STK                          ,                    ,                    ,                    ,5  ,16/01/2559 20:00
-,
 3900816,THESIS            ,36 ,                                                                                ,          ,         ,          ,TDF      ,15 ,IDPS ,IA,  ,  ,  ,  ,  ,  ,IA-IA    ,CUP7 ,IA   ,JTB                          ,                    ,                    ,                    ,5  ,16/01/2559 20:00
-,
 3900816,THESIS            ,36 ,                                                                                ,          ,         ,          ,TDF      ,16 ,IDPS ,IA,  ,  ,  ,  ,  ,  ,IA-IA    ,CUP7 ,IA   ,STAFF                        ,                    ,                    ,                    ,5  ,16/01/2559 20:00
-,
 3900816,THESIS            ,36 ,                                                                                ,          ,         ,          ,TDF      ,2  ,IDPS ,IA,  ,  ,  ,  ,  ,  ,IA-IA    ,CUP7 ,IA   ,VKS                          ,                    ,                    ,                    ,5  ,16/01/2559 20:00
-,
 3900816,THESIS            ,36 ,                                                                                ,          ,         ,          ,TDF      ,3  ,IDPS ,IA,  ,  ,  ,  ,  ,  ,IA-IA    ,CUP7 ,IA   ,CCP                          ,                    ,                    ,                    ,5  ,16/01/2559 20:00
-,
 3900816,THESIS            ,36 ,                                                                                ,          ,         ,          ,TDF      ,4  ,IDPS ,IA,  ,  ,  ,  ,  ,  ,IA-IA    ,CUP7 ,IA   ,CIP                          ,                    ,                    ,                    ,5  ,16/01/2559 20:00
-,
 3900816,THESIS            ,36 ,                                                                                ,          ,         ,          ,TDF      ,5  ,IDPS ,IA,  ,  ,  ,  ,  ,  ,IA-IA    ,CUP7 ,IA   ,DCP                          ,                    ,                    ,                    ,5  ,16/01/2559 20:00
-,
 3900816,THESIS            ,36 ,                                                                                ,          ,         ,          ,TDF      ,6  ,IDPS ,IA,  ,  ,  ,  ,  ,  ,IA-IA    ,CUP7 ,IA   ,TKS                          ,                    ,                    ,                    ,5  ,16/01/2559 20:00
-,
 3900816,THESIS            ,36 ,                                                                                ,          ,         ,          ,TDF      ,7  ,IDPS ,IA,  ,  ,  ,  ,  ,  ,IA-IA    ,CUP7 ,IA   ,SSS                          ,                    ,                    ,                    ,5  ,16/01/2559 20:00
-,
 3900816,THESIS            ,36 ,                                                                                ,          ,         ,          ,TDF      ,8  ,IDPS ,IA,  ,  ,  ,  ,  ,  ,IA-IA    ,CUP7 ,IA   ,CGT                          ,                    ,                    ,                    ,5  ,16/01/2559 20:00
-,
 3900816,THESIS            ,36 ,                                                                                ,          ,         ,          ,TDF      ,9  ,IDPS ,IA,  ,  ,  ,  ,  ,  ,IA-IA    ,CUP7 ,IA   ,CMS                          ,                    ,                    ,                    ,5  ,16/01/2559 20:00
-,
 3900826,DISSERTATION      ,36 ,                                                                                ,          ,         ,          ,TDF      ,1  ,IDPS ,IA,  ,  ,  ,  ,  ,  ,IA-IA    ,CUP7 ,1231 ,TKP                          ,                    ,                    ,                    ,10 ,16/01/2559 20:00
-,
 3900826,DISSERTATION      ,36 ,                                                                                ,          ,         ,          ,TDF      ,10 ,IDPS ,IA,  ,  ,  ,  ,  ,  ,IA-IA    ,CUP7 ,1231 ,WBR                          ,                    ,                    ,                    ,10 ,16/01/2559 20:00
-,
 3900826,DISSERTATION      ,36 ,                                                                                ,          ,         ,          ,TDF      ,11 ,IDPS ,IA,  ,  ,  ,  ,  ,  ,IA-IA    ,CUP7 ,1231 ,SKK                          ,                    ,                    ,                    ,10 ,16/01/2559 20:00
-,
 3900826,DISSERTATION      ,36 ,                                                                                ,          ,         ,          ,TDF      ,12 ,IDPS ,IA,  ,  ,  ,  ,  ,  ,IA-IA    ,CUP7 ,1231 ,PLS                          ,                    ,                    ,                    ,10 ,16/01/2559 20:00
-,
 3900826,DISSERTATION      ,36 ,                                                                                ,          ,         ,          ,TDF      ,13 ,IDPS ,IA,  ,  ,  ,  ,  ,  ,IA-IA    ,CUP7 ,1231 ,TGC                          ,                    ,                    ,                    ,10 ,16/01/2559 20:00
-,
 3900826,DISSERTATION      ,36 ,                                                                                ,          ,         ,          ,TDF      ,14 ,IDPS ,IA,  ,  ,  ,  ,  ,  ,IA-IA    ,CUP7 ,1231 ,STK                          ,                    ,                    ,                    ,10 ,16/01/2559 20:00
-,
 3900826,DISSERTATION      ,36 ,                                                                                ,          ,         ,          ,TDF      ,15 ,IDPS ,IA,  ,  ,  ,  ,  ,  ,IA-IA    ,CUP7 ,1231 ,JTB                          ,                    ,                    ,                    ,10 ,16/01/2559 20:00
-,
 3900826,DISSERTATION      ,36 ,                                                                                ,          ,         ,          ,TDF      ,16 ,IDPS ,IA,  ,  ,  ,  ,  ,  ,IA-IA    ,CUP7 ,1231 ,STAFF                        ,                    ,                    ,                    ,20 ,16/01/2559 20:00
-,
 3900826,DISSERTATION      ,36 ,                                                                                ,          ,         ,          ,TDF      ,17 ,IDPS ,IA,  ,  ,  ,  ,  ,  ,IA-IA    ,CUP7 ,1231 ,CLR                          ,                    ,                    ,                    ,10 ,16/01/2559 20:00
-,
 3900826,DISSERTATION      ,36 ,                                                                                ,          ,         ,          ,TDF      ,2  ,IDPS ,IA,  ,  ,  ,  ,  ,  ,IA-IA    ,CUP7 ,1231 ,VKS                          ,                    ,                    ,                    ,10 ,16/01/2559 20:00
-,
 3900826,DISSERTATION      ,36 ,                                                                                ,          ,         ,          ,TDF      ,3  ,IDPS ,IA,  ,  ,  ,  ,  ,  ,IA-IA    ,CUP7 ,1231 ,CCP                          ,                    ,                    ,                    ,10 ,16/01/2559 20:00
-,
 3900826,DISSERTATION      ,36 ,                                                                                ,          ,         ,          ,TDF      ,4  ,IDPS ,IA,  ,  ,  ,  ,  ,  ,IA-IA    ,CUP7 ,1231 ,CIP                          ,                    ,                    ,                    ,10 ,16/01/2559 20:00
-,
 3900826,DISSERTATION      ,36 ,                                                                                ,          ,         ,          ,TDF      ,5  ,IDPS ,IA,  ,  ,  ,  ,  ,  ,IA-IA    ,CUP7 ,1231 ,DSS                          ,                    ,                    ,                    ,10 ,16/01/2559 20:00
-,
 3900826,DISSERTATION      ,36 ,                                                                                ,          ,         ,          ,TDF      ,6  ,IDPS ,IA,  ,  ,  ,  ,  ,  ,IA-IA    ,CUP7 ,1231 ,TKS                          ,                    ,                    ,                    ,10 ,16/01/2559 20:00
-,
 3900826,DISSERTATION      ,36 ,                                                                                ,          ,         ,          ,TDF      ,7  ,IDPS ,IA,  ,  ,  ,  ,  ,  ,IA-IA    ,CUP7 ,1231 ,SSS                          ,                    ,                    ,                    ,10 ,16/01/2559 20:00
-,
 3900826,DISSERTATION      ,36 ,                                                                                ,          ,         ,          ,TDF      ,8  ,IDPS ,IA,  ,  ,  ,  ,  ,  ,IA-IA    ,CUP7 ,1231 ,CGT                          ,                    ,                    ,                    ,10 ,16/01/2559 20:00
-,
 3900826,DISSERTATION      ,36 ,                                                                                ,          ,         ,          ,TDF      ,9  ,IDPS ,IA,  ,  ,  ,  ,  ,  ,IA-IA    ,CUP7 ,1231 ,CMS                          ,                    ,                    ,                    ,10 ,16/01/2559 20:00
-,
 3900828,DISSERTATION      ,48 ,                                                                                ,          ,         ,          ,TDF      ,1  ,IDPS ,IA,  ,  ,  ,  ,  ,  ,IA-IA    ,CUP7 ,1231 ,TKP                          ,                    ,                    ,                    ,5  ,16/01/2559 20:00
-,
 3900828,DISSERTATION      ,48 ,                                                                                ,          ,         ,          ,TDF      ,10 ,IDPS ,IA,  ,  ,  ,  ,  ,  ,IA-IA    ,CUP7 ,1231 ,WBR                          ,                    ,                    ,                    ,5  ,16/01/2559 20:00
-,
 3900828,DISSERTATION      ,48 ,                                                                                ,          ,         ,          ,TDF      ,11 ,IDPS ,IA,  ,  ,  ,  ,  ,  ,IA-IA    ,CUP7 ,1231 ,SKK                          ,                    ,                    ,                    ,5  ,16/01/2559 20:00
-,
 3900828,DISSERTATION      ,48 ,                                                                                ,          ,         ,          ,TDF      ,12 ,IDPS ,IA,  ,  ,  ,  ,  ,  ,IA-IA    ,CUP7 ,1231 ,PLS                          ,                    ,                    ,                    ,5  ,16/01/2559 20:00
-,
 3900828,DISSERTATION      ,48 ,                                                                                ,          ,         ,          ,TDF      ,13 ,IDPS ,IA,  ,  ,  ,  ,  ,  ,IA-IA    ,CUP7 ,1231 ,TGC                          ,                    ,                    ,                    ,5  ,16/01/2559 20:00
-,
 3900828,DISSERTATION      ,48 ,                                                                                ,          ,         ,          ,TDF      ,14 ,IDPS ,IA,  ,  ,  ,  ,  ,  ,IA-IA    ,CUP7 ,1231 ,STK                          ,                    ,                    ,                    ,5  ,16/01/2559 20:00
-,
 3900828,DISSERTATION      ,48 ,                                                                                ,          ,         ,          ,TDF      ,15 ,IDPS ,IA,  ,  ,  ,  ,  ,  ,IA-IA    ,CUP7 ,1231 ,JTB                          ,                    ,                    ,                    ,5  ,16/01/2559 20:00
-,
 3900828,DISSERTATION      ,48 ,                                                                                ,          ,         ,          ,TDF      ,16 ,IDPS ,IA,  ,  ,  ,  ,  ,  ,IA-IA    ,CUP7 ,1231 ,STAFF                        ,                    ,                    ,                    ,5  ,16/01/2559 20:00
-,
 3900828,DISSERTATION      ,48 ,                                                                                ,          ,         ,          ,TDF      ,2  ,IDPS ,IA,  ,  ,  ,  ,  ,  ,IA-IA    ,CUP7 ,1231 ,VKS                          ,                    ,                    ,                    ,5  ,16/01/2559 20:00
-,
 3900828,DISSERTATION      ,48 ,                                                                                ,          ,         ,          ,TDF      ,3  ,IDPS ,IA,  ,  ,  ,  ,  ,  ,IA-IA    ,CUP7 ,1231 ,CCP                          ,                    ,                    ,                    ,5  ,16/01/2559 20:00
-,
 3900828,DISSERTATION      ,48 ,                                                                                ,          ,         ,          ,TDF      ,4  ,IDPS ,IA,  ,  ,  ,  ,  ,  ,IA-IA    ,CUP7 ,1231 ,CIP                          ,                    ,                    ,                    ,5  ,16/01/2559 20:00
-,
 3900828,DISSERTATION      ,48 ,                                                                                ,          ,         ,          ,TDF      ,5  ,IDPS ,IA,  ,  ,  ,  ,  ,  ,IA-IA    ,CUP7 ,1231 ,DSS                          ,                    ,                    ,                    ,5  ,16/01/2559 20:00
-,
 3900828,DISSERTATION      ,48 ,                                                                                ,          ,         ,          ,TDF      ,6  ,IDPS ,IA,  ,  ,  ,  ,  ,  ,IA-IA    ,CUP7 ,1231 ,TKS                          ,                    ,                    ,                    ,5  ,16/01/2559 20:00
-,
 3900828,DISSERTATION      ,48 ,                                                                                ,          ,         ,          ,TDF      ,7  ,IDPS ,IA,  ,  ,  ,  ,  ,  ,IA-IA    ,CUP7 ,1231 ,SSS                          ,                    ,                    ,                    ,5  ,16/01/2559 20:00
-,
 3900828,DISSERTATION      ,48 ,                                                                                ,          ,         ,          ,TDF      ,8  ,IDPS ,IA,  ,  ,  ,  ,  ,  ,IA-IA    ,CUP7 ,1231 ,CGT                          ,                    ,                    ,                    ,5  ,16/01/2559 20:00
-,
 3900828,DISSERTATION      ,48 ,                                                                                ,          ,         ,          ,TDF      ,9  ,IDPS ,IA,  ,  ,  ,  ,  ,  ,IA-IA    ,CUP7 ,1231 ,CMS                          ,                    ,                    ,                    ,5  ,16/01/2559 20:00
-,
 3900894,DOC DISSERT SEM   ,0  ,                                                                                ,          ,         ,          ,TDF      ,1  ,LECT ,IA,  ,  ,  ,  ,  ,  ,IA-IA    ,CUP12,207/1,STAFF                        ,                    ,                    ,                    ,40 ,16/01/2559 20:00
-,
 3900894,DOC DISSERT SEM   ,0  ,                                                                                ,          ,         ,          ,TDF      ,2  ,LECT ,IA,  ,  ,  ,  ,  ,  ,IA-IA    ,CUP12,207/1,STAFF                        ,                    ,                    ,                    ,20 ,16/01/2559 20:00
-,
 3900894,DOC DISSERT SEM   ,0  ,                                                                                ,          ,         ,          ,TDF      ,3  ,LECT ,IA,  ,  ,  ,  ,  ,  ,IA-IA    ,CUP12,207/1,STAFF                        ,                    ,                    ,                    ,20 ,16/01/2559 20:00
-,
 3900894,DOC DISSERT SEM   ,0  ,                                                                                ,          ,         ,          ,TDF      ,4  ,LECT ,IA,  ,  ,  ,  ,  ,  ,IA-IA    ,CUP12,207/1,STAFF                        ,                    ,                    ,                    ,30 ,16/01/2559 20:00
-,
 3900897,QUALIFYING EXAM   ,0  ,                                                                                ,          ,         ,          ,TDF      ,1  ,LECT ,IA,  ,  ,  ,  ,  ,  ,IA-IA    ,     ,IA   ,STAFF                        ,                    ,                    ,                    ,20 ,16/01/2559 20:00
-,
 3902308,EX GEN/SPEC PEOPLE,3  ,3901309                                                                         ,          ,         ,          ,TDF      ,1  ,LECT ,FR,  ,  ,  ,  ,  ,  ,0900-1200,CUP7 ,1113 ,STAFF                        ,5437732739          ,                    ,                    ,1  ,16/01/2559 20:00
-,
 3903201,SP PSYCHO         ,3  ,                                                                                ,          ,         ,          ,TDF      ,1  ,LECT ,FR,  ,  ,  ,  ,  ,  ,1300-1500,CUP7 ,1231 ,STAFF                        ,5437741339          ,                    ,                    ,1  ,16/01/2559 20:00
-,
 3903201,SP PSYCHO         ,3  ,                                                                                ,          ,         ,          ,TDF      ,1  ,PRAC ,FR,  ,  ,  ,  ,  ,  ,1500-1700,CUP7 ,1231 ,STAFF                        ,                    ,                    ,                    ,1  ,16/01/2559 20:00
-,
 3903307,MOTOR ABIL PERFORM,3  ,3903306                                                                         ,          ,         ,          ,TDF      ,1  ,LECT ,FR,  ,  ,  ,  ,  ,  ,0900-1200,CUP7 ,1111 ,BBK                          ,ID.5437792339       ,                    ,                    ,1  ,16/01/2559 20:00
-,
 3905202,FUND SP TCHG      ,2  ,                                                                                ,          ,         ,          ,TDF      ,1  ,LECT ,MO,  ,  ,  ,  ,  ,  ,0800-0900,CUP7 ,1106 ,KSR                          ,ID 5437731039       ,                    ,                    ,1  ,16/01/2559 20:00
-,
 3905202,FUND SP TCHG      ,2  ,                                                                                ,          ,         ,          ,TDF      ,1  ,PRAC ,MO,  ,  ,  ,  ,  ,  ,0900-1100,CUP7 ,1106 ,KSR                          ,                    ,                    ,                    ,1  ,16/01/2559 20:00
-,
 3905407,MATCH ANAL/SCTG   ,2  ,                                                                                ,          ,         ,          ,TDF      ,1  ,LECT ,WE,  ,  ,  ,  ,  ,  ,0900-1000,CUP7 ,1231 ,STAFF                        ,                    ,                    ,                    ,1  ,16/01/2559 20:00
-,
 3905407,MATCH ANAL/SCTG   ,2  ,                                                                                ,          ,         ,          ,TDF      ,1  ,PRAC ,WE,  ,  ,  ,  ,  ,  ,1000-1200,CUP7 ,1231 ,STAFF                        ,                    ,                    ,                    ,1  ,16/01/2559 20:00
-,
 3906101,RECREATION CAMP   ,2  ,                                                                                ,          ,         ,          ,TDF      ,1  ,LECT ,TU,  ,  ,  ,  ,  ,  ,1500-1700,CUP13,508  ,WBR,STAFF                    ,                    ,                    ,                    ,120,16/01/2559 20:00
-,
 3906101,RECREATION CAMP   ,2  ,                                                                                ,          ,         ,          ,TDF      ,2  ,LECT ,WE,  ,  ,  ,  ,  ,  ,1500-1700,CUP13,508  ,WBR,STAFF                    ,                    ,                    ,                    ,120,16/01/2559 20:00
-,
 3906102,INTRO RECREATION  ,2  ,                                                                                ,          ,         ,          ,TDF      ,1  ,LECT ,MO,  ,  ,  ,  ,  ,  ,1500-1700,CUP13,501  ,SST                          ,                    ,                    ,                    ,120,16/01/2559 20:00
-,
 3906102,INTRO RECREATION  ,2  ,                                                                                ,          ,         ,          ,TDF      ,2  ,LECT ,TU,  ,  ,  ,  ,  ,  ,1500-1700,CUP7 ,1114 ,UKN                          ,                    ,                    ,                    ,120,16/01/2559 20:00
-,
 3906102,INTRO RECREATION  ,2  ,                                                                                ,          ,         ,          ,TDF      ,3  ,LECT ,WE,  ,  ,  ,  ,  ,  ,1500-1700,CUP13,910  ,GPD                          ,                    ,                    ,                    ,120,16/01/2559 20:00
-,
 3906102,INTRO RECREATION  ,2  ,                                                                                ,          ,         ,          ,TDF      ,4  ,LECT ,TH,  ,  ,  ,  ,  ,  ,1500-1700,CUP13,1M101,UKN                          ,                    ,                    ,                    ,120,16/01/2559 20:00
-,
 3906309,RECRTN TOUR IND   ,2  ,                                                                                ,          ,         ,          ,TDF      ,1  ,LECT ,TH,  ,  ,  ,  ,  ,  ,1000-1200,CUP7 ,1112 ,SST                          ,ID.5337774039       ,                    ,                    ,1  ,16/01/2559 20:00
-,
 3907303,ACCT FIN BUD MGT  ,2  ,                                                                                ,          ,         ,          ,TDF      ,1  ,LECT ,MO,  ,  ,  ,  ,  ,  ,1000-1200,CUP7 ,1231 ,CMS                          ,ID.543XXXXX39       ,                    ,                    ,5  ,16/01/2559 20:00
-,
 3910103,PROF ETH/LDRP SES ,2  ,                                                                                ,          ,         ,          ,TDF      ,1  ,LECT ,MO,  ,  ,  ,  ,  ,  ,0800-1000,CUP13,308  ,TKP,SSS                      ,                    ,                    ,                    ,170,16/01/2559 20:00
-,
 3910109,EX PHYSIO         ,3  ,                                                                                ,          ,         ,          ,TDF      ,1  ,LECT ,FR,  ,  ,  ,  ,  ,  ,0800-1100,CUP7 ,1112 ,SKS,WTK                      ,                    ,                    ,                    ,85 ,16/01/2559 20:00
-,
 3910109,EX PHYSIO         ,3  ,                                                                                ,          ,         ,          ,TDF      ,2  ,LECT ,FR,  ,  ,  ,  ,  ,  ,1300-1600,CUP7 ,1112 ,SKS,WTK                      ,                    ,                    ,                    ,85 ,16/01/2559 20:00
-,
 3910150,FOOTBALL          ,1  ,                                                                                ,          ,         ,          ,TDF      ,1  ,PRAC ,WE,  ,  ,  ,  ,  ,  ,1500-1700,CUP7 ,FOOT ,RLD                          ,SPSC ONLY MALE      ,                    ,                    ,40 ,16/01/2559 20:00
-,
 3910150,FOOTBALL          ,1  ,                                                                                ,          ,         ,          ,TDF      ,2  ,PRAC ,TH,  ,  ,  ,  ,  ,  ,0800-1000,CUSTA,FOOTB,WTK                          ,SPSC ONLY FEMALE    ,                    ,                    ,40 ,16/01/2559 20:00
-,
 3910151,VOLLEYBALL        ,1  ,                                                                                ,          ,         ,          ,TDF      ,1  ,PRAC ,WE,  ,  ,  ,  ,  ,  ,1300-1500,CUSC ,VOLLE,STAFF                        ,SPSC ONLY           ,                    ,                    ,40 ,16/01/2559 20:00
-,
 3910152,BASKETBALL        ,1  ,                                                                                ,          ,         ,          ,TDF      ,1  ,PRAC ,WE,  ,  ,  ,  ,  ,  ,1300-1500,CUSC ,BASKE,RLD                          ,SPSC ONLY           ,                    ,                    ,40 ,16/01/2559 20:00
-,
 3910153,TH SWD/POL        ,1  ,                                                                                ,          ,         ,          ,TDF      ,1  ,PRAC ,WE,  ,  ,  ,  ,  ,  ,1300-1500,CUP10,101  ,RLD                          ,SPSC ONLY           ,                    ,                    ,40 ,16/01/2559 20:00
-,
 3910154,TRACK ATHLETICS   ,1  ,                                                                                ,          ,         ,          ,TDF      ,1  ,PRAC ,MO,  ,  ,  ,  ,  ,  ,1500-1700,CUSTA,CUSTA,STAFF                        ,SPSC ONLY           ,                    ,                    ,40 ,16/01/2559 20:00
-,
 3910155,FIELD ATHLETICS   ,1  ,                                                                                ,          ,         ,          ,TDF      ,1  ,PRAC ,MO,  ,  ,  ,  ,  ,  ,1500-1700,CUSTA,CUSTA,SAK                          ,SPSC ONLY           ,                    ,                    ,40 ,16/01/2559 20:00
-,
 3910155,FIELD ATHLETICS   ,1  ,                                                                                ,          ,         ,          ,TDF      ,2  ,PRAC ,WE,  ,  ,  ,  ,  ,  ,1500-1700,CUSTA,CUSTA,SAK                          ,SPSC ONLY           ,                    ,                    ,40 ,16/01/2559 20:00
-,
 3910156,SWIMMING          ,1  ,                                                                                ,          ,         ,          ,TDF      ,1  ,PRAC ,MO,  ,  ,  ,  ,  ,  ,0800-1000,CUSCS,SWIM ,STAFF                        ,SPSC ONLY           ,                    ,                    ,35 ,16/01/2559 20:00
-,
 3910156,SWIMMING          ,1  ,                                                                                ,          ,         ,          ,TDF      ,2  ,PRAC ,TU,  ,  ,  ,  ,  ,  ,0800-1000,CUSCS,SWIM ,STAFF                        ,SPSC ONLY           ,                    ,                    ,35 ,16/01/2559 20:00
-,
 3910157,BADMINTON         ,1  ,                                                                                ,          ,         ,          ,TDF      ,1  ,PRAC ,TU,  ,  ,  ,  ,  ,  ,0800-1000,CUSC ,BATMI,STAFF                        ,SPSC ONLY           ,                    ,                    ,35 ,16/01/2559 20:00
-,
 3910157,BADMINTON         ,1  ,                                                                                ,          ,         ,          ,TDF      ,2  ,PRAC ,TU,  ,  ,  ,  ,  ,  ,1000-1200,CUSC ,BATMI,STAFF                        ,SPSC ONLY           ,                    ,                    ,35 ,16/01/2559 20:00
-,
 3910158,TENNIS            ,1  ,                                                                                ,          ,         ,          ,TDF      ,1  ,PRAC ,MO,  ,  ,  ,  ,  ,  ,1000-1200,CUSCT,TENNI,STAFF                        ,SPSC ONLY           ,                    ,                    ,35 ,16/01/2559 20:00
-,
 3910158,TENNIS            ,1  ,                                                                                ,          ,         ,          ,TDF      ,2  ,PRAC ,TU,  ,  ,  ,  ,  ,  ,1000-1200,CUSCT,TENNI,STAFF                        ,SPSC ONLY           ,                    ,                    ,35 ,16/01/2559 20:00
-,
 3910159,AEROBIC DANCE LDRP,1  ,                                                                                ,          ,         ,          ,TDF      ,1  ,PRAC ,MO,  ,  ,  ,  ,  ,  ,1300-1500,BSB2 ,202/3,STAFF                        ,SPSC ONLY           ,                    ,                    ,35 ,16/01/2559 20:00
-,
 3910159,AEROBIC DANCE LDRP,1  ,                                                                                ,          ,         ,          ,TDF      ,2  ,PRAC ,MO,  ,  ,  ,  ,  ,  ,1500-1700,BSB2 ,202/3,STAFF                        ,SPSC ONLY           ,                    ,                    ,35 ,16/01/2559 20:00
-,
 3910160,BSC SKILL GYM     ,1  ,                                                                                ,          ,         ,          ,TDF      ,1  ,PRAC ,MO,  ,  ,  ,  ,  ,  ,0800-1000,CUP10,101  ,STAFF                        ,SPSC ONLY           ,                    ,                    ,30 ,16/01/2559 20:00
-,
 3910160,BSC SKILL GYM     ,1  ,                                                                                ,          ,         ,          ,TDF      ,2  ,PRAC ,TU,  ,  ,  ,  ,  ,  ,0800-1000,CUP10,101  ,STAFF                        ,SPSC ONLY           ,                    ,                    ,30 ,16/01/2559 20:00
-,
 3910161,GAMES LDRP        ,1  ,                                                                                ,          ,         ,          ,TDF      ,1  ,PRAC ,TH,  ,  ,  ,  ,  ,  ,1300-1500,CUP10,101  ,RLD                          ,SPSC ONLY           ,                    ,                    ,70 ,16/01/2559 20:00
-,
 3910163,FIELD HOCKEY      ,1  ,                                                                                ,          ,         ,          ,TDF      ,1  ,PRAC ,TU,  ,  ,  ,  ,  ,  ,1500-1700,CUP8 ,TENI ,WTK                          ,                    ,                    ,                    ,40 ,16/01/2559 20:00
-,
 3910164,HANDBALL          ,1  ,                                                                                ,          ,         ,          ,TDF      ,1  ,PRAC ,TU,  ,  ,  ,  ,  ,  ,1300-1500,CHANT,GYM  ,WTK                          ,                    ,                    ,                    ,20 ,16/01/2559 20:00
-,
 3910165,PETANQUE          ,1  ,                                                                                ,          ,         ,          ,TDF      ,1  ,PRAC ,FR,  ,  ,  ,  ,  ,  ,1500-1700,CUP8 ,TENI ,STAFF                        ,SPSC ONLY           ,                    ,                    ,40 ,16/01/2559 20:00
-,
 3910167,YOGA              ,1  ,                                                                                ,          ,         ,          ,TDF      ,1  ,PRAC ,FR,  ,  ,  ,  ,  ,  ,1300-1500,BSB2 ,202/1,STAFF                        ,SPSC ONLY           ,                    ,                    ,30 ,16/01/2559 20:00
-,
 3910168,WATER SAFE/LIFE   ,1  ,                                                                                ,          ,         ,          ,TDF      ,1  ,PRAC ,MO,  ,  ,  ,  ,  ,  ,1300-1500,CUSCS,SWIM ,STAFF                        ,SPSC ONLY           ,                    ,                    ,20 ,16/01/2559 20:00
-,
 3910171,MUAY THAI         ,1  ,                                                                                ,          ,         ,          ,TDF      ,1  ,PRAC ,TH,  ,  ,  ,  ,  ,  ,1500-1700,BSB2 ,202/1,RLD                          ,SPSC ONLY           ,                    ,                    ,40 ,16/01/2559 20:00
-,
 3910172,FUTSAL            ,1  ,                                                                                ,          ,         ,          ,TDF      ,1  ,PRAC ,FR,  ,  ,  ,  ,  ,  ,1500-1700,CHANT,GYM  ,STAFF                        ,SPSC ONLY           ,                    ,                    ,40 ,16/01/2559 20:00
-,
 3910174,THAI CHESS        ,1  ,                                                                                ,          ,         ,          ,TDF      ,1  ,PRAC ,WE,  ,  ,  ,  ,  ,  ,1000-1200,CUP8 ,2107 ,STAFF                        ,                    ,                    ,                    ,30 ,16/01/2559 20:00
-,
 3910201,FST AID/BSC SP INJ,3  ,                                                                                ,          ,         ,          ,TDF      ,1  ,LECT ,WE,  ,  ,  ,  ,  ,  ,1300-1500,CUP7 ,1114 ,WLW,WTK                      ,                    ,                    ,                    ,80 ,16/01/2559 20:00
-,
 3910201,FST AID/BSC SP INJ,3  ,                                                                                ,          ,         ,          ,TDF      ,1  ,PRAC ,WE,  ,  ,  ,  ,  ,  ,1500-1700,CUP7 ,1114 ,WLW,WTK                      ,                    ,                    ,                    ,80 ,16/01/2559 20:00
-,
 3910202,PHYS FIT ASSMT    ,3  ,                                                                                ,          ,         ,          ,TDF      ,1  ,LECT ,TH,  ,  ,  ,  ,  ,  ,0800-1000,CUP13,501  ,SPB                          ,                    ,                    ,                    ,65 ,16/01/2559 20:00
-,
 3910202,PHYS FIT ASSMT    ,3  ,                                                                                ,          ,         ,          ,TDF      ,1  ,PRAC ,TH,  ,  ,  ,  ,  ,  ,1000-1200,CUP13,501  ,SPB                          ,                    ,                    ,                    ,65 ,16/01/2559 20:00
-,
 3910204,MOTOR LEARNING    ,3  ,                                                                                ,          ,         ,          ,TDF      ,1  ,LECT ,FR,  ,  ,  ,  ,  ,  ,0900-1200,CUP13,609  ,BBK                          ,                    ,                    ,                    ,65 ,16/01/2559 20:00
-,
 3910207,PRIN RECRN        ,3  ,                                                                                ,          ,         ,          ,TDF      ,1  ,LECT ,TH,  ,  ,  ,  ,  ,  ,0900-1200,CUP7 ,1114 ,TGC                          ,                    ,                    ,                    ,65 ,16/01/2559 20:00
-,
 3910208,SP MGT            ,3  ,                                                                                ,          ,         ,          ,TDF      ,1  ,LECT ,TU,  ,  ,  ,  ,  ,  ,1300-1600,CUP7 ,1113 ,JTB                          ,                    ,                    ,                    ,65 ,16/01/2559 20:00
-,
 3910211,EX HLTH           ,3  ,                                                                                ,          ,         ,          ,TDF      ,1  ,LECT ,FR,  ,  ,  ,  ,  ,  ,0900-1200,CUP7 ,1114 ,DSS                          ,                    ,                    ,                    ,65 ,16/01/2559 20:00
-,
 3910213,METH SP TCHG/TRG  ,3  ,                                                                                ,          ,         ,          ,TDF      ,1  ,LECT ,WE,  ,  ,  ,  ,  ,  ,0900-1200,CUP7 ,1114 ,KSR                          ,                    ,                    ,                    ,65 ,16/01/2559 20:00
-,
 3910303,SOC PSY SP        ,3  ,                                                                                ,          ,         ,          ,TDF      ,1  ,LECT ,FR,  ,  ,  ,  ,  ,  ,1200-1500,CUP13,609  ,BBK                          ,                    ,                    ,                    ,60 ,16/01/2559 20:00
-,
 3910304,STAT SES          ,3  ,                                                                                ,          ,         ,          ,TDF      ,1  ,LECT ,TH,  ,  ,  ,  ,  ,  ,1300-1500,CUP13,508  ,CLR                          ,                    ,                    ,                    ,120,16/01/2559 20:00
-,
 3910304,STAT SES          ,3  ,                                                                                ,          ,         ,          ,TDF      ,1  ,PRAC ,TH,  ,  ,  ,  ,  ,  ,1500-1700,CUP13,508  ,CLR                          ,                    ,                    ,                    ,120,16/01/2559 20:00
-,
 3910305,NUTRI SP HLTH     ,3  ,                                                                                ,          ,         ,          ,TDF      ,1  ,LECT ,MO,  ,  ,  ,  ,  ,  ,0900-1200,CUP7 ,1114 ,NOL                          ,                    ,                    ,                    ,60 ,16/01/2559 20:00
-,
 3910306,HEALTH PROMOTION  ,3  ,                                                                                ,          ,         ,          ,TDF      ,1  ,LECT ,TU,  ,  ,  ,  ,  ,  ,1300-1600,CUP7 ,1114 ,SSS,RLD                      ,                    ,                    ,                    ,65 ,16/01/2559 20:00
-,
 3910310,SP BIOMECH        ,3  ,                                                                                ,          ,         ,          ,TDF      ,1  ,LECT ,TU,  ,  ,  ,  ,  ,  ,0900-1200,CUP7 ,1114 ,NCN                          ,                    ,                    ,                    ,60 ,16/01/2559 20:00
-,
 3910312,PHYS FIT TRG ATH  ,3  ,                                                                                ,          ,         ,          ,TDF      ,1  ,LECT ,TU,  ,  ,  ,  ,  ,  ,1300-1600,BSB2 ,202/1,SAK                          ,                    ,                    ,                    ,40 ,16/01/2559 20:00
-,
 3910312,PHYS FIT TRG ATH  ,3  ,                                                                                ,          ,         ,          ,TDF      ,2  ,LECT ,WE,  ,  ,  ,  ,  ,  ,1300-1600,BSB2 ,202/1,SAK                          ,                    ,                    ,                    ,40 ,16/01/2559 20:00
-,
 3910415,PROF EXP          ,5  ,                                                                                ,          ,         ,          ,TDF      ,1  ,FWK  ,IA,  ,  ,  ,  ,  ,  ,IA-IA    ,CUP7 ,1106 ,STAFF                        ,                    ,                    ,                    ,120,16/01/2559 20:00
-,
 3910501,PRIN RES SPSC HLTH,3  ,                                                                                ,          ,         ,          ,TDF      ,1  ,LECT ,TU,  ,  ,  ,  ,  ,  ,0800-1000,CUP7 ,1112 ,DSS,CLR                      ,                    ,                    ,                    ,40 ,16/01/2559 20:00
-,
 3910501,PRIN RES SPSC HLTH,3  ,                                                                                ,          ,         ,          ,TDF      ,1  ,PRAC ,TU,  ,  ,  ,  ,  ,  ,1000-1200,CUP7 ,1112 ,DSS,CLR                      ,                    ,                    ,                    ,40 ,16/01/2559 20:00
-,
 3910501,PRIN RES SPSC HLTH,3  ,                                                                                ,          ,         ,          ,TDF      ,2  ,LECT ,SA,  ,  ,  ,  ,  ,  ,0800-1000,CUP7 ,1111 ,DSS,CLR                      ,                    ,                    ,                    ,40 ,16/01/2559 20:00
-,
 3910501,PRIN RES SPSC HLTH,3  ,                                                                                ,          ,         ,          ,TDF      ,2  ,PRAC ,SA,  ,  ,  ,  ,  ,  ,1000-1200,CUP7 ,1111 ,DSS,CLR                      ,                    ,                    ,                    ,40 ,16/01/2559 20:00
-,
 3910601,ADV RES SPSC HLTH ,3  ,                                                                                ,          ,         ,          ,TDF      ,1  ,LECT ,FR,  ,  ,  ,  ,  ,  ,0900-1200,CUP7 ,1111 ,CLR,TKP                      ,                    ,                    ,                    ,20 ,16/01/2559 20:00
-,
 3910811,THESIS            ,12 ,                                                                                ,          ,         ,          ,TDF      ,1  ,IDPS ,IA,  ,  ,  ,  ,  ,  ,IA-IA    ,CUP7 ,1112 ,TKP                          ,                    ,                    ,                    ,10 ,16/01/2559 20:00
-,
 3910811,THESIS            ,12 ,                                                                                ,          ,         ,          ,TDF      ,10 ,IDPS ,IA,  ,  ,  ,  ,  ,  ,IA-IA    ,CUP7 ,1112 ,PLS                          ,                    ,                    ,                    ,10 ,16/01/2559 20:00
-,
 3910811,THESIS            ,12 ,                                                                                ,          ,         ,          ,TDF      ,11 ,IDPS ,IA,  ,  ,  ,  ,  ,  ,IA-IA    ,CUP7 ,1112 ,TGC                          ,                    ,                    ,                    ,10 ,16/01/2559 20:00
-,
 3910811,THESIS            ,12 ,                                                                                ,          ,         ,          ,TDF      ,12 ,IDPS ,IA,  ,  ,  ,  ,  ,  ,IA-IA    ,CUP7 ,1112 ,STK                          ,                    ,                    ,                    ,10 ,16/01/2559 20:00
-,
 3910811,THESIS            ,12 ,                                                                                ,          ,         ,          ,TDF      ,13 ,IDPS ,IA,  ,  ,  ,  ,  ,  ,IA-IA    ,CUP7 ,1112 ,JTB                          ,                    ,                    ,                    ,10 ,16/01/2559 20:00
-,
 3910811,THESIS            ,12 ,                                                                                ,          ,         ,          ,TDF      ,14 ,IDPS ,IA,  ,  ,  ,  ,  ,  ,IA-IA    ,CUP7 ,1112 ,STAFF                        ,                    ,                    ,                    ,10 ,16/01/2559 20:00
-,
 3910811,THESIS            ,12 ,                                                                                ,          ,         ,          ,TDF      ,15 ,IDPS ,IA,  ,  ,  ,  ,  ,  ,IA-IA    ,CUP7 ,1112 ,CLR                          ,                    ,                    ,                    ,10 ,16/01/2559 20:00
-,
 3910811,THESIS            ,12 ,                                                                                ,          ,         ,          ,TDF      ,16 ,IDPS ,IA,  ,  ,  ,  ,  ,  ,IA-IA    ,CUP7 ,1112 ,WLW                          ,                    ,                    ,                    ,10 ,16/01/2559 20:00
-,
 3910811,THESIS            ,12 ,                                                                                ,          ,         ,          ,TDF      ,17 ,IDPS ,IA,  ,  ,  ,  ,  ,  ,IA-IA    ,CUP7 ,1111 ,GPD                          ,                    ,                    ,                    ,10 ,16/01/2559 20:00
-,
 3910811,THESIS            ,12 ,                                                                                ,          ,         ,          ,TDF      ,18 ,IDPS ,IA,  ,  ,  ,  ,  ,  ,IA-IA    ,CUP7 ,1111 ,SST                          ,                    ,                    ,                    ,10 ,16/01/2559 20:00
-,
 3910811,THESIS            ,12 ,                                                                                ,          ,         ,          ,TDF      ,19 ,IDPS ,IA,  ,  ,  ,  ,  ,  ,IA-IA    ,CUP7 ,1111 ,SKS                          ,                    ,                    ,                    ,10 ,16/01/2559 20:00
-,
 3910811,THESIS            ,12 ,                                                                                ,          ,         ,          ,TDF      ,2  ,IDPS ,IA,  ,  ,  ,  ,  ,  ,IA-IA    ,CUP7 ,1112 ,VKS                          ,                    ,                    ,                    ,10 ,16/01/2559 20:00
-,
 3910811,THESIS            ,12 ,                                                                                ,          ,         ,          ,TDF      ,20 ,IDPS ,IA,  ,  ,  ,  ,  ,  ,IA-IA    ,CUP7 ,1111 ,KSR                          ,                    ,                    ,                    ,10 ,16/01/2559 20:00
-,
 3910811,THESIS            ,12 ,                                                                                ,          ,         ,          ,TDF      ,21 ,IDPS ,IA,  ,  ,  ,  ,  ,  ,IA-IA    ,CUP7 ,1111 ,WTK                          ,                    ,                    ,                    ,10 ,16/01/2559 20:00
-,
 3910811,THESIS            ,12 ,                                                                                ,          ,         ,          ,TDF      ,22 ,IDPS ,IA,  ,  ,  ,  ,  ,  ,IA-IA    ,CUP7 ,1111 ,BBK                          ,                    ,                    ,                    ,10 ,16/01/2559 20:00
-,
 3910811,THESIS            ,12 ,                                                                                ,          ,         ,          ,TDF      ,23 ,IDPS ,IA,  ,  ,  ,  ,  ,  ,IA-IA    ,CUP7 ,1111 ,NCN                          ,                    ,                    ,                    ,10 ,16/01/2559 20:00
-,
 3910811,THESIS            ,12 ,                                                                                ,          ,         ,          ,TDF      ,3  ,IDPS ,IA,  ,  ,  ,  ,  ,  ,IA-IA    ,CUP7 ,1112 ,CCP                          ,                    ,                    ,                    ,10 ,16/01/2559 20:00
-,
 3910811,THESIS            ,12 ,                                                                                ,          ,         ,          ,TDF      ,4  ,IDPS ,IA,  ,  ,  ,  ,  ,  ,IA-IA    ,CUP7 ,1112 ,CIP                          ,                    ,                    ,                    ,10 ,16/01/2559 20:00
-,
 3910811,THESIS            ,12 ,                                                                                ,          ,         ,          ,TDF      ,5  ,IDPS ,IA,  ,  ,  ,  ,  ,  ,IA-IA    ,CUP7 ,1112 ,DSS                          ,                    ,                    ,                    ,10 ,16/01/2559 20:00
-,
 3910811,THESIS            ,12 ,                                                                                ,          ,         ,          ,TDF      ,6  ,IDPS ,IA,  ,  ,  ,  ,  ,  ,IA-IA    ,CUP7 ,1112 ,SSS                          ,                    ,                    ,                    ,10 ,16/01/2559 20:00
-,
 3910811,THESIS            ,12 ,                                                                                ,          ,         ,          ,TDF      ,7  ,IDPS ,IA,  ,  ,  ,  ,  ,  ,IA-IA    ,CUP7 ,1112 ,CGT                          ,                    ,                    ,                    ,10 ,16/01/2559 20:00
-,
 3910811,THESIS            ,12 ,                                                                                ,          ,         ,          ,TDF      ,8  ,IDPS ,IA,  ,  ,  ,  ,  ,  ,IA-IA    ,CUP7 ,1112 ,WBR                          ,                    ,                    ,                    ,10 ,16/01/2559 20:00
-,
 3910811,THESIS            ,12 ,                                                                                ,          ,         ,          ,TDF      ,9  ,IDPS ,IA,  ,  ,  ,  ,  ,  ,IA-IA    ,CUP7 ,1112 ,SKK                          ,                    ,                    ,                    ,10 ,16/01/2559 20:00
-,
 3910816,THESIS            ,36 ,                                                                                ,          ,         ,          ,TDF      ,1  ,IDPS ,IA,  ,  ,  ,  ,  ,  ,IA-IA    ,CUP7 ,1112 ,TKP                          ,                    ,                    ,                    ,10 ,16/01/2559 20:00
-,
 3910816,THESIS            ,36 ,                                                                                ,          ,         ,          ,TDF      ,10 ,IDPS ,IA,  ,  ,  ,  ,  ,  ,IA-IA    ,CUP7 ,1112 ,PLS                          ,                    ,                    ,                    ,10 ,16/01/2559 20:00
-,
 3910816,THESIS            ,36 ,                                                                                ,          ,         ,          ,TDF      ,11 ,IDPS ,IA,  ,  ,  ,  ,  ,  ,IA-IA    ,CUP7 ,1112 ,TGC                          ,                    ,                    ,                    ,10 ,16/01/2559 20:00
-,
 3910816,THESIS            ,36 ,                                                                                ,          ,         ,          ,TDF      ,12 ,IDPS ,IA,  ,  ,  ,  ,  ,  ,IA-IA    ,CUP7 ,1112 ,STK                          ,                    ,                    ,                    ,10 ,16/01/2559 20:00
-,
 3910816,THESIS            ,36 ,                                                                                ,          ,         ,          ,TDF      ,13 ,IDPS ,IA,  ,  ,  ,  ,  ,  ,IA-IA    ,CUP7 ,1112 ,JTB                          ,                    ,                    ,                    ,10 ,16/01/2559 20:00
-,
 3910816,THESIS            ,36 ,                                                                                ,          ,         ,          ,TDF      ,14 ,IDPS ,IA,  ,  ,  ,  ,  ,  ,IA-IA    ,CUP7 ,1112 ,STAFF                        ,                    ,                    ,                    ,10 ,16/01/2559 20:00
-,
 3910816,THESIS            ,36 ,                                                                                ,          ,         ,          ,TDF      ,2  ,IDPS ,IA,  ,  ,  ,  ,  ,  ,IA-IA    ,CUP7 ,1112 ,VKS                          ,                    ,                    ,                    ,10 ,16/01/2559 20:00
-,
 3910816,THESIS            ,36 ,                                                                                ,          ,         ,          ,TDF      ,3  ,IDPS ,IA,  ,  ,  ,  ,  ,  ,IA-IA    ,CUP7 ,1112 ,CCP                          ,                    ,                    ,                    ,10 ,16/01/2559 20:00
-,
 3910816,THESIS            ,36 ,                                                                                ,          ,         ,          ,TDF      ,4  ,IDPS ,IA,  ,  ,  ,  ,  ,  ,IA-IA    ,CUP7 ,1112 ,CIP                          ,                    ,                    ,                    ,10 ,16/01/2559 20:00
-,
 3910816,THESIS            ,36 ,                                                                                ,          ,         ,          ,TDF      ,5  ,IDPS ,IA,  ,  ,  ,  ,  ,  ,IA-IA    ,CUP7 ,1112 ,DSS                          ,                    ,                    ,                    ,10 ,16/01/2559 20:00
-,
 3910816,THESIS            ,36 ,                                                                                ,          ,         ,          ,TDF      ,6  ,IDPS ,IA,  ,  ,  ,  ,  ,  ,IA-IA    ,CUP7 ,1112 ,SSS                          ,                    ,                    ,                    ,10 ,16/01/2559 20:00
-,
 3910816,THESIS            ,36 ,                                                                                ,          ,         ,          ,TDF      ,7  ,IDPS ,IA,  ,  ,  ,  ,  ,  ,IA-IA    ,CUP7 ,1112 ,CGT                          ,                    ,                    ,                    ,10 ,16/01/2559 20:00
-,
 3910816,THESIS            ,36 ,                                                                                ,          ,         ,          ,TDF      ,8  ,IDPS ,IA,  ,  ,  ,  ,  ,  ,IA-IA    ,CUP7 ,1112 ,WBR                          ,                    ,                    ,                    ,10 ,16/01/2559 20:00
-,
 3910816,THESIS            ,36 ,                                                                                ,          ,         ,          ,TDF      ,9  ,IDPS ,IA,  ,  ,  ,  ,  ,  ,IA-IA    ,CUP7 ,1112 ,SKK                          ,                    ,                    ,                    ,10 ,16/01/2559 20:00
-,
 3910826,DISSERTATION      ,36 ,                                                                                ,          ,         ,          ,TDF      ,1  ,IDPS ,IA,  ,  ,  ,  ,  ,  ,IA-IA    ,CUP12,207/1,TKP                          ,                    ,                    ,                    ,13 ,16/01/2559 20:00
-,
 3910826,DISSERTATION      ,36 ,                                                                                ,          ,         ,          ,TDF      ,10 ,IDPS ,IA,  ,  ,  ,  ,  ,  ,IA-IA    ,CUP12,207/1,SKK                          ,                    ,                    ,                    ,10 ,16/01/2559 20:00
-,
 3910826,DISSERTATION      ,36 ,                                                                                ,          ,         ,          ,TDF      ,11 ,IDPS ,IA,  ,  ,  ,  ,  ,  ,IA-IA    ,CUP12,207/1,STK                          ,                    ,                    ,                    ,10 ,16/01/2559 20:00
-,
 3910826,DISSERTATION      ,36 ,                                                                                ,          ,         ,          ,TDF      ,12 ,IDPS ,IA,  ,  ,  ,  ,  ,  ,IA-IA    ,CUP12,207/1,TGC                          ,                    ,                    ,                    ,10 ,16/01/2559 20:00
-,
 3910826,DISSERTATION      ,36 ,                                                                                ,          ,         ,          ,TDF      ,13 ,IDPS ,IA,  ,  ,  ,  ,  ,  ,IA-IA    ,CUP12,207/1,JTB                          ,                    ,                    ,                    ,10 ,16/01/2559 20:00
-,
 3910826,DISSERTATION      ,36 ,                                                                                ,          ,         ,          ,TDF      ,14 ,IDPS ,IA,  ,  ,  ,  ,  ,  ,IA-IA    ,CUP12,207/1,PLS                          ,                    ,                    ,                    ,10 ,16/01/2559 20:00
-,
 3910826,DISSERTATION      ,36 ,                                                                                ,          ,         ,          ,TDF      ,15 ,IDPS ,IA,  ,  ,  ,  ,  ,  ,IA-IA    ,CUP12,207/1,CLR                          ,                    ,                    ,                    ,10 ,16/01/2559 20:00
-,
 3910826,DISSERTATION      ,36 ,                                                                                ,          ,         ,          ,TDF      ,16 ,IDPS ,IA,  ,  ,  ,  ,  ,  ,IA-IA    ,CUP12,207/1,STAFF                        ,                    ,                    ,                    ,10 ,16/01/2559 20:00
-,
 3910826,DISSERTATION      ,36 ,                                                                                ,          ,         ,          ,TDF      ,2  ,IDPS ,IA,  ,  ,  ,  ,  ,  ,IA-IA    ,CUP12,207/1,VKS                          ,                    ,                    ,                    ,10 ,16/01/2559 20:00
-,
 3910826,DISSERTATION      ,36 ,                                                                                ,          ,         ,          ,TDF      ,3  ,IDPS ,IA,  ,  ,  ,  ,  ,  ,IA-IA    ,CUP12,207/1,CCP                          ,                    ,                    ,                    ,10 ,16/01/2559 20:00
-,
 3910826,DISSERTATION      ,36 ,                                                                                ,          ,         ,          ,TDF      ,4  ,IDPS ,IA,  ,  ,  ,  ,  ,  ,IA-IA    ,CUP12,207/1,CIP                          ,                    ,                    ,                    ,10 ,16/01/2559 20:00
-,
 3910826,DISSERTATION      ,36 ,                                                                                ,          ,         ,          ,TDF      ,5  ,IDPS ,IA,  ,  ,  ,  ,  ,  ,IA-IA    ,CUP12,207/1,DSS                          ,                    ,                    ,                    ,10 ,16/01/2559 20:00
-,
 3910826,DISSERTATION      ,36 ,                                                                                ,          ,         ,          ,TDF      ,6  ,IDPS ,IA,  ,  ,  ,  ,  ,  ,IA-IA    ,CUP12,207/1,TKS                          ,                    ,                    ,                    ,10 ,16/01/2559 20:00
-,
 3910826,DISSERTATION      ,36 ,                                                                                ,          ,         ,          ,TDF      ,7  ,IDPS ,IA,  ,  ,  ,  ,  ,  ,IA-IA    ,CUP12,207/1,SSS                          ,                    ,                    ,                    ,10 ,16/01/2559 20:00
-,
 3910826,DISSERTATION      ,36 ,                                                                                ,          ,         ,          ,TDF      ,8  ,IDPS ,IA,  ,  ,  ,  ,  ,  ,IA-IA    ,CUP12,207/1,CGT                          ,                    ,                    ,                    ,10 ,16/01/2559 20:00
-,
 3910826,DISSERTATION      ,36 ,                                                                                ,          ,         ,          ,TDF      ,9  ,IDPS ,IA,  ,  ,  ,  ,  ,  ,IA-IA    ,CUP12,207/1,WBR                          ,                    ,                    ,                    ,10 ,16/01/2559 20:00
-,
 3910828,DISSERTATION      ,48 ,                                                                                ,          ,         ,          ,TDF      ,1  ,IDPS ,IA,  ,  ,  ,  ,  ,  ,IA-IA    ,CUP12,IA   ,STAFF                        ,                    ,                    ,                    ,10 ,16/01/2559 20:00
-,
 3910894,DOC DISSERT SEM   ,0  ,                                                                                ,          ,         ,          ,TDF      ,1  ,LECT ,IA,  ,  ,  ,  ,  ,  ,IA-IA    ,CUP12,207/1,STAFF                        ,                    ,                    ,                    ,15 ,16/01/2559 20:00
-,
 3910894,DOC DISSERT SEM   ,0  ,                                                                                ,          ,         ,          ,TDF      ,2  ,LECT ,IA,  ,  ,  ,  ,  ,  ,IA-IA    ,CUP12,207/1,STAFF                        ,                    ,                    ,                    ,15 ,16/01/2559 20:00
-,
 3910894,DOC DISSERT SEM   ,0  ,                                                                                ,          ,         ,          ,TDF      ,3  ,LECT ,IA,  ,  ,  ,  ,  ,  ,IA-IA    ,CUP12,207/1,STAFF                        ,                    ,                    ,                    ,15 ,16/01/2559 20:00
-,
 3910894,DOC DISSERT SEM   ,0  ,                                                                                ,          ,         ,          ,TDF      ,4  ,LECT ,IA,  ,  ,  ,  ,  ,  ,IA-IA    ,CUP12,207/1,STAFF                        ,                    ,                    ,                    ,15 ,16/01/2559 20:00
-,
 3910894,DOC DISSERT SEM   ,0  ,                                                                                ,          ,         ,          ,TDF      ,5  ,LECT ,IA,  ,  ,  ,  ,  ,  ,IA-IA    ,CUP12,207/1,STAFF                        ,                    ,                    ,                    ,20 ,16/01/2559 20:00
-,
 3910897,QUALIFYING EXAM   ,0  ,                                                                                ,          ,         ,          ,TDF      ,1  ,LECT ,IA,  ,  ,  ,  ,  ,  ,IA-IA    ,CUP12,207/1,STAFF                        ,                    ,                    ,                    ,15 ,16/01/2559 20:00
-,
 3911302,SP PSY            ,3  ,                                                                                ,          ,         ,          ,TDF      ,1  ,LECT ,FR,  ,  ,  ,  ,  ,  ,1300-1600,CUP13,608  ,SSD                          ,                    ,                    ,                    ,40 ,16/01/2559 20:00
-,
 3911303,FUND SP CCHG      ,3  ,                                                                                ,          ,         ,          ,TDF      ,1  ,LECT ,TH,  ,  ,  ,  ,  ,  ,0900-1200,CUP7 ,1112 ,KSR                          ,                    ,                    ,                    ,40 ,16/01/2559 20:00
-,
 3911502,PHIL ADV SP CCHG  ,3  ,                                                                                ,          ,         ,          ,TDF      ,1  ,LECT ,TH,  ,  ,  ,  ,  ,  ,1300-1600,CUP7 ,1114 ,STAFF                        ,                    ,                    ,                    ,20 ,16/01/2559 20:00
-,
 3911502,PHIL ADV SP CCHG  ,3  ,                                                                                ,          ,         ,          ,TDF      ,2  ,LECT ,SA,  ,  ,  ,  ,  ,  ,1600-1900,CUP7 ,1113 ,STAFF                        ,                    ,                    ,                    ,10 ,16/01/2559 20:00
-,
 3911503,ADV SP PHYSIO     ,3  ,                                                                                ,          ,         ,          ,TDF      ,1  ,LECT ,TH,  ,  ,  ,  ,  ,  ,0800-1000,CUP8 ,2107 ,CIP                          ,                    ,                    ,                    ,15 ,16/01/2559 20:00
-,
 3911503,ADV SP PHYSIO     ,3  ,                                                                                ,          ,         ,          ,TDF      ,1  ,LAB  ,TH,  ,  ,  ,  ,  ,  ,1000-1300,CUP8 ,2107 ,CIP                          ,                    ,                    ,                    ,15 ,16/01/2559 20:00
-,
 3911503,ADV SP PHYSIO     ,3  ,                                                                                ,          ,         ,          ,TDF      ,2  ,LECT ,FR,  ,  ,  ,  ,  ,  ,1500-1700,CUP8 ,2107 ,CIP                          ,                    ,                    ,                    ,15 ,16/01/2559 20:00
-,
 3911503,ADV SP PHYSIO     ,3  ,                                                                                ,          ,         ,          ,TDF      ,2  ,LAB  ,FR,  ,  ,  ,  ,  ,  ,1700-2000,CUP8 ,2107 ,CIP                          ,                    ,                    ,                    ,15 ,16/01/2559 20:00
-,
 3911507,INDIV SPSC        ,3  ,                                                                                ,          ,         ,          ,TDF      ,1  ,LECT ,IA,  ,  ,  ,  ,  ,  ,IA-IA    ,CUP7 ,1231 ,CIP                          ,                    ,                    ,                    ,10 ,16/01/2559 20:00
-,
 3911507,INDIV SPSC        ,3  ,                                                                                ,          ,         ,          ,TDF      ,2  ,LECT ,IA,  ,  ,  ,  ,  ,  ,IA-IA    ,CUP7 ,1231 ,WBR                          ,                    ,                    ,                    ,10 ,16/01/2559 20:00
-,
 3911507,INDIV SPSC        ,3  ,                                                                                ,          ,         ,          ,TDF      ,3  ,LECT ,IA,  ,  ,  ,  ,  ,  ,IA-IA    ,CUP7 ,1231 ,CLR                          ,                    ,                    ,                    ,10 ,16/01/2559 20:00
-,
 3911507,INDIV SPSC        ,3  ,                                                                                ,          ,         ,          ,TDF      ,4  ,LECT ,IA,  ,  ,  ,  ,  ,  ,IA-IA    ,CUP7 ,1231 ,CGT                          ,                    ,                    ,                    ,10 ,16/01/2559 20:00
-,
 3911507,INDIV SPSC        ,3  ,                                                                                ,          ,         ,          ,TDF      ,5  ,LECT ,IA,  ,  ,  ,  ,  ,  ,IA-IA    ,CUP7 ,1231 ,SSD                          ,                    ,                    ,                    ,10 ,16/01/2559 20:00
-,
 3911507,INDIV SPSC        ,3  ,                                                                                ,          ,         ,          ,TDF      ,6  ,LECT ,IA,  ,  ,  ,  ,  ,  ,IA-IA    ,CUP7 ,1231 ,CCP                          ,                    ,                    ,                    ,10 ,16/01/2559 20:00
-,
 3911602,SP TECH SP EXC    ,3  ,                                                                                ,          ,         ,          ,TDF      ,1  ,LECT ,TH,  ,  ,  ,  ,  ,  ,1300-1600,CUP8 ,2107 ,CCP                          ,                    ,                    ,                    ,20 ,16/01/2559 20:00
-,
 3911604,INDIV SP PHYS     ,3  ,                                                                                ,          ,         ,          ,TDF      ,1  ,LECT ,AR,  ,  ,  ,  ,  ,  ,AR-AR    ,CUP7 ,1231 ,CCP                          ,                    ,                    ,                    ,20 ,16/01/2559 20:00
-,
 3911605,INDIV SP CCHG     ,3  ,                                                                                ,          ,         ,          ,TDF      ,1  ,LECT ,AR,  ,  ,  ,  ,  ,  ,AR-AR    ,CUP7 ,1231 ,STAFF                        ,                    ,                    ,                    ,20 ,16/01/2559 20:00
-,
 3911606,INDIV SP PSY      ,3  ,                                                                                ,          ,         ,          ,TDF      ,1  ,LECT ,AR,  ,  ,  ,  ,  ,  ,AR-AR    ,CUP7 ,1231 ,STAFF                        ,                    ,                    ,                    ,20 ,16/01/2559 20:00
-,
 3911607,INDIV SP TECH     ,3  ,                                                                                ,          ,         ,          ,TDF      ,1  ,LECT ,IA,  ,  ,  ,  ,  ,  ,IA-IA    ,CUP8 ,2107 ,CCP                          ,                    ,                    ,                    ,20 ,16/01/2559 20:00
-,
 3912301,ACCT FIN BUD MGT  ,3  ,                                                                                ,          ,         ,          ,TDF      ,1  ,LECT ,WE,  ,  ,  ,  ,  ,  ,0900-1200,CUP7 ,1113 ,CMS,SGC                      ,                    ,                    ,                    ,40 ,16/01/2559 20:00
-,
 3912304,MGT HLTH FIT CTR  ,2  ,                                                                                ,          ,         ,          ,TDF      ,1  ,LECT ,MO,  ,  ,  ,  ,  ,  ,1000-1200,CUP7 ,1112 ,CMS                          ,                    ,                    ,                    ,40 ,16/01/2559 20:00
-,
 3912503,ADMIN PRIN ES MKTG,3  ,                                                                                ,          ,         ,          ,TDF      ,1  ,LECT ,TU,  ,  ,  ,  ,  ,  ,1300-1600,CUP7 ,1111 ,CMS                          ,                    ,                    ,                    ,10 ,16/01/2559 20:00
-,
 3912503,ADMIN PRIN ES MKTG,3  ,                                                                                ,          ,         ,          ,TDF      ,2  ,LECT ,SA,  ,  ,  ,  ,  ,  ,1300-1600,CUP7 ,1111 ,CMS                          ,                    ,                    ,                    ,10 ,16/01/2559 20:00
-,
 3912504,FIN BUD SP MGT    ,3  ,                                                                                ,          ,         ,          ,TDF      ,1  ,LECT ,WE,  ,  ,  ,  ,  ,  ,1300-1600,CUP7 ,1113 ,TGC,SGC                      ,                    ,                    ,                    ,10 ,16/01/2559 20:00
-,
 3912504,FIN BUD SP MGT    ,3  ,                                                                                ,          ,         ,          ,TDF      ,2  ,LECT ,FR,  ,  ,  ,  ,  ,  ,1700-2000,CUP7 ,1111 ,TGC,SGC                      ,                    ,                    ,                    ,10 ,16/01/2559 20:00
-,
 3912505,SP PUB REL        ,3  ,                                                                                ,          ,         ,          ,TDF      ,1  ,LECT ,MO,  ,  ,  ,  ,  ,  ,0900-1200,CUP7 ,1111 ,JTB                          ,                    ,                    ,                    ,20 ,16/01/2559 20:00
-,
 3912505,SP PUB REL        ,3  ,                                                                                ,          ,         ,          ,TDF      ,2  ,LECT ,FR,  ,  ,  ,  ,  ,  ,1700-2000,CUP7 ,1112 ,JTB                          ,                    ,                    ,                    ,20 ,16/01/2559 20:00
-,
 3912507,INDIV SP MGT      ,3  ,                                                                                ,          ,         ,          ,TDF      ,1  ,LECT ,IA,  ,  ,  ,  ,  ,  ,IA-IA    ,CUP7 ,1231 ,TGC                          ,                    ,                    ,                    ,10 ,16/01/2559 20:00
-,
 3912507,INDIV SP MGT      ,3  ,                                                                                ,          ,         ,          ,TDF      ,2  ,LECT ,IA,  ,  ,  ,  ,  ,  ,IA-IA    ,CUP7 ,1231 ,JTB                          ,                    ,                    ,                    ,10 ,16/01/2559 20:00
-,
 3912507,INDIV SP MGT      ,3  ,                                                                                ,          ,         ,          ,TDF      ,3  ,LECT ,IA,  ,  ,  ,  ,  ,  ,IA-IA    ,CUP7 ,1231 ,PLS                          ,                    ,                    ,                    ,10 ,16/01/2559 20:00
-,
 3912602,BUS GLOB SP       ,3  ,                                                                                ,          ,         ,          ,TDF      ,1  ,LECT ,WE,  ,  ,  ,  ,  ,  ,0900-1200,CUP7 ,1112 ,JTB,PLS                      ,                    ,                    ,                    ,20 ,16/01/2559 20:00
-,
 3912607,INDIV SP MGT      ,3  ,                                                                                ,          ,         ,          ,TDF      ,1  ,LECT ,IA,  ,  ,  ,  ,  ,  ,IA-IA    ,CUP7 ,1231 ,TGC,JTB                      ,                    ,                    ,                    ,20 ,16/01/2559 20:00
-,
 3913301,EX PRES GEN/SP GP ,3  ,                                                                                ,          ,         ,          ,TDF      ,1  ,LECT ,FR,  ,  ,  ,  ,  ,  ,0900-1200,CUP7 ,1113 ,SPB                          ,                    ,                    ,                    ,40 ,16/01/2559 20:00
-,
 3913303,PERSONAL HEALTH   ,3  ,                                                                                ,          ,         ,          ,TDF      ,1  ,LECT ,TH,  ,  ,  ,  ,  ,  ,0900-1200,CUP7 ,1113 ,WLW                          ,                    ,                    ,                    ,40 ,16/01/2559 20:00
-,
 3913304,MASSAGE HLTH      ,2  ,                                                                                ,          ,         ,          ,TDF      ,2  ,LECT ,WE,  ,  ,  ,  ,  ,  ,0800-1000,CUP7 ,1113 ,SSS,WLW                      ,FEMALE              ,                    ,                    ,20 ,16/01/2559 20:00
-,
 3913503,SOC BEH DET HLTH  ,3  ,                                                                                ,          ,         ,          ,TDF      ,1  ,LECT ,FR,  ,  ,  ,  ,  ,  ,0900-1200,CUP7 ,1231 ,SSS,WLW                      ,                    ,                    ,                    ,20 ,16/01/2559 20:00
-,
 3913503,SOC BEH DET HLTH  ,3  ,                                                                                ,          ,         ,          ,TDF      ,2  ,LECT ,FR,  ,  ,  ,  ,  ,  ,1700-2000,CUP7 ,1112 ,SSS,WLW                      ,                    ,                    ,                    ,20 ,16/01/2559 20:00
-,
 3913505,ADV LAB EX PHY    ,3  ,                                                                                ,          ,         ,          ,TDF      ,1  ,LECT ,WE,  ,  ,  ,  ,  ,  ,1300-1500,CUP8 ,2107 ,DSS                          ,                    ,                    ,                    ,20 ,16/01/2559 20:00
-,
 3913505,ADV LAB EX PHY    ,3  ,                                                                                ,          ,         ,          ,TDF      ,1  ,LAB  ,WE,  ,  ,  ,  ,  ,  ,1500-1700,CUP8 ,2107 ,DSS                          ,                    ,                    ,                    ,20 ,16/01/2559 20:00
-,
 3913505,ADV LAB EX PHY    ,3  ,                                                                                ,          ,         ,          ,TDF      ,2  ,LECT ,SA,  ,  ,  ,  ,  ,  ,1500-1700,CUP7 ,1113 ,DSS                          ,                    ,                    ,                    ,20 ,16/01/2559 20:00
-,
 3913505,ADV LAB EX PHY    ,3  ,                                                                                ,          ,         ,          ,TDF      ,2  ,LAB  ,SA,  ,  ,  ,  ,  ,  ,1700-2000,CUP7 ,1113 ,DSS                          ,                    ,                    ,                    ,20 ,16/01/2559 20:00
-,
 3913507,INDIV STUD HP     ,3  ,                                                                                ,          ,         ,          ,TDF      ,1  ,LECT ,IA,  ,  ,  ,  ,  ,  ,IA-IA    ,CUP7 ,1231 ,TKP                          ,                    ,                    ,                    ,10 ,16/01/2559 20:00
-,
 3913507,INDIV STUD HP     ,3  ,                                                                                ,          ,         ,          ,TDF      ,2  ,LECT ,IA,  ,  ,  ,  ,  ,  ,IA-IA    ,CUP7 ,1231 ,VKS                          ,                    ,                    ,                    ,10 ,16/01/2559 20:00
-,
 3913507,INDIV STUD HP     ,3  ,                                                                                ,          ,         ,          ,TDF      ,3  ,LECT ,IA,  ,  ,  ,  ,  ,  ,IA-IA    ,CUP7 ,1231 ,SSS                          ,                    ,                    ,                    ,10 ,16/01/2559 20:00
-,
 3913507,INDIV STUD HP     ,3  ,                                                                                ,          ,         ,          ,TDF      ,4  ,LECT ,IA,  ,  ,  ,  ,  ,  ,IA-IA    ,CUP7 ,1231 ,DSS                          ,                    ,                    ,                    ,10 ,16/01/2559 20:00
-,
 3913507,INDIV STUD HP     ,3  ,                                                                                ,          ,         ,          ,TDF      ,5  ,LECT ,IA,  ,  ,  ,  ,  ,  ,IA-IA    ,CUP7 ,1231 ,WLW                          ,                    ,                    ,                    ,10 ,16/01/2559 20:00
-,
 3913507,INDIV STUD HP     ,3  ,                                                                                ,          ,         ,          ,TDF      ,6  ,LECT ,IA,  ,  ,  ,  ,  ,  ,IA-IA    ,CUP7 ,1231 ,SKS                          ,                    ,                    ,                    ,10 ,16/01/2559 20:00
-,
 3913603,EX PROG DSGN HLTH ,3  ,                                                                                ,          ,         ,          ,TDF      ,1  ,LECT ,TH,  ,  ,  ,  ,  ,  ,1300-1600,CUP7 ,1113 ,VKS,DSS                      ,                    ,                    ,                    ,20 ,16/01/2559 20:00
-,
 3913606,INDIV EX PHYSIO   ,3  ,                                                                                ,          ,         ,          ,TDF      ,1  ,LECT ,AR,  ,  ,  ,  ,  ,  ,AR-AR    ,CUP7 ,1231 ,STAFF                        ,                    ,                    ,                    ,20 ,16/01/2559 20:00
-,
 3913607,INDIV HP          ,3  ,                                                                                ,          ,         ,          ,TDF      ,1  ,LECT ,AR,  ,  ,  ,  ,  ,  ,AR-AR    ,CUP7 ,1231 ,STAFF                        ,                    ,                    ,                    ,20 ,16/01/2559 20:00
-,
 3914101,REC QUAL LIFE DEV ,3  ,                                                                                ,          ,         ,          ,TDF      ,1  ,LECT ,FR,  ,  ,  ,  ,  ,  ,0900-1200,CUP13,710  ,GPD                          ,GENED-IN            ,                    ,                    ,30 ,16/01/2559 20:00
-,
 3914301,REC FAC MGT       ,3  ,                                                                                ,          ,         ,          ,TDF      ,1  ,LECT ,MO,  ,  ,  ,  ,  ,  ,1300-1600,CUP7 ,1113 ,UKN                          ,                    ,                    ,                    ,40 ,16/01/2559 20:00
-,
 3914303,R/T IND           ,3  ,                                                                                ,          ,         ,          ,TDF      ,1  ,LECT ,TH,  ,  ,  ,  ,  ,  ,0900-1200,CUP7 ,1111 ,SST                          ,                    ,                    ,                    ,30 ,16/01/2559 20:00
-,
 3914305,SP EVENT ORG      ,2  ,                                                                                ,          ,         ,          ,TDF      ,1  ,LECT ,WE,  ,  ,  ,  ,  ,  ,1300-1500,CUP13,401  ,GPD                          ,                    ,                    ,                    ,40 ,16/01/2559 20:00
-,
 3914503,MICE MANAGEMENT   ,3  ,                                                                                ,          ,         ,          ,TDF      ,1  ,LECT ,WE,  ,  ,  ,  ,  ,  ,0900-1200,CUP7 ,1111 ,GPD                          ,                    ,                    ,                    ,20 ,16/01/2559 20:00
-,
 3914503,MICE MANAGEMENT   ,3  ,                                                                                ,          ,         ,          ,TDF      ,2  ,LECT ,SA,  ,  ,  ,  ,  ,  ,1300-1600,CUP7 ,1112 ,GPD                          ,                    ,                    ,                    ,20 ,16/01/2559 20:00
-,
 3914505,INTL TOUR INDUS   ,3  ,                                                                                ,          ,         ,          ,TDF      ,1  ,LECT ,WE,  ,  ,  ,  ,  ,  ,1300-1600,CUP7 ,1231 ,SKK                          ,                    ,                    ,                    ,20 ,16/01/2559 20:00
-,
 3914505,INTL TOUR INDUS   ,3  ,                                                                                ,          ,         ,          ,TDF      ,2  ,LECT ,FR,  ,  ,  ,  ,  ,  ,1700-2000,CUP7 ,1113 ,SKK                          ,                    ,                    ,                    ,20 ,16/01/2559 20:00
-,
 3914507,INDIV SP REC TOUR ,3  ,                                                                                ,          ,         ,          ,TDF      ,1  ,LECT ,IA,  ,  ,  ,  ,  ,  ,IA-IA    ,CUP7 ,1231 ,SKK                          ,                    ,                    ,                    ,15 ,16/01/2559 20:00
-,
 3914507,INDIV SP REC TOUR ,3  ,                                                                                ,          ,         ,          ,TDF      ,2  ,LECT ,IA,  ,  ,  ,  ,  ,  ,IA-IA    ,CUP7 ,1231 ,STK                          ,                    ,                    ,                    ,15 ,16/01/2559 20:00
-,
 3914607,INDIV R/T         ,3  ,                                                                                ,          ,         ,          ,TDF      ,1  ,LECT ,IA,  ,  ,  ,  ,  ,  ,IA-IA    ,CUP7 ,1231 ,SKK,SST                      ,                    ,                    ,                    ,20 ,16/01/2559 20:00
-,
