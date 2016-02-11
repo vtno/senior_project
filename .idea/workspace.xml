@@ -2,39 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f4d31011-a354-42c1-bf75-1bdbea3a41fa" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CR92_Python/FixColumn/checkCR92Column.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/toCSV/CR92toCSV.py" afterPath="$PROJECT_DIR$/CR92_Python/toCSV/CR92toCSV.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/toCSV/RetrieveSchedule" afterPath="$PROJECT_DIR$/CR92_Python/toCSV/RetrieveSchedule" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/toCSV/__init__.py" afterPath="$PROJECT_DIR$/CR92_Python/toCSV/__init__.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/toCSV/toCSV.py" afterPath="$PROJECT_DIR$/toCSV.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Resources/CR92_CSV/02S20152.csv" afterPath="$PROJECT_DIR$/Resources/CR92_CSV/02S20152.csv" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Resources/CR92_CSV/20S20152.csv" afterPath="$PROJECT_DIR$/Resources/CR92_CSV/20S20152.csv" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Resources/CR92_CSV/21S20152.csv" afterPath="$PROJECT_DIR$/Resources/CR92_CSV/21S20152.csv" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Resources/CR92_CSV/22S20152.csv" afterPath="$PROJECT_DIR$/Resources/CR92_CSV/22S20152.csv" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Resources/CR92_CSV/23S20152.csv" afterPath="$PROJECT_DIR$/Resources/CR92_CSV/23S20152.csv" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Resources/CR92_CSV/24S20152.csv" afterPath="$PROJECT_DIR$/Resources/CR92_CSV/24S20152.csv" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Resources/CR92_CSV/25S20152.csv" afterPath="$PROJECT_DIR$/Resources/CR92_CSV/25S20152.csv" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Resources/CR92_CSV/26S20152.csv" afterPath="$PROJECT_DIR$/Resources/CR92_CSV/26S20152.csv" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Resources/CR92_CSV/27S20152.csv" afterPath="$PROJECT_DIR$/Resources/CR92_CSV/27S20152.csv" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Resources/CR92_CSV/28S20152.csv" afterPath="$PROJECT_DIR$/Resources/CR92_CSV/28S20152.csv" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Resources/CR92_CSV/29S20152.csv" afterPath="$PROJECT_DIR$/Resources/CR92_CSV/29S20152.csv" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Resources/CR92_CSV/30S20152.csv" afterPath="$PROJECT_DIR$/Resources/CR92_CSV/30S20152.csv" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Resources/CR92_CSV/31S20152.csv" afterPath="$PROJECT_DIR$/Resources/CR92_CSV/31S20152.csv" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Resources/CR92_CSV/32S20152.csv" afterPath="$PROJECT_DIR$/Resources/CR92_CSV/32S20152.csv" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Resources/CR92_CSV/33S20152.csv" afterPath="$PROJECT_DIR$/Resources/CR92_CSV/33S20152.csv" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Resources/CR92_CSV/34S20152.csv" afterPath="$PROJECT_DIR$/Resources/CR92_CSV/34S20152.csv" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Resources/CR92_CSV/35S20152.csv" afterPath="$PROJECT_DIR$/Resources/CR92_CSV/35S20152.csv" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Resources/CR92_CSV/36S20152.csv" afterPath="$PROJECT_DIR$/Resources/CR92_CSV/36S20152.csv" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Resources/CR92_CSV/37S20152.csv" afterPath="$PROJECT_DIR$/Resources/CR92_CSV/37S20152.csv" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Resources/CR92_CSV/38S20152.csv" afterPath="$PROJECT_DIR$/Resources/CR92_CSV/38S20152.csv" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Resources/CR92_CSV/39S20152.csv" afterPath="$PROJECT_DIR$/Resources/CR92_CSV/39S20152.csv" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Resources/CR92_CSV/40S20152.csv" afterPath="$PROJECT_DIR$/Resources/CR92_CSV/40S20152.csv" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Resources/CR92_CSV/51S20152.csv" afterPath="$PROJECT_DIR$/Resources/CR92_CSV/51S20152.csv" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Resources/CR92_CSV/53S20152.csv" afterPath="$PROJECT_DIR$/Resources/CR92_CSV/53S20152.csv" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Resources/CR92_CSV/55S20152.csv" afterPath="$PROJECT_DIR$/Resources/CR92_CSV/55S20152.csv" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Resources/CR92_CSV/99S20152.csv" afterPath="$PROJECT_DIR$/Resources/CR92_CSV/99S20152.csv" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/fixColumn/.idea/workspace.xml" afterPath="$PROJECT_DIR$/fixColumn/.idea/workspace.xml" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PyFixColumn/02S20152.csv" afterPath="" />
     </list>
     <ignored path="senior_project.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -206,20 +174,6 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="senior_project" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="senior_project" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="senior_project" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Resources" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -468,9 +422,9 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="423" y="462" width="1875" height="790" extended-state="0" />
-    <editor active="true" />
+    <editor active="false" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.1824" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.1824" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32863188" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32732317" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />

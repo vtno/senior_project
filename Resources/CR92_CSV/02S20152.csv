@@ -1,154 +1,77 @@
 0201102,THAI WISDOM       ,3  ,                                                                                ,          ,         ,          ,TDF      ,1  ,LECT ,WE,  ,  ,  ,  ,  ,  ,0900-1000,VIDHA,405  ,STAFF                        ,GENED-IN            ,                    ,                    ,40 ,16/01/2559 20:00
-,
 0201102,THAI WISDOM       ,3  ,                                                                                ,          ,         ,          ,TDF      ,1  ,FWK  ,WE,  ,  ,  ,  ,  ,  ,1000-1200,VIDHA,405  ,STAFF                        ,                    ,                    ,                    ,40 ,16/01/2559 20:00
-,
 0201102,THAI WISDOM       ,3  ,                                                                                ,          ,         ,          ,TDF      ,1  ,FWK  ,IA,  ,  ,  ,  ,  ,  ,IA-IA    ,     ,IA   ,STAFF                        ,                    ,                    ,                    ,40 ,16/01/2559 20:00
-,
 0201103,OUR CU            ,3  ,                                                                                ,          ,         ,          ,TDF      ,1  ,LECT ,WE,  ,  ,  ,  ,  ,  ,0900-1000,CUP13,610  ,STAFF                        ,GENED-IN            ,                    ,                    ,50 ,16/01/2559 20:00
-,
 0201103,OUR CU            ,3  ,                                                                                ,          ,         ,          ,TDF      ,1  ,DISC ,WE,  ,  ,  ,  ,  ,  ,1000-1100,CUP13,610  ,STAFF                        ,                    ,                    ,                    ,50 ,16/01/2559 20:00
-,
 0201103,OUR CU            ,3  ,                                                                                ,          ,         ,          ,TDF      ,1  ,PRAC ,WE,  ,  ,  ,  ,  ,  ,1100-1200,CUP13,610  ,STAFF                        ,                    ,                    ,                    ,50 ,16/01/2559 20:00
-,
 0201103,OUR CU            ,3  ,                                                                                ,          ,         ,          ,TDF      ,1  ,PRAC ,IA,  ,  ,  ,  ,  ,  ,IA-IA    ,     ,IA   ,STAFF                        ,                    ,                    ,                    ,50 ,16/01/2559 20:00
-,
 0201103,OUR CU            ,3  ,                                                                                ,          ,         ,          ,TDF      ,2  ,LECT ,WE,  ,  ,  ,  ,  ,  ,0900-1000,CUP13,701  ,STAFF                        ,GENED-IN            ,                    ,                    ,50 ,16/01/2559 20:00
-,
 0201103,OUR CU            ,3  ,                                                                                ,          ,         ,          ,TDF      ,2  ,DISC ,WE,  ,  ,  ,  ,  ,  ,1000-1100,CUP13,701  ,STAFF                        ,                    ,                    ,                    ,50 ,16/01/2559 20:00
-,
 0201103,OUR CU            ,3  ,                                                                                ,          ,         ,          ,TDF      ,2  ,PRAC ,WE,  ,  ,  ,  ,  ,  ,1100-1200,CUP13,701  ,STAFF                        ,                    ,                    ,                    ,50 ,16/01/2559 20:00
-,
 0201103,OUR CU            ,3  ,                                                                                ,          ,         ,          ,TDF      ,2  ,PRAC ,IA,  ,  ,  ,  ,  ,  ,IA-IA    ,     ,IA   ,STAFF                        ,                    ,                    ,                    ,50 ,16/01/2559 20:00
-,
 0201106,ART SCI FIND HAP  ,3  ,                                                                                ,          ,         ,          ,TDF      ,1  ,LECT ,TH,  ,  ,  ,  ,  ,  ,1300-1400,VIDHA,404  ,STAFF                        ,GENED-IN            ,                    ,                    ,60 ,16/01/2559 20:00
-,
 0201106,ART SCI FIND HAP  ,3  ,                                                                                ,          ,         ,          ,TDF      ,1  ,DISC ,TH,  ,  ,  ,  ,  ,  ,1400-1600,VIDHA,404  ,STAFF                        ,                    ,                    ,                    ,60 ,16/01/2559 20:00
-,
 0201107,LRN STUD ACT      ,3  ,                                                                                ,          ,         ,          ,TDF      ,1  ,LECT ,WE,  ,  ,  ,  ,  ,  ,1300-1400,PREMP,103  ,STAFF                        ,GENED-IN            ,                    ,                    ,80 ,16/01/2559 20:00
-,
 0201107,LRN STUD ACT      ,3  ,                                                                                ,          ,         ,          ,TDF      ,1  ,FWK  ,WE,  ,  ,  ,  ,  ,  ,1400-1600,PREMP,103  ,STAFF                        ,                    ,                    ,                    ,80 ,16/01/2559 20:00
-,
 0201107,LRN STUD ACT      ,3  ,                                                                                ,          ,         ,          ,TDF      ,1  ,FWK  ,IA,  ,  ,  ,  ,  ,  ,IA-IA    ,     ,IA   ,STAFF                        ,                    ,                    ,                    ,80 ,16/01/2559 20:00
-,
 0201107,LRN STUD ACT      ,3  ,                                                                                ,          ,         ,          ,TDF      ,2  ,LECT ,WE,  ,  ,  ,  ,  ,  ,1300-1400,PREMP,103  ,STAFF                        ,GENED-IN            ,                    ,                    ,80 ,16/01/2559 20:00
-,
 0201107,LRN STUD ACT      ,3  ,                                                                                ,          ,         ,          ,TDF      ,2  ,FWK  ,WE,  ,  ,  ,  ,  ,  ,1400-1600,PREMP,103  ,STAFF                        ,                    ,                    ,                    ,80 ,16/01/2559 20:00
-,
 0201107,LRN STUD ACT      ,3  ,                                                                                ,          ,         ,          ,TDF      ,2  ,FWK  ,IA,  ,  ,  ,  ,  ,  ,IA-IA    ,     ,IA   ,STAFF                        ,                    ,                    ,                    ,80 ,16/01/2559 20:00
-,
 0201108,FAMILY RELATIONS  ,3  ,                                                                                ,          ,         ,          ,TDF      ,1  ,LECT ,WE,  ,  ,  ,  ,  ,  ,0900-1200,VIDHA,101  ,STAFF                        ,GENED-IN            ,                    ,                    ,100,16/01/2559 20:00
-,
 0201109,INTRO EU INTEGRAT ,3  ,                                                                                ,          ,         ,          ,TDF      ,1  ,LECT ,WE,  ,  ,  ,  ,  ,  ,0900-1200,VIDHA,407  ,STAFF                        ,GENED-IN            ,                    ,                    ,60 ,16/01/2559 20:00
-,
 0201110,SICHANG STUDY     ,3  ,                                                                                ,          ,         ,          ,TDF      ,1  ,LECT ,FR,  ,  ,  ,  ,  ,  ,1400-1600,VIDHA,407  ,STAFF                        ,GENED-IN            ,                    ,                    ,55 ,16/01/2559 20:00
-,
 0201110,SICHANG STUDY     ,3  ,                                                                                ,          ,         ,          ,TDF      ,1  ,FWK  ,IA,  ,  ,  ,  ,  ,  ,IA-IA    ,     ,AR   ,STAFF                        ,                    ,                    ,                    ,55 ,16/01/2559 20:00
-,
 0201110,SICHANG STUDY     ,3  ,                                                                                ,          ,         ,          ,TDF      ,1  ,IDPS ,IA,  ,  ,  ,  ,  ,  ,IA-IA    ,     ,AR   ,STAFF                        ,                    ,                    ,                    ,55 ,16/01/2559 20:00
-,
 0201111,WISDOM LIVING     ,3  ,                                                                                ,          ,         ,          ,TDF      ,1  ,LECT ,AR,  ,  ,  ,  ,  ,  ,AR-AR    ,DHAMA,1    ,STAFF                        ,GENED-IN            ,                    ,                    ,30 ,16/01/2559 20:00
-,
 0201121,LIFE REFL FILM    ,3  ,                                                                                ,          ,         ,          ,TDF      ,1  ,LECT ,WE,  ,  ,  ,  ,  ,  ,1300-1400,CUP13,609  ,STAFF                        ,GENED-IN            ,                    ,                    ,50 ,16/01/2559 20:00
-,
 0201121,LIFE REFL FILM    ,3  ,                                                                                ,          ,         ,          ,TDF      ,1  ,DISC ,WE,  ,  ,  ,  ,  ,  ,1400-1600,CUP13,609  ,STAFF                        ,                    ,                    ,                    ,50 ,16/01/2559 20:00
-,
 0201121,LIFE REFL FILM    ,3  ,                                                                                ,          ,         ,          ,TDF      ,2  ,LECT ,TH,  ,  ,  ,  ,  ,  ,0900-1000,CUP13,610  ,STAFF                        ,GENED-IN            ,                    ,                    ,50 ,16/01/2559 20:00
-,
 0201121,LIFE REFL FILM    ,3  ,                                                                                ,          ,         ,          ,TDF      ,2  ,DISC ,TH,  ,  ,  ,  ,  ,  ,1000-1200,CUP13,610  ,STAFF                        ,                    ,                    ,                    ,50 ,16/01/2559 20:00
-,
 0201122,MGT PUB DISASTER  ,3  ,                                                                                ,          ,         ,          ,TDF      ,1  ,LECT ,TU,  ,  ,  ,  ,  ,  ,1300-1600,VIDHA,101  ,STAFF                        ,GENED-IN            ,                    ,                    ,100,16/01/2559 20:00
-,
 0201130,IND BUS MGT       ,3  ,                                                                                ,          ,         ,          ,TDF      ,2  ,LECT ,MO,  ,  ,  ,  ,  ,  ,0900-1100,ENG4 ,4409 ,STAFF                        ,GENED-IN            ,                    ,                    ,100,16/01/2559 20:00
-,
 0201130,IND BUS MGT       ,3  ,                                                                                ,          ,         ,          ,TDF      ,2  ,DISC ,MO,  ,  ,  ,  ,  ,  ,1100-1200,ENG4 ,4409 ,STAFF                        ,                    ,                    ,                    ,100,16/01/2559 20:00
-,
 0201141,COAST ENV         ,3  ,                                                                                ,          ,         ,          ,TDF      ,1  ,LECT ,FR,  ,  ,  ,  ,  ,  ,0900-1000,VIDHA,404  ,STAFF                        ,GENED-IN            ,                    ,                    ,40 ,16/01/2559 20:00
-,
 0201141,COAST ENV         ,3  ,                                                                                ,          ,         ,          ,TDF      ,1  ,DISC ,FR,  ,  ,  ,  ,  ,  ,1000-1100,VIDHA,404  ,STAFF                        ,                    ,                    ,                    ,40 ,16/01/2559 20:00
-,
 0201141,COAST ENV         ,3  ,                                                                                ,          ,         ,          ,TDF      ,1  ,FWK  ,FR,  ,  ,  ,  ,  ,  ,1100-1200,VIDHA,404  ,STAFF                        ,                    ,                    ,                    ,40 ,16/01/2559 20:00
-,
 0201141,COAST ENV         ,3  ,                                                                                ,          ,         ,          ,TDF      ,1  ,FWK  ,IA,  ,  ,  ,  ,  ,  ,IA-IA    ,     ,IA   ,STAFF                        ,                    ,                    ,                    ,40 ,16/01/2559 20:00
-,
 0201151,OUR ENVIRONMENT   ,3  ,                                                                                ,          ,         ,          ,TDF      ,1  ,LECT ,WE,  ,  ,  ,  ,  ,  ,1300-1600,MAHIT,702  ,STAFF                        ,GENED-IN            ,                    ,                    ,40 ,16/01/2559 20:00
-,
 0201153,WASTE MANAGEMENT  ,3  ,                                                                                ,          ,         ,          ,TDF      ,1  ,LECT ,TU,  ,  ,  ,  ,  ,  ,1300-1600,VIDHA,404  ,STAFF                        ,GENED-IN            ,                    ,                    ,40 ,16/01/2559 20:00
-,
 0201154,URB GLOB WRMG     ,3  ,                                                                                ,          ,         ,07/05/2559,1300-1600,1  ,LECT ,TH,  ,  ,  ,  ,  ,  ,1300-1600,VIDHA,403A ,STAFF                        ,GENED-IN            ,                    ,                    ,40 ,16/01/2559 20:00
-,
 0201170,MILITARY SCIENCE  ,3  ,                                                                                ,          ,         ,          ,TDF      ,1  ,LECT ,TH,  ,  ,  ,  ,  ,  ,1300-1600,VIDHA,101  ,STAFF                        ,GENED-SO            ,                    ,                    ,40 ,16/01/2559 20:00
-,
 0201200,STUD PROC THAI SOC,3  ,                                                                                ,          ,         ,          ,TDF      ,1  ,LECT ,WE,  ,  ,  ,  ,  ,  ,1300-1500,CUP13,601  ,STAFF                        ,GENED-IN            ,                    ,                    ,100,16/01/2559 20:00
-,
 0201200,STUD PROC THAI SOC,3  ,                                                                                ,          ,         ,          ,TDF      ,1  ,FWK  ,WE,  ,  ,  ,  ,  ,  ,1500-1600,CUP13,601  ,STAFF                        ,                    ,                    ,                    ,100,16/01/2559 20:00
-,
 0201200,STUD PROC THAI SOC,3  ,                                                                                ,          ,         ,          ,TDF      ,1  ,FWK  ,IA,  ,  ,  ,  ,  ,  ,IA-IA    ,     ,IA   ,STAFF                        ,                    ,                    ,                    ,100,16/01/2559 20:00
-,
 0201201,IDEAL GRADUATE I  ,3  ,                                                                                ,          ,         ,          ,TDF      ,1  ,LECT ,MO,  ,  ,  ,  ,  ,  ,1300-1600,VIDHA,407  ,STAFF                        ,GENED-IN            ,                    ,                    ,40 ,16/01/2559 20:00
-,
 0201201,IDEAL GRADUATE I  ,3  ,                                                                                ,          ,         ,          ,TDF      ,2  ,LECT ,MO,  ,  ,  ,  ,  ,  ,0900-1200,VIDHA,101  ,STAFF                        ,GENED-IN            ,                    ,                    ,40 ,16/01/2559 20:00
-,
 0201202,IDEAL GRADUATE II ,3  ,                                                                                ,          ,         ,          ,TDF      ,1  ,DISC ,TU,  ,  ,  ,  ,  ,  ,1300-1600,VIDHA,408  ,STAFF                        ,GENED-IN            ,                    ,                    ,40 ,16/01/2559 20:00
-,
 0201203,IDEAL GRADUATE III,3  ,                                                                                ,          ,         ,          ,TDF      ,1  ,DISC ,TU,  ,  ,  ,  ,  ,  ,0900-1200,VIDHA,407  ,STAFF                        ,GENED-IN            ,                    ,                    ,40 ,16/01/2559 20:00
-,
 0201204,IDEAL GRADUATE IV ,3  ,                                                                                ,          ,         ,          ,TDF      ,1  ,DISC ,TH,  ,  ,  ,  ,  ,  ,1300-1600,VIDHA,408  ,STAFF                        ,GENED-IN            ,                    ,                    ,40 ,16/01/2559 20:00
-,
 0201205,IDEAL GRADUATE V  ,3  ,                                                                                ,          ,         ,          ,TDF      ,1  ,DISC ,WE,  ,  ,  ,  ,  ,  ,1300-1600,VIDHA,408  ,STAFF                        ,GENED-IN            ,                    ,                    ,20 ,16/01/2559 20:00
-,
 0201209,VALUE URB ENV     ,3  ,                                                                                ,          ,         ,          ,TDF      ,1  ,LECT ,TH,  ,  ,  ,  ,  ,  ,1300-1400,VIDHA,405  ,STAFF                        ,GENED-IN            ,                    ,                    ,40 ,16/01/2559 20:00
-,
 0201209,VALUE URB ENV     ,3  ,                                                                                ,          ,         ,          ,TDF      ,1  ,DISC ,TH,  ,  ,  ,  ,  ,  ,1400-1500,VIDHA,405  ,STAFF                        ,                    ,                    ,                    ,40 ,16/01/2559 20:00
-,
 0201209,VALUE URB ENV     ,3  ,                                                                                ,          ,         ,          ,TDF      ,1  ,FWK  ,TH,  ,  ,  ,  ,  ,  ,1500-1600,VIDHA,405  ,STAFF                        ,                    ,                    ,                    ,40 ,16/01/2559 20:00
-,
 0201209,VALUE URB ENV     ,3  ,                                                                                ,          ,         ,          ,TDF      ,1  ,FWK  ,IA,  ,  ,  ,  ,  ,  ,IA-IA    ,     ,IA   ,STAFF                        ,                    ,                    ,                    ,40 ,16/01/2559 20:00
-,
 0201210,MAT MGT GREEN     ,3  ,                                                                                ,          ,         ,          ,TDF      ,1  ,LECT ,FR,  ,  ,  ,  ,  ,  ,1300-1600,VIDHA,404  ,STAFF                        ,GENED-IN            ,                    ,                    ,50 ,16/01/2559 20:00
-,
 0201211,MEDITAT LIFE DEV  ,3  ,                                                                                ,          ,         ,          ,TDF      ,1  ,LECT ,WE,  ,  ,  ,  ,  ,  ,1300-1500,CUP13,608  ,STAFF                        ,GENED-HU            ,                    ,                    ,80 ,16/01/2559 20:00
-,
 0201211,MEDITAT LIFE DEV  ,3  ,                                                                                ,          ,         ,          ,TDF      ,1  ,PRAC ,WE,  ,  ,  ,  ,  ,  ,1500-1600,CUP13,608  ,STAFF                        ,                    ,                    ,                    ,80 ,16/01/2559 20:00
-,
 0201211,MEDITAT LIFE DEV  ,3  ,                                                                                ,          ,         ,          ,TDF      ,1  ,PRAC ,IA,  ,  ,  ,  ,  ,  ,IA-IA    ,     ,IA   ,STAFF                        ,                    ,                    ,                    ,80 ,16/01/2559 20:00
-,
 0201211,MEDITAT LIFE DEV  ,3  ,                                                                                ,          ,         ,          ,TDF      ,2  ,LECT ,TH,  ,  ,  ,  ,  ,  ,1300-1500,CUP13,608  ,STAFF                        ,GENED-HU            ,                    ,                    ,80 ,16/01/2559 20:00
-,
 0201211,MEDITAT LIFE DEV  ,3  ,                                                                                ,          ,         ,          ,TDF      ,2  ,PRAC ,TH,  ,  ,  ,  ,  ,  ,1500-1600,CUP13,608  ,STAFF                        ,                    ,                    ,                    ,80 ,16/01/2559 20:00
-,
 0201211,MEDITAT LIFE DEV  ,3  ,                                                                                ,          ,         ,          ,TDF      ,2  ,PRAC ,IA,  ,  ,  ,  ,  ,  ,IA-IA    ,     ,IA   ,STAFF                        ,                    ,                    ,                    ,80 ,16/01/2559 20:00
-,
 0201231,URB COMM STUD     ,3  ,                                                                                ,          ,         ,          ,TDF      ,1  ,LECT ,FR,  ,  ,  ,  ,  ,  ,0900-1000,MAHIT,515  ,STAFF                        ,GENED-IN            ,                    ,                    ,30 ,16/01/2559 20:00
-,
 0201231,URB COMM STUD     ,3  ,                                                                                ,          ,         ,          ,TDF      ,1  ,SMNA ,FR,  ,  ,  ,  ,  ,  ,1000-1100,MAHIT,515  ,STAFF                        ,                    ,                    ,                    ,30 ,16/01/2559 20:00
-,
 0201231,URB COMM STUD     ,3  ,                                                                                ,          ,         ,          ,TDF      ,1  ,FWK  ,FR,  ,  ,  ,  ,  ,  ,1100-1200,MAHIT,515  ,STAFF                        ,                    ,                    ,                    ,30 ,16/01/2559 20:00
-,
 0201231,URB COMM STUD     ,3  ,                                                                                ,          ,         ,          ,TDF      ,1  ,FWK  ,IA,  ,  ,  ,  ,  ,  ,IA-IA    ,     ,IA   ,STAFF                        ,                    ,                    ,                    ,30 ,16/01/2559 20:00
-,
 0201231,URB COMM STUD     ,3  ,                                                                                ,          ,         ,          ,TDF      ,2  ,LECT ,FR,  ,  ,  ,  ,  ,  ,0900-1000,MAHIT,516  ,STAFF                        ,GENED-IN            ,                    ,                    ,30 ,16/01/2559 20:00
-,
 0201231,URB COMM STUD     ,3  ,                                                                                ,          ,         ,          ,TDF      ,2  ,SMNA ,FR,  ,  ,  ,  ,  ,  ,1000-1100,MAHIT,516  ,STAFF                        ,                    ,                    ,                    ,30 ,16/01/2559 20:00
-,
 0201231,URB COMM STUD     ,3  ,                                                                                ,          ,         ,          ,TDF      ,2  ,FWK  ,FR,  ,  ,  ,  ,  ,  ,1100-1200,MAHIT,516  ,STAFF                        ,                    ,                    ,                    ,30 ,16/01/2559 20:00
-,
 0201231,URB COMM STUD     ,3  ,                                                                                ,          ,         ,          ,TDF      ,2  ,FWK  ,IA,  ,  ,  ,  ,  ,  ,IA-IA    ,     ,IA   ,STAFF                        ,                    ,                    ,                    ,30 ,16/01/2559 20:00
-,
 0201232,MULTI STUD RUR DEV,3  ,                                                                                ,          ,         ,          ,TDF      ,1  ,LECT ,WE,  ,  ,  ,  ,  ,  ,1300-1400,VIDHA,404  ,SSK                          ,GENED-IN            ,                    ,                    ,45 ,16/01/2559 20:00
-,
 0201232,MULTI STUD RUR DEV,3  ,                                                                                ,          ,         ,          ,TDF      ,1  ,DISC ,WE,  ,  ,  ,  ,  ,  ,1400-1500,VIDHA,404  ,SSK                          ,                    ,                    ,                    ,45 ,16/01/2559 20:00
-,
 0201232,MULTI STUD RUR DEV,3  ,                                                                                ,          ,         ,          ,TDF      ,1  ,FWK  ,IA,  ,  ,  ,  ,  ,  ,IA-IA    ,     ,IA   ,SSK                          ,                    ,                    ,                    ,45 ,16/01/2559 20:00
-,
 0201251,P2 CONTROL        ,3  ,                                                                                ,          ,         ,          ,TDF      ,1  ,LECT ,TU,  ,  ,  ,  ,  ,  ,1300-1600,VIDHA,404  ,STAFF                        ,GENED-IN            ,                    ,                    ,45 ,16/01/2559 20:00
-,
 0201251,P2 CONTROL        ,3  ,                                                                                ,          ,         ,          ,TDF      ,2  ,LECT ,TH,  ,  ,  ,  ,  ,  ,1300-1600,VIDHA,403B ,STAFF                        ,GENED-IN            ,                    ,                    ,45 ,16/01/2559 20:00
-,
 0201252,ALT ENGY CONS     ,3  ,                                                                                ,          ,         ,          ,TDF      ,1  ,LECT ,WE,  ,  ,  ,  ,  ,  ,0900-1200,VIDHA,408  ,STAFF                        ,GENED-IN            ,                    ,                    ,50 ,16/01/2559 20:00
-,
 0201254,GLOB WARM ADAPT   ,3  ,                                                                                ,          ,         ,          ,TDF      ,1  ,LECT ,WE,  ,  ,  ,  ,  ,  ,0900-1200,VIDHA,404  ,STAFF                        ,GENED-IN            ,                    ,                    ,50 ,16/01/2559 20:00
-,
 0201255,ICT STRATEGIC MGT ,3  ,                                                                                ,          ,         ,          ,TDF      ,1  ,LECT ,TU,  ,  ,  ,  ,  ,  ,1300-1600,ENG3 ,315  ,PTP                          ,GENED-IN            ,                    ,                    ,60 ,16/01/2559 20:00
-,
 0201281,TEAM/ORG DEV      ,3  ,                                                                                ,          ,         ,          ,TDF      ,1  ,LECT ,WE,  ,  ,  ,  ,  ,  ,1300-1600,VIDHA,407  ,STAFF                        ,GENED-IN            ,                    ,                    ,45 ,16/01/2559 20:00
-,
