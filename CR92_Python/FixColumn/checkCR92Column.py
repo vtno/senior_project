@@ -8,8 +8,7 @@ class CheckCR92Column:
         self.row_list = [[]]
 
     def check_class_time(self, row):
-        self.row_list.append(row)
-        #check if the the column 8 is either class time (HH:MM - HH:MM) or TDF
+        #check if the the column 8 is either class time (HH.MM - HH.MM) or TDF
         column_7 = row[7]
         matchObj1 = re.match(r'.*-.*', column_7)
         matchObj2 = re.match(r'TDF', column_7)
@@ -20,11 +19,29 @@ class CheckCR92Column:
             #row now is the data to be written
             #append the data to the row
             self.row_list.append(row)
+            return
+        self.row_list.append(row)
+
+    def check_seat_amount(self, row):
+        #Seat column is row[24]
+        matchObj1 = re.match(r'[0-9]*', row[24]) #match a number in format X or XX
+        column = 24
+        #If the matchObj1 does not match, iterate row (>24) until meet the row that match the matchObj1
+        if matchObj1:
+            return
+        while not matchObj1:
+            matchObj1 = re.match(++column)
+
+        #Aggregrate column 21 with any other column after 21 which are not empty
+        #TBC...
 
 
-current_directory = os.getcwd() #/senior_project/CR92_Python/FixColumn/
-os.chdir("../../Resources/CR92_CSV")
-source_directory = os.getcwd()
+        return
+
+
+
+current_directory = os.path.dirname(__file__) #/senior_project/CR92_Python/FixColumn/
+source_directory = os.path.abspath(os.path.join(current_directory, os.pardir, os.pardir, "Resources", "CR92_CSV"))
 
 for filedir in glob.glob(source_directory + "/*.csv"):
     with open(filedir, 'r', newline='') as csvfile:
