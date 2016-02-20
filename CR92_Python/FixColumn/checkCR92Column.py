@@ -1,4 +1,4 @@
-import csv
+import csv, glob, os
 import re
 
 class CheckCR92Column:
@@ -18,15 +18,24 @@ class CheckCR92Column:
             for i in range(4, len(row)-1):
                 row[i] = row[i+1]
             #row now is the data to be written
+            #append the data to the row
             self.row_list.append(row)
 
-with open('21S20152.csv', 'r', newline='') as csvfile:
-    CSV_Reader = csv.reader(csvfile)
-    check_cr92_column = CheckCR92Column()
-    del check_cr92_column.row_list[0]
-    for row in CSV_Reader:
-        check_cr92_column.check_class_time(row)
-    with open('21S20152_test.csv', 'w', newline='') as csvfile:
-        CSV_writer = csv.writer(csvfile)
-        for each_row in check_cr92_column.row_list:
-                CSV_writer.writerow(each_row)
+
+current_directory = os.getcwd() #/senior_project/CR92_Python/FixColumn/
+os.chdir("../../Resources/CR92_CSV")
+source_directory = os.getcwd()
+
+for filedir in glob.glob(source_directory + "/*.csv"):
+    with open(filedir, 'r', newline='') as csvfile:
+        CSV_Reader = csv.reader(csvfile)
+        check_cr92_column = CheckCR92Column()
+        del check_cr92_column.row_list[0]
+        for row in CSV_Reader:
+            check_cr92_column.check_class_time(row)
+
+        with open(filedir, 'w', newline='') as csvfile:
+            CSV_writer = csv.writer(csvfile)
+            for each_row in check_cr92_column.row_list:
+                    CSV_writer.writerow(each_row)
+
