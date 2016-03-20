@@ -12,14 +12,14 @@ class CheckCR92Column:
         column_7 = row[7]
         matchObj1 = re.match(r'.*-.*', column_7)
         matchObj2 = re.match(r'TDF', column_7)
-        if not (matchObj1 or matchObj2):
-            row[3] = row[3] + row[4]
+        while not (matchObj1 or matchObj2):
+            row[3] = row[3] + " " + row[4]
             for i in range(4, len(row)-1):
                 row[i] = row[i+1]
             #row now is the data to be written
             #append the data to the row
-            self.row_list.append(row)
-            return
+            matchObj1 = re.match(r'.*-.*', row[7])
+            matchObj2 = re.match(r'TDF', row[7])
         self.row_list.append(row)
 
     def check_seat_amount(self, row):
