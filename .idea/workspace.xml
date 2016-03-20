@@ -3,26 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="f4d31011-a354-42c1-bf75-1bdbea3a41fa" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/CR92_Python/FixColumn/checkCR92Column.py" afterPath="$PROJECT_DIR$/CR92_Python/FixColumn/checkCR92Column.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/CR92_Python/toCSV/CR92toCSV.py" afterPath="$PROJECT_DIR$/CR92_Python/toCSV/CR92toCSV.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Resources/CR92_CSV/21S20152.csv" afterPath="$PROJECT_DIR$/Resources/CR92_CSV/21S20152.csv" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Resources/CR92_CSV/23S20152.csv" afterPath="$PROJECT_DIR$/Resources/CR92_CSV/23S20152.csv" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Resources/CR92_CSV/24S20152.csv" afterPath="$PROJECT_DIR$/Resources/CR92_CSV/24S20152.csv" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Resources/CR92_CSV/25S20152.csv" afterPath="$PROJECT_DIR$/Resources/CR92_CSV/25S20152.csv" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Resources/CR92_CSV/26S20152.csv" afterPath="$PROJECT_DIR$/Resources/CR92_CSV/26S20152.csv" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Resources/CR92_CSV/27S20152.csv" afterPath="$PROJECT_DIR$/Resources/CR92_CSV/27S20152.csv" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Resources/CR92_CSV/28S20152.csv" afterPath="$PROJECT_DIR$/Resources/CR92_CSV/28S20152.csv" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Resources/CR92_CSV/29S20152.csv" afterPath="$PROJECT_DIR$/Resources/CR92_CSV/29S20152.csv" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Resources/CR92_CSV/30S20152.csv" afterPath="$PROJECT_DIR$/Resources/CR92_CSV/30S20152.csv" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Resources/CR92_CSV/31S20152.csv" afterPath="$PROJECT_DIR$/Resources/CR92_CSV/31S20152.csv" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Resources/CR92_CSV/32S20152.csv" afterPath="$PROJECT_DIR$/Resources/CR92_CSV/32S20152.csv" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Resources/CR92_CSV/33S20152.csv" afterPath="$PROJECT_DIR$/Resources/CR92_CSV/33S20152.csv" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Resources/CR92_CSV/35S20152.csv" afterPath="$PROJECT_DIR$/Resources/CR92_CSV/35S20152.csv" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Resources/CR92_CSV/37S20152.csv" afterPath="$PROJECT_DIR$/Resources/CR92_CSV/37S20152.csv" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Resources/CR92_CSV/38S20152.csv" afterPath="$PROJECT_DIR$/Resources/CR92_CSV/38S20152.csv" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Resources/CR92_CSV/39S20152.csv" afterPath="$PROJECT_DIR$/Resources/CR92_CSV/39S20152.csv" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Resources/CR92_CSV/40S20152.csv" afterPath="$PROJECT_DIR$/Resources/CR92_CSV/40S20152.csv" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Resources/CR92_CSV/55S20152.csv" afterPath="$PROJECT_DIR$/Resources/CR92_CSV/55S20152.csv" />
     </list>
     <ignored path="senior_project.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -61,8 +41,8 @@
       <file leaf-file-name="checkCR92Column.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/CR92_Python/FixColumn/checkCR92Column.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-0.15727699">
-              <caret line="30" column="18" selection-start-line="30" selection-start-column="18" selection-end-line="30" selection-end-column="18" />
+            <state vertical-scroll-proportion="-0.41079813">
+              <caret line="18" column="46" selection-start-line="18" selection-start-column="46" selection-end-line="18" selection-end-column="46" />
               <folding />
             </state>
           </provider>
@@ -136,8 +116,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="Scratches" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -489,8 +469,8 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-11" y="-11" width="1942" height="1046" extended-state="6" />
-    <editor active="false" />
+    <frame x="-11" y="-11" width="1942" height="1046" extended-state="7" />
+    <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.1859375" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32863188" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -910,8 +890,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/CR92_Python/FixColumn/checkCR92Column.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-0.15727699">
-          <caret line="30" column="18" selection-start-line="30" selection-start-column="18" selection-end-line="30" selection-end-column="18" />
+        <state vertical-scroll-proportion="-0.41079813">
+          <caret line="18" column="46" selection-start-line="18" selection-start-column="46" selection-end-line="18" selection-end-column="46" />
           <folding />
         </state>
       </provider>
